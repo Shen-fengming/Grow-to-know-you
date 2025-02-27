@@ -1,0 +1,16 @@
+{
+  "name": "grow-to-know-you",
+  "version": "1.0.0",
+  "description": "A software aimed at detecting and analyzing words and grammars from video with Japanese subtitles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shen-Fengming",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.8.1",
+    "debug": "^4.4.0",
+    "dotenv": "^16.4.7"
+  }
+}
