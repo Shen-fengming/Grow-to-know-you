@@ -2,7 +2,7 @@ import fs from "fs";
 import path from "path";
 import axios from "axios";
 import dotenv from "dotenv";
-import { loadFile,processJson,processChatGPTResponse } from "./fileManipulator.js";
+import { loadFile,processJson} from "./fileManipulator.js";
 import debug from "debug";
 
 dotenv.config();
@@ -15,6 +15,15 @@ const userPromptPath = "";
 const exampleGroupedSubtitlePath = "tests/data/groupedSubtitle.txt";
 
 const llmGrammarExtratorDebug = debug('llmGrammarExtratorDebug');
+
+function processChatGPTResponse(fileContent){
+    try{
+        const cleanResponse = (fileContent.match(/```([\s\S]*?)```/)) ? fileContent.match(/```([\s\S]*?)```/)[1].trim().replace(/^json\n/, '') : null;
+        return cleanResponse;
+    } catch (error) {
+        console.error('Error processing ChatGpt response: ',error);
+    }
+}
 
 async function llmWordGrammarDetection(groupedSubtitle) {
     const headers = {
@@ -64,9 +73,8 @@ async function main(){
         const responseContent = await llmWordGrammarDetection(exampleGroupedSubtitle);
 
         const responseInJson = processJson(processChatGPTResponse(responseContent));
-        llmGrammarExtratorDebug("Example result: \n", responseInJson);
+        llmGrammarExtratorDebug("Example json of chat llm grammar extractor: \n", responseInJson);
 
-        
     } catch (error) {
         console.error("Error testing llmGrammarExtractor.js: ", error);
     }

@@ -20,13 +20,4 @@ function processJson(fileContent){
     }
 }
 
-function processChatGPTResponse(fileContent){
-    try{
-        const cleanResponse = (fileContent.match(/```([\s\S]*?)```/)) ? fileContent.match(/```([\s\S]*?)```/)[1].trim().replace(/^json\n/, '') : null;
-        return cleanResponse;
-    } catch (error) {
-        console.error('Error processing ChatGpt response: ',error);
-    }
-}
-
-export {loadFile, processJson, processChatGPTResponse};
+export {loadFile, processJson};
