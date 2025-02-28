@@ -4,13 +4,14 @@ import axios from "axios";
 import dotenv from "dotenv";
 import debug from "debug";
 import cliProgress from "cli-progress";
-import { loadFile,processJson} from "./fileManipulator.js";
+import { loadFile, processJson, objectToJson, saveJSONToFile} from "./fileManipulator.js";
 import {extractDialogueAndTimeFromAss, groupSubtitles} from "./subtitleExtractor.js";
 
 dotenv.config();
 const apiKey = process.env.OPENAI_API_KEY;
 const llmUrl = "https://api.openai.com/v1/chat/completions";
-const systemPromptPath = "data/prompts/llmGrammarExtrator.txt";
+const grammarPromptPath = "data/prompts/llmGrammarExtrator.txt";
+const wordPromptPath = "data/prompts/llmWordExtrator.txt";
 const userPromptPath = "";
 const assFilePath = "tests/data/shortAss.ass";
 const validStyles = ["TextJP"];
@@ -31,14 +32,20 @@ function processChatGPTResponse(fileContent){
     }
 }
 
-async function llmWordGrammarDetection(groupedSubtitle) {
+async function llmWordGrammarDetection(groupedSubtitle,detectionType) {
     const headers = {
         "Content-Type": "application/json",
         Authorization: `Bearer ${apiKey}`,
     };
     llmGrammarExtratorDebug("headers: ", headers);
 
-    const systemPrompt = loadFile(systemPromptPath);
+    let systemPrompt;
+    if(detectionType === "grammar"){
+        systemPrompt = loadFile(grammarPromptPath);
+    }
+    else{
+        systemPrompt = loadFile(wordPromptPath);
+    }
     llmGrammarExtratorDebug("systemPrompt: ", systemPrompt);
 
     const userPrompt = `${groupedSubtitle}`;
@@ -72,13 +79,10 @@ async function llmWordGrammarDetection(groupedSubtitle) {
 }
 
 async function groupedSubtitlesGrammarDetection(groupedSubtitles, dialogueAndTime){
-    const detectedGrammar = {
-        grammarPoints: [],
-        words: []
-    };
+    const grammarPoints = [];
 
     const progressBar = new cliProgress.SingleBar({
-        format: 'Processing [{bar}] {percentage}% | {value}/{total} items',
+        format: 'Detecting grammars from [{bar}] {percentage}% | {value}/{total} items',
         barCompleteChar: '\u2588',
         barIncompleteChar: '\u2591',
         hideCursor: true
@@ -90,19 +94,19 @@ async function groupedSubtitlesGrammarDetection(groupedSubtitles, dialogueAndTim
         const cleanAssLineText = groupedSubtitles[i].text;
         const groupedIndex = groupedSubtitles[i].index;
 
-        const responseInJson = await llmWordGrammarDetection(cleanAssLineText);
+        const responseInJson = await llmWordGrammarDetection(cleanAssLineText,"grammar");
         const responseContent = processJson(processChatGPTResponse(responseInJson));
         //groupedDebug(`responseContent of ${i} :`, responseContent);
 
 
         if(responseInJson){
-            if(responseContent.grammar_points && Array.isArray(responseContent.grammar_points)){
-                for(let grammar of responseContent.grammar_points){
-                    const targetText = grammar.example_in_text.trim();
+            if(responseContent.grammarPoints && Array.isArray(responseContent.grammarPoints)){
+                for(let grammar of responseContent.grammarPoints){
+                    const targetText = grammar.exampleInText.trim();
                     const targetIndex = groupedIndex.find(subIndex => dialogueAndTime.subtitles[subIndex].trim().includes(targetText));
                     const targetTime = dialogueAndTime.time[targetIndex];
 
-                    detectedGrammar.grammarPoints.push({
+                    grammarPoints.push({
                         ...grammar,
                         index: targetIndex,
                         starttime: targetTime.at(0),
@@ -110,13 +114,43 @@ async function groupedSubtitlesGrammarDetection(groupedSubtitles, dialogueAndTim
                     });
                 }
             }
+        }
+        progressBar.update(i+1);
+    }
+    progressBar.stop();
+    groupedDebug("Grammar points: ", grammarPoints);
+    return grammarPoints;
+}
+
+async function groupedSubtitlesWordDetection(groupedSubtitles, dialogueAndTime){
+    const words = [];
+
+    const progressBar = new cliProgress.SingleBar({
+        format: 'Detecting words from [{bar}] {percentage}% | {value}/{total} groups',
+        barCompleteChar: '\u2588',
+        barIncompleteChar: '\u2591',
+        hideCursor: true
+    }, cliProgress.Presets.legacy);
+
+    progressBar.start(groupedSubtitles.length, 0);
+
+    for(let i = 0; i < groupedSubtitles.length; i++){
+        const cleanAssLineText = groupedSubtitles[i].text;
+        const groupedIndex = groupedSubtitles[i].index;
+
+        const responseInJson = await llmWordGrammarDetection(cleanAssLineText,"word");
+        const responseContent = processJson(processChatGPTResponse(responseInJson));
+        //groupedDebug(`responseContent of ${i} :`, responseContent);
+
+
+        if(responseInJson){
             if(responseContent.words && Array.isArray(responseContent.words)){
                 for(let word of responseContent.words){
-                    const targetText = word.example_in_text.trim();
+                    const targetText = word.exampleInText.trim();
                     const targetIndex = groupedIndex.find(subIndex => dialogueAndTime.subtitles[subIndex].trim().includes(targetText));
                     const targetTime = dialogueAndTime.time[targetIndex];
 
-                    detectedGrammar.words.push({
+                    words.push({
                         ...word,
                         index: targetIndex,
                         starttime: targetTime.at(0),
@@ -128,8 +162,8 @@ async function groupedSubtitlesGrammarDetection(groupedSubtitles, dialogueAndTim
         progressBar.update(i+1);
     }
     progressBar.stop();
-    groupedDebug("Detected grammar: ", detectedGrammar);
-    return detectedGrammar;
+    groupedDebug("Detected words: ", words);
+    return words;
 }
 
 async function main(){
@@ -151,8 +185,24 @@ async function tryGroupedSubtitlesGrammarDetection(){
     try {
         const dialogueAndTime = extractDialogueAndTimeFromAss(assFilePath, validStyles);
         const groupedSubtitles = groupSubtitles(dialogueAndTime, 50);
+        //console.log(groupedSubtitles)
 
-        const detectedGrammar = groupedSubtitlesGrammarDetection(groupedSubtitles, dialogueAndTime);
+        const detectedGrammar = await groupedSubtitlesGrammarDetection(groupedSubtitles, dialogueAndTime);
+        const detectedWord = await groupedSubtitlesWordDetection(groupedSubtitles, dialogueAndTime);
+
+        const combinedResult = {
+            grammar: detectedGrammar,
+            word: detectedWord
+        };
+        groupedDebug("combinedResult: ", combinedResult);
+
+        const jsonFilePath = assFilePath.replace(/\.ass$/, ".json");
+        groupedDebug("jsonFilePath: ", jsonFilePath);
+        const jsonData = objectToJson(combinedResult);
+        groupedDebug("Final jsonData: ", jsonData);
+
+        //saveJSONToFile(jsonFilePath,jsonData);
+
         //
 
     } catch (error) {
