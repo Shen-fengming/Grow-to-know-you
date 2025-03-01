@@ -1,0 +1,6772 @@
+{
+    "grammar": [
+        {
+            "exampleInText": "お伺いいたします",
+            "fuzzyMatch": "お伺いする",
+            "meaning": "表示谦逊的表达方式，通常用于表示去拜访或询问。",
+            "index": 0,
+            "starttime": "0:00:02.27",
+            "endtime": "0:00:05.90"
+        },
+        {
+            "exampleInText": "お時間をいただきありがとうございました",
+            "fuzzyMatch": "いただきありがとうございました",
+            "meaning": "表示感谢对方给予的时间，常用于礼貌的表达。",
+            "index": 1,
+            "starttime": "0:00:05.90",
+            "endtime": "0:00:08.48"
+        },
+        {
+            "exampleInText": "いらっしゃいましたよ",
+            "fuzzyMatch": "いらっしゃる",
+            "meaning": "表示尊敬的动作，通常用于表示来或去。",
+            "index": 2,
+            "starttime": "0:00:31.59",
+            "endtime": "0:00:34.43"
+        },
+        {
+            "exampleInText": "そろいましてよ",
+            "fuzzyMatch": "そろう",
+            "meaning": "表示集合或齐全的状态，通常用于描述人或物的到齐。",
+            "index": 3,
+            "starttime": "0:00:36.84",
+            "endtime": "0:00:39.06"
+        },
+        {
+            "exampleInText": "残るは あなただけ",
+            "fuzzyMatch": "残る",
+            "meaning": "表示剩下的状态，通常用于强调剩余的部分。",
+            "index": 4,
+            "starttime": "0:00:39.42",
+            "endtime": "0:00:40.71"
+        },
+        {
+            "exampleInText": "後戻りはできませんわよ",
+            "fuzzyMatch": "できません",
+            "meaning": "表示能力的否定，意为'不能'或'无法'。",
+            "index": 7,
+            "starttime": "0:00:45.85",
+            "endtime": "0:00:47.69"
+        },
+        {
+            "exampleInText": "いいご身分ですわね",
+            "fuzzyMatch": "いいご身分",
+            "meaning": "用于表达对某人地位或状况的羡慕或讽刺。",
+            "index": 10,
+            "starttime": "0:00:54.20",
+            "endtime": "0:00:55.70"
+        },
+        {
+            "exampleInText": "心配は結構",
+            "fuzzyMatch": "は結構",
+            "meaning": "表示对某事的评价或态度，通常用于表达某种程度的认可或接受。",
+            "index": 12,
+            "starttime": "0:00:58.71",
+            "endtime": "0:01:00.27"
+        },
+        {
+            "exampleInText": "弱い私は",
+            "fuzzyMatch": "弱い私",
+            "meaning": "表示主语的状态或特征，强调自我描述。",
+            "index": 13,
+            "starttime": "0:01:01.42",
+            "endtime": "0:01:02.68"
+        },
+        {
+            "exampleInText": "もう死にました",
+            "fuzzyMatch": "もう死にました",
+            "meaning": "表示某个状态或动作已经完成，强调时间的紧迫感。",
+            "index": 14,
+            "starttime": "0:01:03.74",
+            "endtime": "0:01:04.96"
+        },
+        {
+            "exampleInText": "ライブの打ち上げだから",
+            "fuzzyMatch": "だから",
+            "meaning": "表示因果关系，说明前述内容的原因或理由。",
+            "index": 17,
+            "starttime": "0:02:42.68",
+            "endtime": "0:02:44.64"
+        },
+        {
+            "exampleInText": "もういい～？",
+            "fuzzyMatch": "もういい",
+            "meaning": "表示对当前情况的厌倦或不满，询问是否可以结束或停止。",
+            "index": 18,
+            "starttime": "0:02:44.64",
+            "endtime": "0:02:45.86"
+        },
+        {
+            "exampleInText": "待って待って",
+            "fuzzyMatch": "待って",
+            "meaning": "表示请求对方暂停或等待的语气。",
+            "index": 19,
+            "starttime": "0:02:45.86",
+            "endtime": "0:02:47.20"
+        },
+        {
+            "exampleInText": "あげる",
+            "fuzzyMatch": "あげる",
+            "meaning": "表示给予或赠送的动作。",
+            "index": 20,
+            "starttime": "0:02:47.20",
+            "endtime": "0:02:48.36"
+        },
+        {
+            "exampleInText": "ダメ",
+            "fuzzyMatch": "ダメ",
+            "meaning": "表示禁止或不允许的意思。",
+            "index": 21,
+            "starttime": "0:02:48.36",
+            "endtime": "0:02:50.15"
+        },
+        {
+            "exampleInText": "いいって",
+            "fuzzyMatch": "いいって",
+            "meaning": "表示同意或确认的语气。",
+            "index": 22,
+            "starttime": "0:02:50.15",
+            "endtime": "0:02:51.65"
+        },
+        {
+            "exampleInText": "待ってんだから",
+            "fuzzyMatch": "てんだから",
+            "meaning": "表示原因或理由，强调前面的状态或动作。",
+            "index": 24,
+            "starttime": "0:02:54.78",
+            "endtime": "0:02:57.03"
+        },
+        {
+            "exampleInText": "緩すぎでしょう",
+            "fuzzyMatch": "すぎでしょう",
+            "meaning": "表示过度的状态，通常用于表达不满或批评。",
+            "index": 25,
+            "starttime": "0:02:58.04",
+            "endtime": "0:02:59.52"
+        },
+        {
+            "exampleInText": "それじゃ 飲み物持って",
+            "fuzzyMatch": "それじゃ",
+            "meaning": "表示转折或引出新的话题，通常用于引导后续的行动或建议。",
+            "index": 26,
+            "starttime": "0:03:00.54",
+            "endtime": "0:03:02.36"
+        },
+        {
+            "exampleInText": "時間ない中",
+            "fuzzyMatch": "ない中",
+            "meaning": "表示在某种限制或条件下进行某事。",
+            "index": 28,
+            "starttime": "0:03:03.52",
+            "endtime": "0:03:08.99"
+        },
+        {
+            "exampleInText": "衣装もできたし 新曲もできたし",
+            "fuzzyMatch": "もできたし",
+            "meaning": "用于列举多个事物或情况，强调并列关系。",
+            "index": 28,
+            "starttime": "0:03:03.52",
+            "endtime": "0:03:08.99"
+        },
+        {
+            "exampleInText": "ひと言 挨拶",
+            "fuzzyMatch": "ひと言",
+            "meaning": "表示简短的发言或问候。",
+            "index": 30,
+            "starttime": "0:03:13.00",
+            "endtime": "0:03:14.92"
+        },
+        {
+            "exampleInText": "一瞬で",
+            "fuzzyMatch": "一瞬で",
+            "meaning": "表示动作或状态在极短的时间内发生。",
+            "index": 32,
+            "starttime": "0:03:17.44",
+            "endtime": "0:03:19.67"
+        },
+        {
+            "exampleInText": "確かにある",
+            "fuzzyMatch": "確かにある",
+            "meaning": "表示某种状态或感受的确存在，强调其真实性。",
+            "index": 33,
+            "starttime": "0:03:20.18",
+            "endtime": "0:03:26.06"
+        },
+        {
+            "exampleInText": "重ねたら",
+            "fuzzyMatch": "たら",
+            "meaning": "表示假设条件，意为'如果...的话'。",
+            "index": 34,
+            "starttime": "0:03:26.45",
+            "endtime": "0:03:30.47"
+        },
+        {
+            "exampleInText": "一生になるんだと思う",
+            "fuzzyMatch": "と思う",
+            "meaning": "表示说话者的想法或推测，意为'我认为...'。",
+            "index": 35,
+            "starttime": "0:03:31.17",
+            "endtime": "0:03:33.08"
+        },
+        {
+            "exampleInText": "一瞬一瞬で 一生かぁ",
+            "fuzzyMatch": "で",
+            "meaning": "表示手段或状态，意为'通过...或在...中'。",
+            "index": 38,
+            "starttime": "0:03:37.32",
+            "endtime": "0:03:40.22"
+        },
+        {
+            "exampleInText": "あんまり想像つかないな～",
+            "fuzzyMatch": "あんまり～ない",
+            "meaning": "表示对某事物的程度或数量的否定，意为'不太'或'不怎么'。",
+            "index": 39,
+            "starttime": "0:03:40.22",
+            "endtime": "0:03:42.33"
+        },
+        {
+            "exampleInText": "本当に 死ぬまでバンドするつもり？",
+            "fuzzyMatch": "つもり",
+            "meaning": "表示意图或计划，意为'打算'或'计划'。",
+            "index": 41,
+            "starttime": "0:03:45.34",
+            "endtime": "0:03:47.71"
+        },
+        {
+            "exampleInText": "健康に気をつけないと",
+            "fuzzyMatch": "気をつけないと",
+            "meaning": "表示必须注意或小心某事，通常用于表达警告或建议。",
+            "index": 44,
+            "starttime": "0:03:51.18",
+            "endtime": "0:03:53.70"
+        },
+        {
+            "exampleInText": "健康にいいらしい",
+            "fuzzyMatch": "らしい",
+            "meaning": "表示听说或推测的语气，传达某种信息的来源或不确定性。",
+            "index": 49,
+            "starttime": "0:04:02.33",
+            "endtime": "0:04:04.45"
+        },
+        {
+            "exampleInText": "もう写真上げてる",
+            "fuzzyMatch": "上げてる",
+            "meaning": "表示动作的进行，通常用于口语中，强调某个动作已经在进行中。",
+            "index": 50,
+            "starttime": "0:04:09.65",
+            "endtime": "0:04:11.69"
+        },
+        {
+            "exampleInText": "私が送ってくから",
+            "fuzzyMatch": "送ってくから",
+            "meaning": "表示原因或理由，意为'因为我会送你'。",
+            "index": 53,
+            "starttime": "0:04:18.58",
+            "endtime": "0:04:21.17"
+        },
+        {
+            "exampleInText": "あそこだったよね",
+            "fuzzyMatch": "だったよね",
+            "meaning": "用于确认或回忆过去的状态或地点。",
+            "index": 58,
+            "starttime": "0:04:33.84",
+            "endtime": "0:04:36.12"
+        },
+        {
+            "exampleInText": "いつも ここで待ってた",
+            "fuzzyMatch": "待ってた",
+            "meaning": "表示过去某个时间段内的习惯性动作。",
+            "index": 60,
+            "starttime": "0:04:39.55",
+            "endtime": "0:04:43.18"
+        },
+        {
+            "exampleInText": "ず～っと燈ちゃんの話してたよ",
+            "fuzzyMatch": "ずっと",
+            "meaning": "表示持续的状态或动作，强调时间的延续。",
+            "index": 61,
+            "starttime": "0:04:46.81",
+            "endtime": "0:04:49.86"
+        },
+        {
+            "exampleInText": "ここがいい",
+            "fuzzyMatch": "がいい",
+            "meaning": "表示对某事物的评价或喜好，强调某个特定的部分。",
+            "index": 62,
+            "starttime": "0:04:50.69",
+            "endtime": "0:04:53.13"
+        },
+        {
+            "exampleInText": "こういう意味なんじゃないか",
+            "fuzzyMatch": "なんじゃないか",
+            "meaning": "表示推测或不确定的语气，通常用于表达对某事的看法或理解。",
+            "index": 63,
+            "starttime": "0:04:53.13",
+            "endtime": "0:04:55.22"
+        },
+        {
+            "exampleInText": "正直 分かんなかったな",
+            "fuzzyMatch": "分かんなかった",
+            "meaning": "表示过去的状态或情况，强调对某事的理解或认知的缺乏。",
+            "index": 64,
+            "starttime": "0:04:55.84",
+            "endtime": "0:04:57.76"
+        },
+        {
+            "exampleInText": "苦手だったんだ",
+            "fuzzyMatch": "苦手だ",
+            "meaning": "表示对某事物的苦手或不擅长，通常用于自我表述。",
+            "index": 65,
+            "starttime": "0:05:03.07",
+            "endtime": "0:05:07.71"
+        },
+        {
+            "exampleInText": "何ていうか",
+            "fuzzyMatch": "何ていうか",
+            "meaning": "用于引入解释或补充说明，表示说话者在思考如何表达。",
+            "index": 66,
+            "starttime": "0:05:08.90",
+            "endtime": "0:05:09.83"
+        },
+        {
+            "exampleInText": "むき出しでしょう？",
+            "fuzzyMatch": "むき出しだ",
+            "meaning": "表示某种状态的显露或暴露，通常带有强调的语气。",
+            "index": 67,
+            "starttime": "0:05:09.83",
+            "endtime": "0:05:11.48"
+        },
+        {
+            "exampleInText": "だって 言ってたけど",
+            "fuzzyMatch": "だって",
+            "meaning": "表示引用或转述他人所说的话，通常用于引入对话或观点。",
+            "index": 68,
+            "starttime": "0:05:12.09",
+            "endtime": "0:05:15.55"
+        },
+        {
+            "exampleInText": "多分 私の叫びでもあったの",
+            "fuzzyMatch": "でもあった",
+            "meaning": "表示某种可能性或假设，强调某事物的存在或情况。",
+            "index": 69,
+            "starttime": "0:05:16.57",
+            "endtime": "0:05:19.32"
+        },
+        {
+            "exampleInText": "気づくまで",
+            "fuzzyMatch": "気づくまで",
+            "meaning": "表示直到意识到某事为止，强调时间的延续。",
+            "index": 70,
+            "starttime": "0:05:22.61",
+            "endtime": "0:05:24.58"
+        },
+        {
+            "exampleInText": "かかっちゃった",
+            "fuzzyMatch": "かかっちゃった",
+            "meaning": "表示某个动作或状态花费了时间，通常带有轻微的口语化和非正式感。",
+            "index": 70,
+            "starttime": "0:05:22.61",
+            "endtime": "0:05:24.58"
+        },
+        {
+            "exampleInText": "すぐには分からなくて",
+            "fuzzyMatch": "すぐには分からなくて",
+            "meaning": "表示在某个时间点上，无法立即理解或意识到某事。",
+            "index": 71,
+            "starttime": "0:05:25.21",
+            "endtime": "0:05:29.22"
+        },
+        {
+            "exampleInText": "向き合ってなかったんだ",
+            "fuzzyMatch": "なかったんだ",
+            "meaning": "表示过去某个状态或动作未发生，强调对现状的反思。",
+            "index": 72,
+            "starttime": "0:05:30.18",
+            "endtime": "0:05:33.15"
+        },
+        {
+            "exampleInText": "受け入れてもらおうと",
+            "fuzzyMatch": "もらおうと",
+            "meaning": "表示为了得到某种帮助或结果而努力的意图。",
+            "index": 73,
+            "starttime": "0:05:35.10",
+            "endtime": "0:05:37.42"
+        },
+        {
+            "exampleInText": "しようとして",
+            "fuzzyMatch": "しようとして",
+            "meaning": "表示意图或尝试做某事。",
+            "index": 74,
+            "starttime": "0:05:37.98",
+            "endtime": "0:05:42.17"
+        },
+        {
+            "exampleInText": "じゃないか",
+            "fuzzyMatch": "じゃないか",
+            "meaning": "用于表达推测或反问，带有强调的语气。",
+            "index": 74,
+            "starttime": "0:05:37.98",
+            "endtime": "0:05:42.17"
+        },
+        {
+            "exampleInText": "考えだすと死にそうになる",
+            "fuzzyMatch": "だすと",
+            "meaning": "表示一旦发生某动作后，随之而来的结果或状态。",
+            "index": 75,
+            "starttime": "0:05:42.58",
+            "endtime": "0:05:46.14"
+        },
+        {
+            "exampleInText": "考えないようにしてた",
+            "fuzzyMatch": "ないようにする",
+            "meaning": "表示为了避免某种情况而采取的行为或努力。",
+            "index": 75,
+            "starttime": "0:05:42.58",
+            "endtime": "0:05:46.14"
+        },
+        {
+            "exampleInText": "向き合うってことだから",
+            "fuzzyMatch": "ってことだから",
+            "meaning": "表示解释或理由，强调前述内容的重要性或原因。",
+            "index": 76,
+            "starttime": "0:05:47.28",
+            "endtime": "0:05:52.44"
+        },
+        {
+            "exampleInText": "結構ヤバイんだよ",
+            "fuzzyMatch": "ヤバイんだよ",
+            "meaning": "用于强调某种状态或情况，通常带有强烈的情感色彩。",
+            "index": 77,
+            "starttime": "0:05:53.13",
+            "endtime": "0:05:54.49"
+        },
+        {
+            "exampleInText": "多分… 一生CRYCHICのこと忘れられないよ",
+            "fuzzyMatch": "多分",
+            "meaning": "表示不确定性，意为'可能'或'大概'。",
+            "index": 81,
+            "starttime": "0:06:03.42",
+            "endtime": "0:06:07.56"
+        },
+        {
+            "exampleInText": "一生CRYCHICのこと忘れられないよ",
+            "fuzzyMatch": "忘れられない",
+            "meaning": "表示无法忘记，强调某种情感或记忆的持久性。",
+            "index": 81,
+            "starttime": "0:06:03.42",
+            "endtime": "0:06:07.56"
+        },
+        {
+            "exampleInText": "目指す高校球児の戦い",
+            "fuzzyMatch": "目指す",
+            "meaning": "表示目标或目的，强调追求某个方向或目标。",
+            "index": 83,
+            "starttime": "0:06:15.69",
+            "endtime": "0:06:18.80"
+        },
+        {
+            "exampleInText": "出場するのは",
+            "fuzzyMatch": "出場する",
+            "meaning": "表示参加某个活动或比赛，强调参与的状态。",
+            "index": 86,
+            "starttime": "0:06:20.88",
+            "endtime": "0:06:23.25"
+        },
+        {
+            "exampleInText": "お幸せに",
+            "fuzzyMatch": "お幸せに",
+            "meaning": "用于祝福他人幸福，常用于告别时表达良好祝愿。",
+            "index": 92,
+            "starttime": "0:07:09.16",
+            "endtime": "0:07:10.45"
+        },
+        {
+            "exampleInText": "かわいくない",
+            "fuzzyMatch": "かわいくない",
+            "meaning": "表示否定形，意为'不可爱'。",
+            "index": 93,
+            "starttime": "0:07:23.48",
+            "endtime": "0:07:26.46"
+        },
+        {
+            "exampleInText": "アイスみたい",
+            "fuzzyMatch": "みたい",
+            "meaning": "表示比喻，意为'像...一样'。",
+            "index": 93,
+            "starttime": "0:07:23.48",
+            "endtime": "0:07:26.46"
+        },
+        {
+            "exampleInText": "来るまで",
+            "fuzzyMatch": "まで",
+            "meaning": "表示时间或空间的终点，意为'直到'。",
+            "index": 95,
+            "starttime": "0:07:31.96",
+            "endtime": "0:07:35.07"
+        },
+        {
+            "exampleInText": "本当に空飛んでるみたい",
+            "fuzzyMatch": "みたい",
+            "meaning": "表示推测或比喻，意为'好像'或'似乎'。",
+            "index": 97,
+            "starttime": "0:07:41.23",
+            "endtime": "0:07:43.70"
+        },
+        {
+            "exampleInText": "あげる",
+            "fuzzyMatch": "あげる",
+            "meaning": "表示给予的动作，通常用于说话者将某物给予他人。",
+            "index": 99,
+            "starttime": "0:07:50.87",
+            "endtime": "0:07:53.49"
+        },
+        {
+            "exampleInText": "いっぱいもらったから",
+            "fuzzyMatch": "いっぱいもらった",
+            "meaning": "表示数量很多，强调已经获得的东西。",
+            "index": 99,
+            "starttime": "0:07:50.87",
+            "endtime": "0:07:53.49"
+        },
+        {
+            "exampleInText": "作ろうかな",
+            "fuzzyMatch": "作ろうかな",
+            "meaning": "表示说话者的意图或考虑，带有不确定性。",
+            "index": 101,
+            "starttime": "0:07:57.26",
+            "endtime": "0:07:59.75"
+        },
+        {
+            "exampleInText": "貼れたらいいのに",
+            "fuzzyMatch": "たらいいのに",
+            "meaning": "表示希望或愿望，意为'如果能...就好了'。",
+            "index": 102,
+            "starttime": "0:08:00.46",
+            "endtime": "0:08:04.15"
+        },
+        {
+            "exampleInText": "貼ってもらったよ",
+            "fuzzyMatch": "てもらった",
+            "meaning": "表示请求或接受他人帮助，意为'被...做了'。",
+            "index": 103,
+            "starttime": "0:08:05.16",
+            "endtime": "0:08:08.46"
+        },
+        {
+            "exampleInText": "慰めてくれたでしょう",
+            "fuzzyMatch": "てくれたでしょう",
+            "meaning": "表示过去的动作或状态，通常带有确认的语气，意为'你曾经...吧'。",
+            "index": 104,
+            "starttime": "0:08:11.46",
+            "endtime": "0:08:13.48"
+        },
+        {
+            "exampleInText": "見つかって",
+            "fuzzyMatch": "見つかる",
+            "meaning": "表示被发现或被找到的状态。",
+            "index": 105,
+            "starttime": "0:08:13.48",
+            "endtime": "0:08:16.27"
+        },
+        {
+            "exampleInText": "夢中で",
+            "fuzzyMatch": "夢中",
+            "meaning": "表示全神贯注于某事，无法自拔的状态。",
+            "index": 106,
+            "starttime": "0:08:16.27",
+            "endtime": "0:08:18.91"
+        },
+        {
+            "exampleInText": "刺さった",
+            "fuzzyMatch": "刺さる",
+            "meaning": "表示某物刺入或穿透的状态。",
+            "index": 107,
+            "starttime": "0:08:18.91",
+            "endtime": "0:08:22.56"
+        },
+        {
+            "exampleInText": "そんなに？",
+            "fuzzyMatch": "そんなに",
+            "meaning": "用于询问程度或数量，表示惊讶或不解。",
+            "index": 109,
+            "starttime": "0:08:24.49",
+            "endtime": "0:08:25.40"
+        },
+        {
+            "exampleInText": "ちょっと いいこと言うから聞いて",
+            "fuzzyMatch": "ちょっといいこと言うから",
+            "meaning": "表示说话者将要说出一些好的事情，通常用于引起对方的注意。",
+            "index": 110,
+            "starttime": "0:08:25.40",
+            "endtime": "0:08:27.78"
+        },
+        {
+            "exampleInText": "一生やる",
+            "fuzzyMatch": "一生やる",
+            "meaning": "表示终生或一辈子做某事，强调时间的长久性。",
+            "index": 112,
+            "starttime": "0:08:31.47",
+            "endtime": "0:08:36.54"
+        },
+        {
+            "exampleInText": "頑張ってみる",
+            "fuzzyMatch": "頑張ってみる",
+            "meaning": "表示尝试去做某事，强调努力的意图。",
+            "index": 112,
+            "starttime": "0:08:31.47",
+            "endtime": "0:08:36.54"
+        },
+        {
+            "exampleInText": "途方もないけど",
+            "fuzzyMatch": "途方もない",
+            "meaning": "表示某事非常巨大或不可思议，通常用于表达对某事的感叹。",
+            "index": 113,
+            "starttime": "0:08:37.37",
+            "endtime": "0:08:39.24"
+        },
+        {
+            "exampleInText": "一瞬一瞬の積み重ねだったら",
+            "fuzzyMatch": "だったら",
+            "meaning": "表示假设条件，意为'如果是...的话'。",
+            "index": 114,
+            "starttime": "0:08:39.24",
+            "endtime": "0:08:43.42"
+        },
+        {
+            "exampleInText": "いけるのかもなぁって",
+            "fuzzyMatch": "かもなぁって",
+            "meaning": "表示推测或可能性，意为'可能会...'。",
+            "index": 114,
+            "starttime": "0:08:39.24",
+            "endtime": "0:08:43.42"
+        },
+        {
+            "exampleInText": "正直 自信ないし",
+            "fuzzyMatch": "ないし",
+            "meaning": "用于列举或补充说明，意为'没有...'。",
+            "index": 115,
+            "starttime": "0:08:43.89",
+            "endtime": "0:08:45.69"
+        },
+        {
+            "exampleInText": "わめいたりするかもだけど",
+            "fuzzyMatch": "たりするかも",
+            "meaning": "表示列举可能的行为，意为'可能会...之类的'。",
+            "index": 116,
+            "starttime": "0:08:45.69",
+            "endtime": "0:08:47.66"
+        },
+        {
+            "exampleInText": "以上で本日のプログラムは終了です",
+            "fuzzyMatch": "以上で",
+            "meaning": "表示某事物的结束或总结，通常用于正式场合。",
+            "index": 123,
+            "starttime": "0:09:08.34",
+            "endtime": "0:09:11.61"
+        },
+        {
+            "exampleInText": "段差がございますので",
+            "fuzzyMatch": "ございますので",
+            "meaning": "表示存在某种情况或状态，通常用于礼貌的表达。",
+            "index": 124,
+            "starttime": "0:09:11.92",
+            "endtime": "0:09:14.30"
+        },
+        {
+            "exampleInText": "お気をつけて",
+            "fuzzyMatch": "お気をつける",
+            "meaning": "表示对他人的关心，提醒注意安全或小心。",
+            "index": 125,
+            "starttime": "0:09:14.30",
+            "endtime": "0:09:16.92"
+        },
+        {
+            "exampleInText": "お帰りください",
+            "fuzzyMatch": "お帰りください",
+            "meaning": "表示请求或命令，通常用于礼貌地请人回家或离开。",
+            "index": 125,
+            "starttime": "0:09:14.30",
+            "endtime": "0:09:16.92"
+        },
+        {
+            "exampleInText": "怒ってる",
+            "fuzzyMatch": "ている",
+            "meaning": "表示状态或持续的动作，强调当前的情绪或状态。",
+            "index": 129,
+            "starttime": "0:09:22.54",
+            "endtime": "0:09:24.93"
+        },
+        {
+            "exampleInText": "会えたね",
+            "fuzzyMatch": "たね",
+            "meaning": "表示过去的动作或状态，带有感慨或确认的语气。",
+            "index": 131,
+            "starttime": "0:09:26.06",
+            "endtime": "0:09:27.29"
+        },
+        {
+            "exampleInText": "だよね",
+            "fuzzyMatch": "だよね",
+            "meaning": "用于确认或强调对方的理解，带有亲切感。",
+            "index": 132,
+            "starttime": "0:09:28.84",
+            "endtime": "0:09:30.93"
+        },
+        {
+            "exampleInText": "伝わる気がする",
+            "fuzzyMatch": "気がする",
+            "meaning": "表示说话者的感觉或想法，通常用于表达不确定的推测。",
+            "index": 134,
+            "starttime": "0:09:33.88",
+            "endtime": "0:09:36.18"
+        },
+        {
+            "exampleInText": "すみません",
+            "fuzzyMatch": "すみません",
+            "meaning": "用于道歉或引起他人注意的礼貌用语。",
+            "index": 136,
+            "starttime": "0:09:39.60",
+            "endtime": "0:09:41.58"
+        },
+        {
+            "exampleInText": "知っててくれて",
+            "fuzzyMatch": "知っててくれる",
+            "meaning": "表示对某事的了解或意识，强调对方的关心。",
+            "index": 137,
+            "starttime": "0:09:41.58",
+            "endtime": "0:09:44.96"
+        },
+        {
+            "exampleInText": "うれしい",
+            "fuzzyMatch": "うれしい",
+            "meaning": "表示高兴或愉快的情感。",
+            "index": 137,
+            "starttime": "0:09:41.58",
+            "endtime": "0:09:44.96"
+        },
+        {
+            "exampleInText": "優しい！",
+            "fuzzyMatch": "優しい",
+            "meaning": "表示温柔、友好或善良的性格特征。",
+            "index": 138,
+            "starttime": "0:09:45.28",
+            "endtime": "0:09:48.46"
+        },
+        {
+            "exampleInText": "本当に優しいんだ",
+            "fuzzyMatch": "本当に優しい",
+            "meaning": "强调某事的真实性或程度，表示确实如此。",
+            "index": 138,
+            "starttime": "0:09:45.28",
+            "endtime": "0:09:48.46"
+        },
+        {
+            "exampleInText": "どうしよう",
+            "fuzzyMatch": "どうしよう",
+            "meaning": "表示困惑或不知所措的状态，常用于表达对某种情况的无奈。",
+            "index": 139,
+            "starttime": "0:09:48.46",
+            "endtime": "0:09:50.71"
+        },
+        {
+            "exampleInText": "教えたでしょう",
+            "fuzzyMatch": "でしょう",
+            "meaning": "用于推测或确认，表示说话者认为对方应该知道或记得某事。",
+            "index": 141,
+            "starttime": "0:09:52.42",
+            "endtime": "0:09:54.72"
+        },
+        {
+            "exampleInText": "初めて一緒にカラオケ行ったとき",
+            "fuzzyMatch": "とき",
+            "meaning": "表示某个动作或状态发生的时间点。",
+            "index": 142,
+            "starttime": "0:09:54.72",
+            "endtime": "0:09:57.58"
+        },
+        {
+            "exampleInText": "それで良かったから",
+            "fuzzyMatch": "から",
+            "meaning": "表示原因或理由。",
+            "index": 144,
+            "starttime": "0:09:59.17",
+            "endtime": "0:10:01.24"
+        },
+        {
+            "exampleInText": "伝わった？",
+            "fuzzyMatch": "伝わった",
+            "meaning": "表示某个信息是否被理解或传达。",
+            "index": 146,
+            "starttime": "0:10:02.61",
+            "endtime": "0:10:03.58"
+        },
+        {
+            "exampleInText": "良かった",
+            "fuzzyMatch": "良かった",
+            "meaning": "表示对某事的满意或感到高兴，通常用于过去的状态。",
+            "index": 148,
+            "starttime": "0:10:06.42",
+            "endtime": "0:10:07.45"
+        },
+        {
+            "exampleInText": "知り合い？",
+            "fuzzyMatch": "知り合い",
+            "meaning": "表示询问对方是否认识某人或某事。",
+            "index": 149,
+            "starttime": "0:10:07.45",
+            "endtime": "0:10:08.50"
+        },
+        {
+            "exampleInText": "ううん",
+            "fuzzyMatch": "ううん",
+            "meaning": "表示否定或拒绝，通常用于口语中。",
+            "index": 150,
+            "starttime": "0:10:08.50",
+            "endtime": "0:10:12.20"
+        },
+        {
+            "exampleInText": "この間",
+            "fuzzyMatch": "この間",
+            "meaning": "表示最近的某个时间，通常指不久前的事情。",
+            "index": 150,
+            "starttime": "0:10:08.50",
+            "endtime": "0:10:12.20"
+        },
+        {
+            "exampleInText": "バンドやってるの？",
+            "fuzzyMatch": "やってるの",
+            "meaning": "表示正在进行的动作或状态，通常用于询问对方的活动。",
+            "index": 151,
+            "starttime": "0:10:12.60",
+            "endtime": "0:10:13.67"
+        },
+        {
+            "exampleInText": "っていうんですけど",
+            "fuzzyMatch": "っていう",
+            "meaning": "用于引用或解释前面的内容，表示说话者的说明或定义。",
+            "index": 155,
+            "starttime": "0:10:18.08",
+            "endtime": "0:10:21.78"
+        },
+        {
+            "exampleInText": "よくないですか",
+            "fuzzyMatch": "よくないですか",
+            "meaning": "用于询问对某事的看法，表示不太好或不合适的意思。",
+            "index": 155,
+            "starttime": "0:10:18.08",
+            "endtime": "0:10:21.78"
+        },
+        {
+            "exampleInText": "知らなかったんだもんね",
+            "fuzzyMatch": "知らなかったんだ",
+            "meaning": "表示对过去状态的解释或理由，通常带有一定的情感色彩。",
+            "index": 165,
+            "starttime": "0:10:41.74",
+            "endtime": "0:10:45.12"
+        },
+        {
+            "exampleInText": "知ってたね",
+            "fuzzyMatch": "知ってた",
+            "meaning": "表示过去的状态或动作，强调对某事的了解。",
+            "index": 166,
+            "starttime": "0:10:45.71",
+            "endtime": "0:10:50.14"
+        },
+        {
+            "exampleInText": "言ってない気がする",
+            "fuzzyMatch": "言ってない",
+            "meaning": "表示某个动作未发生，通常用于表达不确定或怀疑的感觉。",
+            "index": 167,
+            "starttime": "0:10:51.45",
+            "endtime": "0:10:54.14"
+        },
+        {
+            "exampleInText": "まで あと30分ですが",
+            "fuzzyMatch": "まで あと",
+            "meaning": "表示距离某个时间或事件的剩余时间。",
+            "index": 173,
+            "starttime": "0:11:16.25",
+            "endtime": "0:11:18.28"
+        },
+        {
+            "exampleInText": "今向かってる",
+            "fuzzyMatch": "向かってる",
+            "meaning": "表示正在朝某个方向或目标前进。",
+            "index": 174,
+            "starttime": "0:11:18.28",
+            "endtime": "0:11:21.67"
+        },
+        {
+            "exampleInText": "ちょっと星を見てたんだ",
+            "fuzzyMatch": "見てたんだ",
+            "meaning": "表示过去某个时间点的状态或动作，带有叙述的语气。",
+            "index": 174,
+            "starttime": "0:11:18.28",
+            "endtime": "0:11:21.67"
+        },
+        {
+            "exampleInText": "確認したいそうで",
+            "fuzzyMatch": "したいそうで",
+            "meaning": "表示想要做某事的意愿，并且引述他人的说法。",
+            "index": 183,
+            "starttime": "0:11:52.94",
+            "endtime": "0:11:56.07"
+        },
+        {
+            "exampleInText": "すぐ戻ります",
+            "fuzzyMatch": "すぐ戻る",
+            "meaning": "表示动作将很快发生，强调时间的紧迫性。",
+            "index": 184,
+            "starttime": "0:11:57.03",
+            "endtime": "0:11:59.47"
+        },
+        {
+            "exampleInText": "お披露目ライブ",
+            "fuzzyMatch": "お披露目",
+            "meaning": "表示首次展示或公开的活动。",
+            "index": 186,
+            "starttime": "0:12:02.45",
+            "endtime": "0:12:04.87"
+        },
+        {
+            "exampleInText": "じゃなくって",
+            "fuzzyMatch": "じゃなくて",
+            "meaning": "表示否定或转折，强调与前述内容不同。",
+            "index": 187,
+            "starttime": "0:12:04.87",
+            "endtime": "0:12:07.60"
+        },
+        {
+            "exampleInText": "つけちゃうから",
+            "fuzzyMatch": "ちゃう",
+            "meaning": "表示动作的完成或不自觉的状态，通常带有轻松或随意的语气。",
+            "index": 188,
+            "starttime": "0:12:07.60",
+            "endtime": "0:12:10.55"
+        },
+        {
+            "exampleInText": "めちゃくちゃ肌 調子いい",
+            "fuzzyMatch": "めちゃくちゃ",
+            "meaning": "表示程度非常高，强调某种状态或情况。",
+            "index": 189,
+            "starttime": "0:12:10.55",
+            "endtime": "0:12:12.64"
+        },
+        {
+            "exampleInText": "配信じゃなくって",
+            "fuzzyMatch": "じゃなくって",
+            "meaning": "表示否定，强调与前述内容的不同。",
+            "index": 191,
+            "starttime": "0:12:15.55",
+            "endtime": "0:12:18.47"
+        },
+        {
+            "exampleInText": "禁止とお伝えしたはずですが",
+            "fuzzyMatch": "禁止とお伝えしたはず",
+            "meaning": "表示说话者认为某事应该是已知的，带有推测的语气。",
+            "index": 192,
+            "starttime": "0:12:18.47",
+            "endtime": "0:12:21.44"
+        },
+        {
+            "exampleInText": "撮っておいたほうがいいんだって",
+            "fuzzyMatch": "おいたほうがいい",
+            "meaning": "表示建议或推荐，强调事先做好某事的好处。",
+            "index": 193,
+            "starttime": "0:12:21.44",
+            "endtime": "0:12:24.56"
+        },
+        {
+            "exampleInText": "後悔しても",
+            "fuzzyMatch": "しても",
+            "meaning": "表示即使发生某种情况，后面的内容仍然成立。",
+            "index": 194,
+            "starttime": "0:12:24.56",
+            "endtime": "0:12:25.68"
+        },
+        {
+            "exampleInText": "必要ありません",
+            "fuzzyMatch": "必要ありません",
+            "meaning": "表示不需要某物或某事。",
+            "index": 195,
+            "starttime": "0:12:25.68",
+            "endtime": "0:12:26.85"
+        },
+        {
+            "exampleInText": "さらせば",
+            "fuzzyMatch": "さらせば",
+            "meaning": "表示假设条件，意为'如果暴露'。",
+            "index": 196,
+            "starttime": "0:12:27.70",
+            "endtime": "0:12:30.91"
+        },
+        {
+            "exampleInText": "壊れます",
+            "fuzzyMatch": "壊れます",
+            "meaning": "表示某物会被破坏或损坏。",
+            "index": 196,
+            "starttime": "0:12:27.70",
+            "endtime": "0:12:30.91"
+        },
+        {
+            "exampleInText": "って意味の名前",
+            "fuzzyMatch": "って意味",
+            "meaning": "用于解释或说明前面提到的内容，类似于“就是说”或“也就是”。",
+            "index": 200,
+            "starttime": "0:12:39.50",
+            "endtime": "0:12:43.08"
+        },
+        {
+            "exampleInText": "消していただけますか",
+            "fuzzyMatch": "いただけますか",
+            "meaning": "表示请求的礼貌表达，通常用于请求对方做某事。",
+            "index": 202,
+            "starttime": "0:12:44.79",
+            "endtime": "0:12:47.09"
+        },
+        {
+            "exampleInText": "そうでなければ",
+            "fuzzyMatch": "そうでなければ",
+            "meaning": "表示条件，意为'如果不是那样的话'。",
+            "index": 203,
+            "starttime": "0:12:47.09",
+            "endtime": "0:12:49.00"
+        },
+        {
+            "exampleInText": "分かったから",
+            "fuzzyMatch": "分かったから",
+            "meaning": "表示原因，意为'因为我明白了'。",
+            "index": 204,
+            "starttime": "0:12:50.09",
+            "endtime": "0:12:51.62"
+        },
+        {
+            "exampleInText": "と思ったんだけどな～",
+            "fuzzyMatch": "と思ったんだけど",
+            "meaning": "表示说话者的想法或期待，意为'我曾以为'。",
+            "index": 205,
+            "starttime": "0:12:53.05",
+            "endtime": "0:12:56.80"
+        },
+        {
+            "exampleInText": "遊びに行っていい？",
+            "fuzzyMatch": "行っていい",
+            "meaning": "表示请求许可，询问是否可以进行某个动作。",
+            "index": 206,
+            "starttime": "0:12:56.80",
+            "endtime": "0:13:00.77"
+        },
+        {
+            "exampleInText": "したいんじゃないかな",
+            "fuzzyMatch": "したいんじゃないか",
+            "meaning": "表示说话者对某种愿望或推测的猜测，带有不确定性。",
+            "index": 208,
+            "starttime": "0:13:04.28",
+            "endtime": "0:13:08.10"
+        },
+        {
+            "exampleInText": "行っていい？",
+            "fuzzyMatch": "行ってもいい",
+            "meaning": "表示请求许可，询问是否可以做某事。",
+            "index": 209,
+            "starttime": "0:13:08.10",
+            "endtime": "0:13:10.80"
+        },
+        {
+            "exampleInText": "いいけど",
+            "fuzzyMatch": "いいけど",
+            "meaning": "表示对某事的肯定，但后面可能会有转折或不同的看法。",
+            "index": 210,
+            "starttime": "0:13:10.80",
+            "endtime": "0:13:12.18"
+        },
+        {
+            "exampleInText": "名前に 「コ」が付くの",
+            "fuzzyMatch": "の",
+            "meaning": "用于名词后，表示解释、说明或强调。",
+            "index": 213,
+            "starttime": "0:13:14.60",
+            "endtime": "0:13:16.86"
+        },
+        {
+            "exampleInText": "かわいくない？",
+            "fuzzyMatch": "かわいくない",
+            "meaning": "表示对某事物的否定，询问对方的看法。",
+            "index": 213,
+            "starttime": "0:13:14.60",
+            "endtime": "0:13:16.86"
+        },
+        {
+            "exampleInText": "時間です",
+            "fuzzyMatch": "です",
+            "meaning": "用于表示状态或判断，常用于句子的结尾。",
+            "index": 215,
+            "starttime": "0:13:20.37",
+            "endtime": "0:13:21.79"
+        },
+        {
+            "exampleInText": "私は にゃむち！",
+            "fuzzyMatch": "は",
+            "meaning": "表示主题，强调句子的主语。",
+            "index": 216,
+            "starttime": "0:13:22.23",
+            "endtime": "0:13:24.65"
+        },
+        {
+            "exampleInText": "1人だけ",
+            "fuzzyMatch": "だけ",
+            "meaning": "表示限制或仅仅，强调数量或范围。",
+            "index": 217,
+            "starttime": "0:13:24.65",
+            "endtime": "0:13:26.04"
+        },
+        {
+            "exampleInText": "よろしくお願いいたします",
+            "fuzzyMatch": "よろしくお願いいたします",
+            "meaning": "用于请求或拜托他人，表达礼貌的请求。",
+            "index": 218,
+            "starttime": "0:13:31.80",
+            "endtime": "0:13:34.79"
+        },
+        {
+            "exampleInText": "お疲れさま",
+            "fuzzyMatch": "お疲れさま",
+            "meaning": "用于对他人表示辛苦了的问候，通常在工作或活动结束时使用。",
+            "index": 220,
+            "starttime": "0:13:36.18",
+            "endtime": "0:13:38.90"
+        },
+        {
+            "exampleInText": "任せちゃえばいいのに",
+            "fuzzyMatch": "任せちゃえばいい",
+            "meaning": "表示建议或推测，意为'如果交给他就好了'，带有轻松的语气。",
+            "index": 221,
+            "starttime": "0:13:38.90",
+            "endtime": "0:13:41.00"
+        },
+        {
+            "exampleInText": "執っている以上",
+            "fuzzyMatch": "以上",
+            "meaning": "表示在某种条件或状态下，后续的事情是无法实现的。",
+            "index": 222,
+            "starttime": "0:13:41.00",
+            "endtime": "0:13:44.89"
+        },
+        {
+            "exampleInText": "そういうわけにもいかないでしょう",
+            "fuzzyMatch": "そういうわけにもいかない",
+            "meaning": "表示由于某种原因，不能按照预期或希望的方式进行。",
+            "index": 222,
+            "starttime": "0:13:41.00",
+            "endtime": "0:13:44.89"
+        },
+        {
+            "exampleInText": "置いていって",
+            "fuzzyMatch": "置いていく",
+            "meaning": "表示将某物放置在某处，通常带有离开的含义。",
+            "index": 224,
+            "starttime": "0:13:50.27",
+            "endtime": "0:13:53.84"
+        },
+        {
+            "exampleInText": "上がれば",
+            "fuzzyMatch": "上がる",
+            "meaning": "表示动作的条件，意为‘如果上去’。",
+            "index": 225,
+            "starttime": "0:13:54.77",
+            "endtime": "0:13:59.41"
+        },
+        {
+            "exampleInText": "信じられるのは",
+            "fuzzyMatch": "信じられる",
+            "meaning": "表示可能性，意为‘能够被相信’。",
+            "index": 225,
+            "starttime": "0:13:54.77",
+            "endtime": "0:13:59.41"
+        },
+        {
+            "exampleInText": "などと きれい事は申しません",
+            "fuzzyMatch": "などと",
+            "meaning": "表示举例或列举，通常用于引出某种说法或观点。",
+            "index": 226,
+            "starttime": "0:14:00.53",
+            "endtime": "0:14:04.07"
+        },
+        {
+            "exampleInText": "所詮 同じ穴のむじなですから",
+            "fuzzyMatch": "所詮",
+            "meaning": "表示最终的结果或本质，强调无论如何都无法改变的事实。",
+            "index": 227,
+            "starttime": "0:14:04.42",
+            "endtime": "0:14:07.70"
+        },
+        {
+            "exampleInText": "といったところでしょうか",
+            "fuzzyMatch": "といったところでしょうか",
+            "meaning": "表示推测或不确定的状态，通常用于表达某种程度的判断。",
+            "index": 229,
+            "starttime": "0:14:08.76",
+            "endtime": "0:14:11.08"
+        },
+        {
+            "exampleInText": "まいりましょう",
+            "fuzzyMatch": "まいりましょう",
+            "meaning": "表示提议或邀请，通常用于表示开始某个行动或活动。",
+            "index": 231,
+            "starttime": "0:14:14.01",
+            "endtime": "0:14:15.19"
+        },
+        {
+            "exampleInText": "お歌が上手ね",
+            "fuzzyMatch": "お歌が上手",
+            "meaning": "用于称赞他人的能力或特长，表示对对方的赞美。",
+            "index": 237,
+            "starttime": "0:14:43.95",
+            "endtime": "0:14:45.85"
+        },
+        {
+            "exampleInText": "好きな歌なんだ",
+            "fuzzyMatch": "なんだ",
+            "meaning": "用于解释或强调前面的内容，表示说话者的确认或说明。",
+            "index": 239,
+            "starttime": "0:14:47.45",
+            "endtime": "0:14:49.73"
+        },
+        {
+            "exampleInText": "行くのね",
+            "fuzzyMatch": "のね",
+            "meaning": "用于确认或询问对方的状态，带有亲切感。",
+            "index": 240,
+            "starttime": "0:14:50.08",
+            "endtime": "0:14:53.47"
+        },
+        {
+            "exampleInText": "いけない",
+            "fuzzyMatch": "いけない",
+            "meaning": "表示禁止或不允许的状态，通常用于表达不好的情况。",
+            "index": 242,
+            "starttime": "0:14:54.71",
+            "endtime": "0:14:56.58"
+        },
+        {
+            "exampleInText": "待って！",
+            "fuzzyMatch": "待って",
+            "meaning": "表示请求对方停下或等待的命令或请求。",
+            "index": 243,
+            "starttime": "0:14:57.56",
+            "endtime": "0:14:59.05"
+        },
+        {
+            "exampleInText": "ここは？",
+            "fuzzyMatch": "ここは",
+            "meaning": "用于询问地点或情况，表示对当前环境的疑问。",
+            "index": 244,
+            "starttime": "0:15:14.50",
+            "endtime": "0:15:15.55"
+        },
+        {
+            "exampleInText": "新入りが また1人",
+            "fuzzyMatch": "新入りが",
+            "meaning": "表示新加入的人，强调新成员的出现。",
+            "index": 245,
+            "starttime": "0:15:19.51",
+            "endtime": "0:15:22.32"
+        },
+        {
+            "exampleInText": "まだ かすかに 人間のにおいが ついていますね",
+            "fuzzyMatch": "まだ かすかに",
+            "meaning": "表示某种状态仍然存在，强调时间的延续性。",
+            "index": 246,
+            "starttime": "0:15:25.62",
+            "endtime": "0:15:28.59"
+        },
+        {
+            "exampleInText": "眠ったのに",
+            "fuzzyMatch": "のに",
+            "meaning": "表示转折，前后内容存在对比或意外的情况。",
+            "index": 248,
+            "starttime": "0:15:29.27",
+            "endtime": "0:15:31.74"
+        },
+        {
+            "exampleInText": "抱きしめてる",
+            "fuzzyMatch": "ている",
+            "meaning": "表示持续的状态或动作，强调正在进行的行为。",
+            "index": 249,
+            "starttime": "0:15:31.74",
+            "endtime": "0:15:34.04"
+        },
+        {
+            "exampleInText": "あげよっか",
+            "fuzzyMatch": "あげる",
+            "meaning": "表示提供帮助或做某事给对方的意图。",
+            "index": 251,
+            "starttime": "0:15:36.66",
+            "endtime": "0:15:39.31"
+        },
+        {
+            "exampleInText": "おやめなさい",
+            "fuzzyMatch": "やめなさい",
+            "meaning": "用于命令或请求对方停止某种行为。",
+            "index": 252,
+            "starttime": "0:15:39.31",
+            "endtime": "0:15:40.34"
+        },
+        {
+            "exampleInText": "だって～",
+            "fuzzyMatch": "だって",
+            "meaning": "用于引出理由或解释，表示对前述内容的反驳或补充说明。",
+            "index": 253,
+            "starttime": "0:15:40.34",
+            "endtime": "0:15:41.76"
+        },
+        {
+            "exampleInText": "人間のにおいがついたら",
+            "fuzzyMatch": "ついたら",
+            "meaning": "表示假设条件，意为'如果...的话'。",
+            "index": 254,
+            "starttime": "0:15:41.76",
+            "endtime": "0:15:43.28"
+        },
+        {
+            "exampleInText": "つきませんよ",
+            "fuzzyMatch": "つきません",
+            "meaning": "表示无法达到某种状态或结果，通常用于否定。",
+            "index": 255,
+            "starttime": "0:15:43.28",
+            "endtime": "0:15:44.56"
+        },
+        {
+            "exampleInText": "そのために いらしたのではなくて？",
+            "fuzzyMatch": "ために",
+            "meaning": "表示目的或原因，强调某个行为的意图。",
+            "index": 258,
+            "starttime": "0:15:47.57",
+            "endtime": "0:15:50.18"
+        },
+        {
+            "exampleInText": "捨てられた人形たち",
+            "fuzzyMatch": "捨てられた",
+            "meaning": "表示被动状态，强调动作的承受者。",
+            "index": 261,
+            "starttime": "0:15:52.05",
+            "endtime": "0:15:55.48"
+        },
+        {
+            "exampleInText": "自覚がないタイプで",
+            "fuzzyMatch": "自覚がない",
+            "meaning": "表示缺乏自我意识或认知的状态。",
+            "index": 263,
+            "starttime": "0:15:57.84",
+            "endtime": "0:15:59.94"
+        },
+        {
+            "exampleInText": "話しかけられて",
+            "fuzzyMatch": "話しかける",
+            "meaning": "表示被动形式，意为'被某人说话'。",
+            "index": 265,
+            "starttime": "0:16:01.18",
+            "endtime": "0:16:05.69"
+        },
+        {
+            "exampleInText": "思っちゃうのが",
+            "fuzzyMatch": "思っちゃう",
+            "meaning": "表示轻微的意图或情感，通常带有不自觉的意味。",
+            "index": 265,
+            "starttime": "0:16:01.18",
+            "endtime": "0:16:05.69"
+        },
+        {
+            "exampleInText": "僕が人形だって？",
+            "fuzzyMatch": "だって",
+            "meaning": "用于引用或确认前述内容，表示疑问或惊讶。",
+            "index": 266,
+            "starttime": "0:16:05.69",
+            "endtime": "0:16:07.63"
+        },
+        {
+            "exampleInText": "生きてるじゃないか",
+            "fuzzyMatch": "じゃないか",
+            "meaning": "用于强调或确认某种状态，带有反问的语气。",
+            "index": 267,
+            "starttime": "0:16:08.00",
+            "endtime": "0:16:11.20"
+        },
+        {
+            "exampleInText": "特別だから",
+            "fuzzyMatch": "だから",
+            "meaning": "表示原因或理由，意为'因为'。",
+            "index": 268,
+            "starttime": "0:16:11.20",
+            "endtime": "0:16:14.08"
+        },
+        {
+            "exampleInText": "宿しているのですわ",
+            "fuzzyMatch": "宿している",
+            "meaning": "表示正在进行的状态，强调某种存在或状态。",
+            "index": 270,
+            "starttime": "0:16:21.13",
+            "endtime": "0:16:25.88"
+        },
+        {
+            "exampleInText": "信じられない",
+            "fuzzyMatch": "信じられない",
+            "meaning": "表示无法相信，通常用于表达惊讶或怀疑。",
+            "index": 271,
+            "starttime": "0:16:25.88",
+            "endtime": "0:16:28.70"
+        },
+        {
+            "exampleInText": "お名前は？",
+            "fuzzyMatch": "お名前は",
+            "meaning": "用于询问对方的名字，带有敬语的表达方式。",
+            "index": 272,
+            "starttime": "0:16:29.05",
+            "endtime": "0:16:30.39"
+        },
+        {
+            "exampleInText": "覚えていない",
+            "fuzzyMatch": "覚えていない",
+            "meaning": "表示对某事物的记忆缺失或不清楚。",
+            "index": 274,
+            "starttime": "0:16:32.91",
+            "endtime": "0:16:34.00"
+        },
+        {
+            "exampleInText": "では あなたの元の持ち主は？",
+            "fuzzyMatch": "では",
+            "meaning": "用于引出话题或转折，表示对前述内容的回应或进一步询问。",
+            "index": 275,
+            "starttime": "0:16:35.74",
+            "endtime": "0:16:37.70"
+        },
+        {
+            "exampleInText": "お友達でしたっけ？",
+            "fuzzyMatch": "でしたっけ",
+            "meaning": "用于确认或回忆某事，带有不确定性或询问的语气。",
+            "index": 276,
+            "starttime": "0:16:38.15",
+            "endtime": "0:16:40.64"
+        },
+        {
+            "exampleInText": "呼んでもらえてなかった",
+            "fuzzyMatch": "てもらえてなかった",
+            "meaning": "表示某个动作未能实现，强调过去的状态。",
+            "index": 277,
+            "starttime": "0:16:41.77",
+            "endtime": "0:16:45.94"
+        },
+        {
+            "exampleInText": "思い出さないほうがよろしくてよ",
+            "fuzzyMatch": "ほうがよろしくて",
+            "meaning": "表示建议或偏好，强调某种做法更好。",
+            "index": 278,
+            "starttime": "0:16:45.94",
+            "endtime": "0:16:48.38"
+        },
+        {
+            "exampleInText": "捨てた",
+            "fuzzyMatch": "捨てる",
+            "meaning": "表示动作的完成，意为'抛弃'或'丢弃'。",
+            "index": 283,
+            "starttime": "0:16:54.74",
+            "endtime": "0:16:56.46"
+        },
+        {
+            "exampleInText": "人形にとっての死は何かご存じ？",
+            "fuzzyMatch": "にとって",
+            "meaning": "表示对某人或某物的观点或立场，意为'对...来说'。",
+            "index": 284,
+            "starttime": "0:16:57.98",
+            "endtime": "0:17:00.54"
+        },
+        {
+            "exampleInText": "捨てられること？",
+            "fuzzyMatch": "捨てられる",
+            "meaning": "表示被动形式，意为'被抛弃'。",
+            "index": 285,
+            "starttime": "0:17:01.20",
+            "endtime": "0:17:02.79"
+        },
+        {
+            "exampleInText": "愛されないこと",
+            "fuzzyMatch": "愛されないこと",
+            "meaning": "表示一种状态或情况，强调被爱的缺失。",
+            "index": 288,
+            "starttime": "0:17:04.96",
+            "endtime": "0:17:06.52"
+        },
+        {
+            "exampleInText": "それもひとつ",
+            "fuzzyMatch": "それもひとつ",
+            "meaning": "表示列举中的一个例子，强调某种情况或观点。",
+            "index": 289,
+            "starttime": "0:17:06.52",
+            "endtime": "0:17:08.59"
+        },
+        {
+            "exampleInText": "いちばんつらい死は…",
+            "fuzzyMatch": "いちばんつらい",
+            "meaning": "表示最高级，强调某种状态或情况的极端性。",
+            "index": 290,
+            "starttime": "0:17:09.09",
+            "endtime": "0:17:10.94"
+        },
+        {
+            "exampleInText": "忘却ですわ",
+            "fuzzyMatch": "忘却です",
+            "meaning": "表示一种状态或判断，强调忘却的性质。",
+            "index": 291,
+            "starttime": "0:17:12.28",
+            "endtime": "0:17:13.54"
+        },
+        {
+            "exampleInText": "僕は 死んだの？",
+            "fuzzyMatch": "死んだの？",
+            "meaning": "表示疑问，询问某种状态或事实的确认。",
+            "index": 292,
+            "starttime": "0:17:15.05",
+            "endtime": "0:17:17.63"
+        },
+        {
+            "exampleInText": "かりそめの命を宿したと",
+            "fuzzyMatch": "宿したと",
+            "meaning": "表示过去的动作或状态，通常用于引用或说明。",
+            "index": 295,
+            "starttime": "0:17:24.52",
+            "endtime": "0:17:27.52"
+        },
+        {
+            "exampleInText": "つまりは復活",
+            "fuzzyMatch": "つまりは",
+            "meaning": "用于总结或解释前述内容，表示'也就是说'。",
+            "index": 296,
+            "starttime": "0:17:28.32",
+            "endtime": "0:17:31.72"
+        },
+        {
+            "exampleInText": "今こそ復権の時",
+            "fuzzyMatch": "こそ",
+            "meaning": "用于强调某个时间或情况，表示'正是'。",
+            "index": 296,
+            "starttime": "0:17:28.32",
+            "endtime": "0:17:31.72"
+        },
+        {
+            "exampleInText": "新しいお友達に祝福を",
+            "fuzzyMatch": "に",
+            "meaning": "表示动作的对象或方向，通常用于指向某人或某物。",
+            "index": 297,
+            "starttime": "0:17:31.99",
+            "endtime": "0:17:35.61"
+        },
+        {
+            "exampleInText": "名を与えましょう",
+            "fuzzyMatch": "名を与える",
+            "meaning": "表示给予某物或某种状态，通常用于提议或建议。",
+            "index": 298,
+            "starttime": "0:17:37.04",
+            "endtime": "0:17:41.47"
+        },
+        {
+            "exampleInText": "死を恐れるなかれ",
+            "fuzzyMatch": "恐れるなかれ",
+            "meaning": "表示禁止或劝告，意为'不要害怕'。",
+            "index": 300,
+            "starttime": "0:17:43.18",
+            "endtime": "0:17:45.54"
+        },
+        {
+            "exampleInText": "恐れるなかれ",
+            "fuzzyMatch": "なかれ",
+            "meaning": "表示禁止或劝告，意为'不要...'。",
+            "index": 302,
+            "starttime": "0:17:46.89",
+            "endtime": "0:17:49.88"
+        },
+        {
+            "exampleInText": "も1位ですね",
+            "fuzzyMatch": "も",
+            "meaning": "表示附加或并列的意思，强调同样的情况。",
+            "index": 310,
+            "starttime": "0:22:33.95",
+            "endtime": "0:22:35.79"
+        },
+        {
+            "exampleInText": "お疲れさま",
+            "fuzzyMatch": "お疲れさま",
+            "meaning": "用于表达对他人辛苦工作的感谢和慰问。",
+            "index": 311,
+            "starttime": "0:22:35.79",
+            "endtime": "0:22:37.05"
+        },
+        {
+            "exampleInText": "褒めてたよ",
+            "fuzzyMatch": "褒めてた",
+            "meaning": "表示过去的状态或动作，强调某人曾经称赞。",
+            "index": 312,
+            "starttime": "0:22:37.05",
+            "endtime": "0:22:40.08"
+        },
+        {
+            "exampleInText": "そう…",
+            "fuzzyMatch": "そう",
+            "meaning": "用于表示同意或确认，通常用于对话中。",
+            "index": 313,
+            "starttime": "0:22:40.08",
+            "endtime": "0:22:41.08"
+        },
+        {
+            "exampleInText": "用意していただきましたので",
+            "fuzzyMatch": "いただく",
+            "meaning": "表示对他人行为的谦逊表达，通常用于请求或感谢。",
+            "index": 315,
+            "starttime": "0:22:42.25",
+            "endtime": "0:22:44.28"
+        },
+        {
+            "exampleInText": "2人ずつ乗ってくださる？",
+            "fuzzyMatch": "くださる",
+            "meaning": "表示对他人行为的尊敬，通常用于请求或询问。",
+            "index": 316,
+            "starttime": "0:22:44.28",
+            "endtime": "0:22:45.56"
+        },
+        {
+            "exampleInText": "もう着替えちゃったの？",
+            "fuzzyMatch": "ちゃった",
+            "meaning": "表示动作的完成，通常带有轻微的遗憾或意外的语气。",
+            "index": 317,
+            "starttime": "0:22:45.56",
+            "endtime": "0:22:48.51"
+        },
+        {
+            "exampleInText": "撮ろうと思った",
+            "fuzzyMatch": "と思う",
+            "meaning": "表示说话者的意图或想法。",
+            "index": 318,
+            "starttime": "0:22:48.51",
+            "endtime": "0:22:51.05"
+        },
+        {
+            "exampleInText": "お忘れなく",
+            "fuzzyMatch": "お忘れなく",
+            "meaning": "用于提醒对方不要忘记某事，带有礼貌的语气。",
+            "index": 319,
+            "starttime": "0:22:51.67",
+            "endtime": "0:22:53.86"
+        },
+        {
+            "exampleInText": "冷ましたい",
+            "fuzzyMatch": "たい",
+            "meaning": "表示说话者的愿望或希望，想要做某事。",
+            "index": 321,
+            "starttime": "0:22:55.01",
+            "endtime": "0:22:56.91"
+        },
+        {
+            "exampleInText": "電車で帰りますわ",
+            "fuzzyMatch": "で帰ります",
+            "meaning": "表示使用某种交通工具或手段进行移动。",
+            "index": 322,
+            "starttime": "0:22:56.91",
+            "endtime": "0:22:58.02"
+        },
+        {
+            "exampleInText": "あなたは 有名人の自覚がなくて困ります",
+            "fuzzyMatch": "なくて困ります",
+            "meaning": "表示因为缺乏某种状态而感到困扰。",
+            "index": 324,
+            "starttime": "0:22:59.32",
+            "endtime": "0:23:02.88"
+        },
+        {
+            "exampleInText": "お先に失礼",
+            "fuzzyMatch": "お先に失礼",
+            "meaning": "用于在离开时向他人表示歉意，意为“我先走了”。",
+            "index": 325,
+            "starttime": "0:23:03.42",
+            "endtime": "0:23:04.53"
+        },
+        {
+            "exampleInText": "また今度にしようか",
+            "fuzzyMatch": "にしようか",
+            "meaning": "表示提议或选择，通常用于询问对方的意见。",
+            "index": 327,
+            "starttime": "0:23:06.89",
+            "endtime": "0:23:08.64"
+        }
+    ],
+    "word": [
+        {
+            "baseForm": "日曜",
+            "reading": "にちよう",
+            "pos": "名詞",
+            "meaning": "星期日",
+            "exampleInText": "日曜",
+            "index": 0,
+            "starttime": "0:00:02.27",
+            "endtime": "0:00:05.90"
+        },
+        {
+            "baseForm": "時",
+            "reading": "じ",
+            "pos": "名詞",
+            "meaning": "点，时刻",
+            "exampleInText": "10時",
+            "index": 0,
+            "starttime": "0:00:02.27",
+            "endtime": "0:00:05.90"
+        },
+        {
+            "baseForm": "担当",
+            "reading": "たんとう",
+            "pos": "名詞",
+            "meaning": "负责，担当",
+            "exampleInText": "担当",
+            "index": 0,
+            "starttime": "0:00:02.27",
+            "endtime": "0:00:05.90"
+        },
+        {
+            "baseForm": "者",
+            "reading": "もの",
+            "pos": "名詞",
+            "meaning": "人，者",
+            "exampleInText": "者",
+            "index": 0,
+            "starttime": "0:00:02.27",
+            "endtime": "0:00:05.90"
+        },
+        {
+            "baseForm": "伺う",
+            "reading": "うかがう",
+            "pos": "動詞",
+            "meaning": "拜访，询问",
+            "exampleInText": "お伺いいたします",
+            "index": 0,
+            "starttime": "0:00:02.27",
+            "endtime": "0:00:05.90"
+        },
+        {
+            "baseForm": "時間",
+            "reading": "じかん",
+            "pos": "名詞",
+            "meaning": "时间",
+            "exampleInText": "お時間",
+            "index": 1,
+            "starttime": "0:00:05.90",
+            "endtime": "0:00:08.48"
+        },
+        {
+            "baseForm": "いただく",
+            "reading": "いただく",
+            "pos": "動詞",
+            "meaning": "接受，得到",
+            "exampleInText": "いただき",
+            "index": 1,
+            "starttime": "0:00:05.90",
+            "endtime": "0:00:08.48"
+        },
+        {
+            "baseForm": "ありがとうございました",
+            "reading": "ありがとうございました",
+            "pos": "表現",
+            "meaning": "谢谢",
+            "exampleInText": "ありがとうございました",
+            "index": 1,
+            "starttime": "0:00:05.90",
+            "endtime": "0:00:08.48"
+        },
+        {
+            "baseForm": "睦",
+            "reading": "むつみ",
+            "pos": "名詞",
+            "meaning": "睦（人名）",
+            "exampleInText": "睦さん",
+            "index": 2,
+            "starttime": "0:00:31.59",
+            "endtime": "0:00:34.43"
+        },
+        {
+            "baseForm": "祥子",
+            "reading": "しょうこ",
+            "pos": "名詞",
+            "meaning": "祥子（人名）",
+            "exampleInText": "祥子さん",
+            "index": 2,
+            "starttime": "0:00:31.59",
+            "endtime": "0:00:34.43"
+        },
+        {
+            "baseForm": "いらっしゃる",
+            "reading": "いらっしゃる",
+            "pos": "動詞",
+            "meaning": "来（敬语）",
+            "exampleInText": "いらっしゃいました",
+            "index": 2,
+            "starttime": "0:00:31.59",
+            "endtime": "0:00:34.43"
+        },
+        {
+            "baseForm": "既に",
+            "reading": "すでに",
+            "pos": "副詞",
+            "meaning": "已经",
+            "exampleInText": "既に",
+            "index": 3,
+            "starttime": "0:00:36.84",
+            "endtime": "0:00:39.06"
+        },
+        {
+            "baseForm": "ほか",
+            "reading": "ほか",
+            "pos": "名詞",
+            "meaning": "其他",
+            "exampleInText": "ほかの",
+            "index": 3,
+            "starttime": "0:00:36.84",
+            "endtime": "0:00:39.06"
+        },
+        {
+            "baseForm": "メンバー",
+            "reading": "めんばー",
+            "pos": "名詞",
+            "meaning": "成员",
+            "exampleInText": "メンバー",
+            "index": 3,
+            "starttime": "0:00:36.84",
+            "endtime": "0:00:39.06"
+        },
+        {
+            "baseForm": "そろう",
+            "reading": "そろう",
+            "pos": "動詞",
+            "meaning": "齐全",
+            "exampleInText": "そろいまして",
+            "index": 3,
+            "starttime": "0:00:36.84",
+            "endtime": "0:00:39.06"
+        },
+        {
+            "baseForm": "残る",
+            "reading": "のこる",
+            "pos": "動詞",
+            "meaning": "剩下",
+            "exampleInText": "残る",
+            "index": 4,
+            "starttime": "0:00:39.42",
+            "endtime": "0:00:40.71"
+        },
+        {
+            "baseForm": "あなた",
+            "reading": "あなた",
+            "pos": "代名詞",
+            "meaning": "你",
+            "exampleInText": "あなた",
+            "index": 4,
+            "starttime": "0:00:39.42",
+            "endtime": "0:00:40.71"
+        },
+        {
+            "baseForm": "入る",
+            "reading": "はいる",
+            "pos": "動詞",
+            "meaning": "进入",
+            "exampleInText": "入る",
+            "index": 5,
+            "starttime": "0:00:40.94",
+            "endtime": "0:00:41.94"
+        },
+        {
+            "baseForm": "後戻り",
+            "reading": "あともどり",
+            "pos": "名詞",
+            "meaning": "返回",
+            "exampleInText": "後戻り",
+            "index": 7,
+            "starttime": "0:00:45.85",
+            "endtime": "0:00:47.69"
+        },
+        {
+            "baseForm": "できる",
+            "reading": "できる",
+            "pos": "動詞",
+            "meaning": "能够",
+            "exampleInText": "できません",
+            "index": 7,
+            "starttime": "0:00:45.85",
+            "endtime": "0:00:47.69"
+        },
+        {
+            "baseForm": "壊れる",
+            "reading": "こわれる",
+            "pos": "動詞",
+            "meaning": "破坏，损坏",
+            "exampleInText": "壊れそう",
+            "index": 9,
+            "starttime": "0:00:49.88",
+            "endtime": "0:00:52.95"
+        },
+        {
+            "baseForm": "身分",
+            "reading": "みぶん",
+            "pos": "名詞",
+            "meaning": "身份",
+            "exampleInText": "ご身分",
+            "index": 10,
+            "starttime": "0:00:54.20",
+            "endtime": "0:00:55.70"
+        },
+        {
+            "baseForm": "ごめん",
+            "reading": "ごめん",
+            "pos": "感動詞",
+            "meaning": "对不起",
+            "exampleInText": "ごめん",
+            "index": 11,
+            "starttime": "0:00:58.33",
+            "endtime": "0:00:58.71"
+        },
+        {
+            "baseForm": "心配",
+            "reading": "しんぱい",
+            "pos": "名詞",
+            "meaning": "担心",
+            "exampleInText": "心配",
+            "index": 12,
+            "starttime": "0:00:58.71",
+            "endtime": "0:01:00.27"
+        },
+        {
+            "baseForm": "結構",
+            "reading": "けっこう",
+            "pos": "副詞",
+            "meaning": "相当",
+            "exampleInText": "結構",
+            "index": 12,
+            "starttime": "0:00:58.71",
+            "endtime": "0:01:00.27"
+        },
+        {
+            "baseForm": "弱い",
+            "reading": "よわい",
+            "pos": "形容詞",
+            "meaning": "弱的",
+            "exampleInText": "弱い",
+            "index": 13,
+            "starttime": "0:01:01.42",
+            "endtime": "0:01:02.68"
+        },
+        {
+            "baseForm": "私",
+            "reading": "わたし",
+            "pos": "名詞",
+            "meaning": "我",
+            "exampleInText": "私",
+            "index": 13,
+            "starttime": "0:01:01.42",
+            "endtime": "0:01:02.68"
+        },
+        {
+            "baseForm": "死ぬ",
+            "reading": "しぬ",
+            "pos": "動詞",
+            "meaning": "死",
+            "exampleInText": "死にました",
+            "index": 14,
+            "starttime": "0:01:03.74",
+            "endtime": "0:01:04.96"
+        },
+        {
+            "baseForm": "抹茶パフェ",
+            "reading": "まっちゃぱふぇ",
+            "pos": "名詞",
+            "meaning": "抹茶冰淇淋圣代",
+            "exampleInText": "抹茶パフェ",
+            "index": 15,
+            "starttime": "0:02:38.22",
+            "endtime": "0:02:39.28"
+        },
+        {
+            "baseForm": "立希",
+            "reading": "たき",
+            "pos": "名詞",
+            "meaning": "立希（人名）",
+            "exampleInText": "立希ちゃん",
+            "index": 16,
+            "starttime": "0:02:40.74",
+            "endtime": "0:02:42.03"
+        },
+        {
+            "baseForm": "座る",
+            "reading": "すわる",
+            "pos": "動詞",
+            "meaning": "坐",
+            "exampleInText": "座って",
+            "index": 16,
+            "starttime": "0:02:40.74",
+            "endtime": "0:02:42.03"
+        },
+        {
+            "baseForm": "ライブ",
+            "reading": "らいぶ",
+            "pos": "名詞",
+            "meaning": "现场演出",
+            "exampleInText": "ライブ",
+            "index": 17,
+            "starttime": "0:02:42.68",
+            "endtime": "0:02:44.64"
+        },
+        {
+            "baseForm": "打ち上げ",
+            "reading": "うちあげ",
+            "pos": "名詞",
+            "meaning": "庆祝会",
+            "exampleInText": "打ち上げ",
+            "index": 17,
+            "starttime": "0:02:42.68",
+            "endtime": "0:02:44.64"
+        },
+        {
+            "baseForm": "だから",
+            "reading": "だから",
+            "pos": "接続詞",
+            "meaning": "所以",
+            "exampleInText": "だから",
+            "index": 17,
+            "starttime": "0:02:42.68",
+            "endtime": "0:02:44.64"
+        },
+        {
+            "baseForm": "もう",
+            "reading": "もう",
+            "pos": "副詞",
+            "meaning": "已经",
+            "exampleInText": "もういい～？",
+            "index": 18,
+            "starttime": "0:02:44.64",
+            "endtime": "0:02:45.86"
+        },
+        {
+            "baseForm": "いい",
+            "reading": "いい",
+            "pos": "形容詞",
+            "meaning": "好的",
+            "exampleInText": "いいって",
+            "index": 22,
+            "starttime": "0:02:50.15",
+            "endtime": "0:02:51.65"
+        },
+        {
+            "baseForm": "待つ",
+            "reading": "まつ",
+            "pos": "動詞",
+            "meaning": "等待",
+            "exampleInText": "待って待って",
+            "index": 19,
+            "starttime": "0:02:45.86",
+            "endtime": "0:02:47.20"
+        },
+        {
+            "baseForm": "楽奈",
+            "reading": "らくな",
+            "pos": "名詞",
+            "meaning": "乐奈（人名）",
+            "exampleInText": "楽奈 あげる",
+            "index": 20,
+            "starttime": "0:02:47.20",
+            "endtime": "0:02:48.36"
+        },
+        {
+            "baseForm": "あげる",
+            "reading": "あげる",
+            "pos": "動詞",
+            "meaning": "给",
+            "exampleInText": "あげる",
+            "index": 20,
+            "starttime": "0:02:47.20",
+            "endtime": "0:02:48.36"
+        },
+        {
+            "baseForm": "ダメ",
+            "reading": "だめ",
+            "pos": "形容詞",
+            "meaning": "不行",
+            "exampleInText": "ダメ",
+            "index": 21,
+            "starttime": "0:02:48.36",
+            "endtime": "0:02:50.15"
+        },
+        {
+            "baseForm": "りっきー",
+            "reading": "りっきー",
+            "pos": "名詞",
+            "meaning": "りっきー（人名）",
+            "exampleInText": "りっきーの",
+            "index": 21,
+            "starttime": "0:02:48.36",
+            "endtime": "0:02:50.15"
+        },
+        {
+            "baseForm": "凛々子",
+            "reading": "りりこ",
+            "pos": "名詞",
+            "meaning": "凛々子（人名）",
+            "exampleInText": "凛々子さん",
+            "index": 22,
+            "starttime": "0:02:50.15",
+            "endtime": "0:02:51.65"
+        },
+        {
+            "baseForm": "さん",
+            "reading": "さん",
+            "pos": "接尾語",
+            "meaning": "先生/小姐（敬称）",
+            "exampleInText": "凛々子さん",
+            "index": 22,
+            "starttime": "0:02:50.15",
+            "endtime": "0:02:51.65"
+        },
+        {
+            "baseForm": "ほら",
+            "reading": "ほら",
+            "pos": "感動詞",
+            "meaning": "看，瞧",
+            "exampleInText": "ほら",
+            "index": 24,
+            "starttime": "0:02:54.78",
+            "endtime": "0:02:57.03"
+        },
+        {
+            "baseForm": "みんな",
+            "reading": "みんな",
+            "pos": "名詞",
+            "meaning": "大家，所有人",
+            "exampleInText": "みんな",
+            "index": 24,
+            "starttime": "0:02:54.78",
+            "endtime": "0:02:57.03"
+        },
+        {
+            "baseForm": "緩い",
+            "reading": "ゆるい",
+            "pos": "形容詞",
+            "meaning": "松弛的，宽松的",
+            "exampleInText": "緩すぎ",
+            "index": 25,
+            "starttime": "0:02:58.04",
+            "endtime": "0:02:59.52"
+        },
+        {
+            "baseForm": "ここ",
+            "reading": "ここ",
+            "pos": "名詞",
+            "meaning": "这里",
+            "exampleInText": "ここ",
+            "index": 25,
+            "starttime": "0:02:58.04",
+            "endtime": "0:02:59.52"
+        },
+        {
+            "baseForm": "それ",
+            "reading": "それ",
+            "pos": "代名詞",
+            "meaning": "那个",
+            "exampleInText": "それ",
+            "index": 26,
+            "starttime": "0:03:00.54",
+            "endtime": "0:03:02.36"
+        },
+        {
+            "baseForm": "飲み物",
+            "reading": "のみもの",
+            "pos": "名詞",
+            "meaning": "饮料",
+            "exampleInText": "飲み物",
+            "index": 26,
+            "starttime": "0:03:00.54",
+            "endtime": "0:03:02.36"
+        },
+        {
+            "baseForm": "持つ",
+            "reading": "もつ",
+            "pos": "動詞",
+            "meaning": "持有，携带",
+            "exampleInText": "持って",
+            "index": 26,
+            "starttime": "0:03:00.54",
+            "endtime": "0:03:02.36"
+        },
+        {
+            "baseForm": "また",
+            "reading": "また",
+            "pos": "副詞",
+            "meaning": "再，又",
+            "exampleInText": "また",
+            "index": 27,
+            "starttime": "0:03:02.36",
+            "endtime": "0:03:03.52"
+        },
+        {
+            "baseForm": "仕切る",
+            "reading": "しきる",
+            "pos": "動詞",
+            "meaning": "分隔，管理",
+            "exampleInText": "仕切る",
+            "index": 27,
+            "starttime": "0:03:02.36",
+            "endtime": "0:03:03.52"
+        },
+        {
+            "baseForm": "先日",
+            "reading": "せんじつ",
+            "pos": "名詞",
+            "meaning": "前几天",
+            "exampleInText": "先日の",
+            "index": 28,
+            "starttime": "0:03:03.52",
+            "endtime": "0:03:08.99"
+        },
+        {
+            "baseForm": "ライブ",
+            "reading": "らいぶ",
+            "pos": "名詞",
+            "meaning": "演唱会",
+            "exampleInText": "ライブ",
+            "index": 28,
+            "starttime": "0:03:03.52",
+            "endtime": "0:03:08.99"
+        },
+        {
+            "baseForm": "ない",
+            "reading": "ない",
+            "pos": "形容詞",
+            "meaning": "没有",
+            "exampleInText": "ない",
+            "index": 28,
+            "starttime": "0:03:03.52",
+            "endtime": "0:03:08.99"
+        },
+        {
+            "baseForm": "中",
+            "reading": "なか",
+            "pos": "名詞",
+            "meaning": "中间",
+            "exampleInText": "中",
+            "index": 28,
+            "starttime": "0:03:03.52",
+            "endtime": "0:03:08.99"
+        },
+        {
+            "baseForm": "衣装",
+            "reading": "いしょう",
+            "pos": "名詞",
+            "meaning": "服装",
+            "exampleInText": "衣装",
+            "index": 28,
+            "starttime": "0:03:03.52",
+            "endtime": "0:03:08.99"
+        },
+        {
+            "baseForm": "新曲",
+            "reading": "しんきょく",
+            "pos": "名詞",
+            "meaning": "新歌",
+            "exampleInText": "新曲",
+            "index": 28,
+            "starttime": "0:03:03.52",
+            "endtime": "0:03:08.99"
+        },
+        {
+            "baseForm": "ひと言",
+            "reading": "ひとこと",
+            "pos": "名詞",
+            "meaning": "一句话",
+            "exampleInText": "ひと言",
+            "index": 30,
+            "starttime": "0:03:13.00",
+            "endtime": "0:03:14.92"
+        },
+        {
+            "baseForm": "挨拶",
+            "reading": "あいさつ",
+            "pos": "名詞",
+            "meaning": "问候",
+            "exampleInText": "挨拶",
+            "index": 30,
+            "starttime": "0:03:13.00",
+            "endtime": "0:03:14.92"
+        },
+        {
+            "baseForm": "じゃ",
+            "reading": "じゃ",
+            "pos": "接続詞",
+            "meaning": "那么",
+            "exampleInText": "じゃ",
+            "index": 29,
+            "starttime": "0:03:10.55",
+            "endtime": "0:03:12.55"
+        },
+        {
+            "baseForm": "ともりん",
+            "reading": "ともりん",
+            "pos": "名詞",
+            "meaning": "人名（昵称）",
+            "exampleInText": "ともりん",
+            "index": 29,
+            "starttime": "0:03:10.55",
+            "endtime": "0:03:12.55"
+        },
+        {
+            "baseForm": "一瞬",
+            "reading": "いっしゅん",
+            "pos": "名詞",
+            "meaning": "瞬间",
+            "exampleInText": "一瞬",
+            "index": 32,
+            "starttime": "0:03:17.44",
+            "endtime": "0:03:19.67"
+        },
+        {
+            "baseForm": "気持ち",
+            "reading": "きもち",
+            "pos": "名詞",
+            "meaning": "心情，感觉",
+            "exampleInText": "気持ち",
+            "index": 33,
+            "starttime": "0:03:20.18",
+            "endtime": "0:03:26.06"
+        },
+        {
+            "baseForm": "まぶしい",
+            "reading": "まぶしい",
+            "pos": "形容詞",
+            "meaning": "刺眼的，耀眼的",
+            "exampleInText": "まぶしさ",
+            "index": 33,
+            "starttime": "0:03:20.18",
+            "endtime": "0:03:26.06"
+        },
+        {
+            "baseForm": "確か",
+            "reading": "たしか",
+            "pos": "形容詞",
+            "meaning": "确实的，可靠的",
+            "exampleInText": "確かに",
+            "index": 33,
+            "starttime": "0:03:20.18",
+            "endtime": "0:03:26.06"
+        },
+        {
+            "baseForm": "重ねる",
+            "reading": "かさねる",
+            "pos": "動詞",
+            "meaning": "重叠",
+            "exampleInText": "重ねたら",
+            "index": 34,
+            "starttime": "0:03:26.45",
+            "endtime": "0:03:30.47"
+        },
+        {
+            "baseForm": "一生",
+            "reading": "いっしょう",
+            "pos": "名詞",
+            "meaning": "一生",
+            "exampleInText": "一生になる",
+            "index": 35,
+            "starttime": "0:03:31.17",
+            "endtime": "0:03:33.08"
+        },
+        {
+            "baseForm": "思う",
+            "reading": "おもう",
+            "pos": "動詞",
+            "meaning": "认为",
+            "exampleInText": "思う",
+            "index": 35,
+            "starttime": "0:03:31.17",
+            "endtime": "0:03:33.08"
+        },
+        {
+            "baseForm": "そう",
+            "reading": "そう",
+            "pos": "副詞",
+            "meaning": "那样",
+            "exampleInText": "そうだね",
+            "index": 36,
+            "starttime": "0:03:34.69",
+            "endtime": "0:03:35.54"
+        },
+        {
+            "baseForm": "燈",
+            "reading": "とう",
+            "pos": "名詞",
+            "meaning": "灯",
+            "exampleInText": "燈",
+            "index": 37,
+            "starttime": "0:03:35.95",
+            "endtime": "0:03:36.79"
+        },
+        {
+            "baseForm": "あんまり",
+            "reading": "あんまり",
+            "pos": "副詞",
+            "meaning": "不太，没那么",
+            "exampleInText": "あんまり",
+            "index": 39,
+            "starttime": "0:03:40.22",
+            "endtime": "0:03:42.33"
+        },
+        {
+            "baseForm": "想像",
+            "reading": "そうぞう",
+            "pos": "名詞",
+            "meaning": "想象",
+            "exampleInText": "想像",
+            "index": 39,
+            "starttime": "0:03:40.22",
+            "endtime": "0:03:42.33"
+        },
+        {
+            "baseForm": "つく",
+            "reading": "つく",
+            "pos": "動詞",
+            "meaning": "到达，产生",
+            "exampleInText": "つかない",
+            "index": 39,
+            "starttime": "0:03:40.22",
+            "endtime": "0:03:42.33"
+        },
+        {
+            "baseForm": "一生",
+            "reading": "いっしょう",
+            "pos": "名詞",
+            "meaning": "一生，终生",
+            "exampleInText": "一生",
+            "index": 40,
+            "starttime": "0:03:43.40",
+            "endtime": "0:03:44.77"
+        },
+        {
+            "baseForm": "本当に",
+            "reading": "ほんとうに",
+            "pos": "副詞",
+            "meaning": "真的，确实",
+            "exampleInText": "本当に",
+            "index": 41,
+            "starttime": "0:03:45.34",
+            "endtime": "0:03:47.71"
+        },
+        {
+            "baseForm": "まで",
+            "reading": "まで",
+            "pos": "助詞",
+            "meaning": "直到，至",
+            "exampleInText": "まで",
+            "index": 41,
+            "starttime": "0:03:45.34",
+            "endtime": "0:03:47.71"
+        },
+        {
+            "baseForm": "バンド",
+            "reading": "ばんど",
+            "pos": "名詞",
+            "meaning": "乐队",
+            "exampleInText": "バンド",
+            "index": 41,
+            "starttime": "0:03:45.34",
+            "endtime": "0:03:47.71"
+        },
+        {
+            "baseForm": "する",
+            "reading": "する",
+            "pos": "動詞",
+            "meaning": "做",
+            "exampleInText": "する",
+            "index": 41,
+            "starttime": "0:03:45.34",
+            "endtime": "0:03:47.71"
+        },
+        {
+            "baseForm": "つもり",
+            "reading": "つもり",
+            "pos": "名詞",
+            "meaning": "打算，意图",
+            "exampleInText": "つもり",
+            "index": 41,
+            "starttime": "0:03:45.34",
+            "endtime": "0:03:47.71"
+        },
+        {
+            "baseForm": "うん",
+            "reading": "うん",
+            "pos": "感動詞",
+            "meaning": "嗯，好的",
+            "exampleInText": "うん",
+            "index": 42,
+            "starttime": "0:03:47.71",
+            "endtime": "0:03:48.28"
+        },
+        {
+            "baseForm": "そう",
+            "reading": "そう",
+            "pos": "副詞",
+            "meaning": "那样，像那样",
+            "exampleInText": "そう",
+            "index": 43,
+            "starttime": "0:03:49.69",
+            "endtime": "0:03:50.40"
+        },
+        {
+            "baseForm": "健康",
+            "reading": "けんこう",
+            "pos": "名詞",
+            "meaning": "健康",
+            "exampleInText": "健康",
+            "index": 44,
+            "starttime": "0:03:51.18",
+            "endtime": "0:03:53.70"
+        },
+        {
+            "baseForm": "気をつける",
+            "reading": "きをつける",
+            "pos": "動詞",
+            "meaning": "注意，留心",
+            "exampleInText": "気をつけないと",
+            "index": 44,
+            "starttime": "0:03:51.18",
+            "endtime": "0:03:53.70"
+        },
+        {
+            "baseForm": "これ",
+            "reading": "これ",
+            "pos": "代名詞",
+            "meaning": "这个",
+            "exampleInText": "これ",
+            "index": 45,
+            "starttime": "0:03:56.86",
+            "endtime": "0:03:58.24"
+        },
+        {
+            "baseForm": "すごい",
+            "reading": "すごい",
+            "pos": "形容詞",
+            "meaning": "厉害的，惊人的",
+            "exampleInText": "すごい",
+            "index": 48,
+            "starttime": "0:04:00.94",
+            "endtime": "0:04:02.33"
+        },
+        {
+            "baseForm": "抹茶",
+            "reading": "まっちゃ",
+            "pos": "名詞",
+            "meaning": "抹茶",
+            "exampleInText": "抹茶",
+            "index": 48,
+            "starttime": "0:04:00.94",
+            "endtime": "0:04:02.33"
+        },
+        {
+            "baseForm": "らしい",
+            "reading": "らしい",
+            "pos": "助動詞",
+            "meaning": "似乎",
+            "exampleInText": "らしい",
+            "index": 49,
+            "starttime": "0:04:02.33",
+            "endtime": "0:04:04.45"
+        },
+        {
+            "baseForm": "愛音",
+            "reading": "あいね",
+            "pos": "名詞",
+            "meaning": "爱音（人名）",
+            "exampleInText": "愛音ちゃん",
+            "index": 50,
+            "starttime": "0:04:09.65",
+            "endtime": "0:04:11.69"
+        },
+        {
+            "baseForm": "写真",
+            "reading": "しゃしん",
+            "pos": "名詞",
+            "meaning": "照片",
+            "exampleInText": "写真",
+            "index": 50,
+            "starttime": "0:04:09.65",
+            "endtime": "0:04:11.69"
+        },
+        {
+            "baseForm": "上げる",
+            "reading": "あげる",
+            "pos": "動詞",
+            "meaning": "上传",
+            "exampleInText": "上げてる",
+            "index": 50,
+            "starttime": "0:04:09.65",
+            "endtime": "0:04:11.69"
+        },
+        {
+            "baseForm": "燈",
+            "reading": "あかり",
+            "pos": "名詞",
+            "meaning": "灯（人名）",
+            "exampleInText": "燈",
+            "index": 51,
+            "starttime": "0:04:15.81",
+            "endtime": "0:04:16.79"
+        },
+        {
+            "baseForm": "今日",
+            "reading": "きょう",
+            "pos": "名詞",
+            "meaning": "今天",
+            "exampleInText": "今日は",
+            "index": 53,
+            "starttime": "0:04:18.58",
+            "endtime": "0:04:21.17"
+        },
+        {
+            "baseForm": "送る",
+            "reading": "おくる",
+            "pos": "動詞",
+            "meaning": "送",
+            "exampleInText": "送って",
+            "index": 53,
+            "starttime": "0:04:18.58",
+            "endtime": "0:04:21.17"
+        },
+        {
+            "baseForm": "また",
+            "reading": "また",
+            "pos": "副詞",
+            "meaning": "再",
+            "exampleInText": "また",
+            "index": 55,
+            "starttime": "0:04:22.48",
+            "endtime": "0:04:23.20"
+        },
+        {
+            "baseForm": "ね",
+            "reading": "ね",
+            "pos": "助詞",
+            "meaning": "吧",
+            "exampleInText": "ね",
+            "index": 55,
+            "starttime": "0:04:22.48",
+            "endtime": "0:04:23.20"
+        },
+        {
+            "baseForm": "ちょっと",
+            "reading": "ちょっと",
+            "pos": "副詞",
+            "meaning": "稍微",
+            "exampleInText": "ちょっと",
+            "index": 56,
+            "starttime": "0:04:23.20",
+            "endtime": "0:04:24.08"
+        },
+        {
+            "baseForm": "はぁ",
+            "reading": "はぁ",
+            "pos": "感嘆詞",
+            "meaning": "哈（叹气声）",
+            "exampleInText": "はぁ～?!",
+            "index": 57,
+            "starttime": "0:04:24.92",
+            "endtime": "0:04:25.90"
+        },
+        {
+            "baseForm": "家",
+            "reading": "いえ",
+            "pos": "名詞",
+            "meaning": "家",
+            "exampleInText": "家",
+            "index": 58,
+            "starttime": "0:04:33.84",
+            "endtime": "0:04:36.12"
+        },
+        {
+            "baseForm": "あそこ",
+            "reading": "あそこ",
+            "pos": "名詞",
+            "meaning": "那里",
+            "exampleInText": "あそこ",
+            "index": 58,
+            "starttime": "0:04:33.84",
+            "endtime": "0:04:36.12"
+        },
+        {
+            "baseForm": "みんな",
+            "reading": "みんな",
+            "pos": "名詞",
+            "meaning": "大家",
+            "exampleInText": "みんな",
+            "index": 60,
+            "starttime": "0:04:39.55",
+            "endtime": "0:04:43.18"
+        },
+        {
+            "baseForm": "スタジオ",
+            "reading": "すたじお",
+            "pos": "名詞",
+            "meaning": "工作室",
+            "exampleInText": "スタジオ",
+            "index": 60,
+            "starttime": "0:04:39.55",
+            "endtime": "0:04:43.18"
+        },
+        {
+            "baseForm": "行く",
+            "reading": "いく",
+            "pos": "動詞",
+            "meaning": "去",
+            "exampleInText": "行く",
+            "index": 60,
+            "starttime": "0:04:39.55",
+            "endtime": "0:04:43.18"
+        },
+        {
+            "baseForm": "いつも",
+            "reading": "いつも",
+            "pos": "副詞",
+            "meaning": "总是",
+            "exampleInText": "いつも",
+            "index": 60,
+            "starttime": "0:04:39.55",
+            "endtime": "0:04:43.18"
+        },
+        {
+            "baseForm": "祥",
+            "reading": "しょう",
+            "pos": "名詞",
+            "meaning": "祥（人名）",
+            "exampleInText": "祥ちゃん",
+            "index": 61,
+            "starttime": "0:04:46.81",
+            "endtime": "0:04:49.86"
+        },
+        {
+            "baseForm": "燈",
+            "reading": "あかり",
+            "pos": "名詞",
+            "meaning": "燈（人名）",
+            "exampleInText": "燈ちゃん",
+            "index": 61,
+            "starttime": "0:04:46.81",
+            "endtime": "0:04:49.86"
+        },
+        {
+            "baseForm": "話す",
+            "reading": "はなす",
+            "pos": "動詞",
+            "meaning": "谈论",
+            "exampleInText": "話 してた",
+            "index": 61,
+            "starttime": "0:04:46.81",
+            "endtime": "0:04:49.86"
+        },
+        {
+            "baseForm": "歌詞",
+            "reading": "かし",
+            "pos": "名詞",
+            "meaning": "歌词",
+            "exampleInText": "歌詞",
+            "index": 62,
+            "starttime": "0:04:50.69",
+            "endtime": "0:04:53.13"
+        },
+        {
+            "baseForm": "意味",
+            "reading": "いみ",
+            "pos": "名詞",
+            "meaning": "意思",
+            "exampleInText": "意味",
+            "index": 63,
+            "starttime": "0:04:53.13",
+            "endtime": "0:04:55.22"
+        },
+        {
+            "baseForm": "正直",
+            "reading": "しょうじき",
+            "pos": "副詞",
+            "meaning": "老实说",
+            "exampleInText": "正直",
+            "index": 64,
+            "starttime": "0:04:55.84",
+            "endtime": "0:04:57.76"
+        },
+        {
+            "baseForm": "分かる",
+            "reading": "わかる",
+            "pos": "動詞",
+            "meaning": "理解",
+            "exampleInText": "分かんなかった",
+            "index": 64,
+            "starttime": "0:04:55.84",
+            "endtime": "0:04:57.76"
+        },
+        {
+            "baseForm": "苦手",
+            "reading": "にがて",
+            "pos": "形容動詞",
+            "meaning": "不擅长",
+            "exampleInText": "苦手だった",
+            "index": 65,
+            "starttime": "0:05:03.07",
+            "endtime": "0:05:07.71"
+        },
+        {
+            "baseForm": "何",
+            "reading": "なに",
+            "pos": "名詞",
+            "meaning": "什么",
+            "exampleInText": "何",
+            "index": 66,
+            "starttime": "0:05:08.90",
+            "endtime": "0:05:09.83"
+        },
+        {
+            "baseForm": "言う",
+            "reading": "いう",
+            "pos": "動詞",
+            "meaning": "说",
+            "exampleInText": "いう",
+            "index": 66,
+            "starttime": "0:05:08.90",
+            "endtime": "0:05:09.83"
+        },
+        {
+            "baseForm": "むき出し",
+            "reading": "むきだし",
+            "pos": "名詞",
+            "meaning": "裸露",
+            "exampleInText": "むき出し",
+            "index": 67,
+            "starttime": "0:05:09.83",
+            "endtime": "0:05:11.48"
+        },
+        {
+            "baseForm": "叫び",
+            "reading": "さけび",
+            "pos": "名詞",
+            "meaning": "叫喊",
+            "exampleInText": "叫び",
+            "index": 68,
+            "starttime": "0:05:12.09",
+            "endtime": "0:05:15.55"
+        },
+        {
+            "baseForm": "多分",
+            "reading": "たぶん",
+            "pos": "副詞",
+            "meaning": "大概",
+            "exampleInText": "多分",
+            "index": 69,
+            "starttime": "0:05:16.57",
+            "endtime": "0:05:19.32"
+        },
+        {
+            "baseForm": "気づく",
+            "reading": "きづく",
+            "pos": "動詞",
+            "meaning": "意识到",
+            "exampleInText": "気づく",
+            "index": 70,
+            "starttime": "0:05:22.61",
+            "endtime": "0:05:24.58"
+        },
+        {
+            "baseForm": "随分",
+            "reading": "ずいぶん",
+            "pos": "副詞",
+            "meaning": "相当，十分",
+            "exampleInText": "随分",
+            "index": 70,
+            "starttime": "0:05:22.61",
+            "endtime": "0:05:24.58"
+        },
+        {
+            "baseForm": "かかる",
+            "reading": "かかる",
+            "pos": "動詞",
+            "meaning": "花费（时间、金钱等）",
+            "exampleInText": "かかっちゃった",
+            "index": 70,
+            "starttime": "0:05:22.61",
+            "endtime": "0:05:24.58"
+        },
+        {
+            "baseForm": "自己中",
+            "reading": "じこちゅう",
+            "pos": "名詞",
+            "meaning": "自我中心，自私",
+            "exampleInText": "自己中",
+            "index": 71,
+            "starttime": "0:05:25.21",
+            "endtime": "0:05:29.22"
+        },
+        {
+            "baseForm": "分かる",
+            "reading": "わかる",
+            "pos": "動詞",
+            "meaning": "理解，明白",
+            "exampleInText": "分からなくて",
+            "index": 71,
+            "starttime": "0:05:25.21",
+            "endtime": "0:05:29.22"
+        },
+        {
+            "baseForm": "今",
+            "reading": "いま",
+            "pos": "名詞",
+            "meaning": "现在",
+            "exampleInText": "今まで",
+            "index": 72,
+            "starttime": "0:05:30.18",
+            "endtime": "0:05:33.15"
+        },
+        {
+            "baseForm": "向き合う",
+            "reading": "むきあう",
+            "pos": "動詞",
+            "meaning": "面对",
+            "exampleInText": "向き合って",
+            "index": 72,
+            "starttime": "0:05:30.18",
+            "endtime": "0:05:33.15"
+        },
+        {
+            "baseForm": "なかった",
+            "reading": "なかった",
+            "pos": "助動詞",
+            "meaning": "没有",
+            "exampleInText": "なかったんだ",
+            "index": 72,
+            "starttime": "0:05:30.18",
+            "endtime": "0:05:33.15"
+        },
+        {
+            "baseForm": "周り",
+            "reading": "まわり",
+            "pos": "名詞",
+            "meaning": "周围",
+            "exampleInText": "周りに",
+            "index": 73,
+            "starttime": "0:05:35.10",
+            "endtime": "0:05:37.42"
+        },
+        {
+            "baseForm": "受け入れる",
+            "reading": "うけいれる",
+            "pos": "動詞",
+            "meaning": "接受",
+            "exampleInText": "受け入れて",
+            "index": 73,
+            "starttime": "0:05:35.10",
+            "endtime": "0:05:37.42"
+        },
+        {
+            "baseForm": "もらう",
+            "reading": "もらう",
+            "pos": "動詞",
+            "meaning": "得到",
+            "exampleInText": "もらおう",
+            "index": 73,
+            "starttime": "0:05:35.10",
+            "endtime": "0:05:37.42"
+        },
+        {
+            "baseForm": "必死",
+            "reading": "ひっし",
+            "pos": "形容動詞",
+            "meaning": "拼命",
+            "exampleInText": "必死で",
+            "index": 73,
+            "starttime": "0:05:35.10",
+            "endtime": "0:05:37.42"
+        },
+        {
+            "baseForm": "優しい",
+            "reading": "やさしい",
+            "pos": "形容詞",
+            "meaning": "温柔的",
+            "exampleInText": "優しく",
+            "index": 74,
+            "starttime": "0:05:37.98",
+            "endtime": "0:05:42.17"
+        },
+        {
+            "baseForm": "偽善者",
+            "reading": "ぎぜんしゃ",
+            "pos": "名詞",
+            "meaning": "伪善者",
+            "exampleInText": "偽善者",
+            "index": 74,
+            "starttime": "0:05:37.98",
+            "endtime": "0:05:42.17"
+        },
+        {
+            "baseForm": "じゃない",
+            "reading": "じゃない",
+            "pos": "助動詞",
+            "meaning": "不是",
+            "exampleInText": "じゃない",
+            "index": 74,
+            "starttime": "0:05:37.98",
+            "endtime": "0:05:42.17"
+        },
+        {
+            "baseForm": "とか",
+            "reading": "とか",
+            "pos": "助詞",
+            "meaning": "等等",
+            "exampleInText": "とか",
+            "index": 74,
+            "starttime": "0:05:37.98",
+            "endtime": "0:05:42.17"
+        },
+        {
+            "baseForm": "考える",
+            "reading": "かんがえる",
+            "pos": "動詞",
+            "meaning": "思考，考虑",
+            "exampleInText": "考えだす",
+            "index": 75,
+            "starttime": "0:05:42.58",
+            "endtime": "0:05:46.14"
+        },
+        {
+            "baseForm": "なる",
+            "reading": "なる",
+            "pos": "動詞",
+            "meaning": "变成，成为",
+            "exampleInText": "なる",
+            "index": 75,
+            "starttime": "0:05:42.58",
+            "endtime": "0:05:46.14"
+        },
+        {
+            "baseForm": "考えない",
+            "reading": "かんがえない",
+            "pos": "動詞",
+            "meaning": "不考虑",
+            "exampleInText": "考えない",
+            "index": 75,
+            "starttime": "0:05:42.58",
+            "endtime": "0:05:46.14"
+        },
+        {
+            "baseForm": "よう",
+            "reading": "よう",
+            "pos": "名詞",
+            "meaning": "方式，样子",
+            "exampleInText": "よう",
+            "index": 75,
+            "starttime": "0:05:42.58",
+            "endtime": "0:05:46.14"
+        },
+        {
+            "baseForm": "してた",
+            "reading": "してた",
+            "pos": "動詞",
+            "meaning": "做（过去式）",
+            "exampleInText": "してた",
+            "index": 75,
+            "starttime": "0:05:42.58",
+            "endtime": "0:05:46.14"
+        },
+        {
+            "baseForm": "燈",
+            "reading": "あかり",
+            "pos": "名詞",
+            "meaning": "灯光，光",
+            "exampleInText": "燈ちゃん",
+            "index": 76,
+            "starttime": "0:05:47.28",
+            "endtime": "0:05:52.44"
+        },
+        {
+            "baseForm": "向き合う",
+            "reading": "むきあう",
+            "pos": "動詞",
+            "meaning": "面对，直面",
+            "exampleInText": "向き合う",
+            "index": 76,
+            "starttime": "0:05:47.28",
+            "endtime": "0:05:52.44"
+        },
+        {
+            "baseForm": "結構",
+            "reading": "けっこう",
+            "pos": "副詞",
+            "meaning": "相当，颇",
+            "exampleInText": "結構",
+            "index": 77,
+            "starttime": "0:05:53.13",
+            "endtime": "0:05:54.49"
+        },
+        {
+            "baseForm": "ヤバイ",
+            "reading": "やばい",
+            "pos": "形容詞",
+            "meaning": "糟糕的，危险的",
+            "exampleInText": "ヤバイ",
+            "index": 77,
+            "starttime": "0:05:53.13",
+            "endtime": "0:05:54.49"
+        },
+        {
+            "baseForm": "じゃあ",
+            "reading": "じゃあ",
+            "pos": "接続詞",
+            "meaning": "那么",
+            "exampleInText": "じゃあね",
+            "index": 79,
+            "starttime": "0:05:58.59",
+            "endtime": "0:05:59.23"
+        },
+        {
+            "baseForm": "忘れる",
+            "reading": "わすれる",
+            "pos": "動詞",
+            "meaning": "忘记",
+            "exampleInText": "忘れられない",
+            "index": 81,
+            "starttime": "0:06:03.42",
+            "endtime": "0:06:07.56"
+        },
+        {
+            "baseForm": "こと",
+            "reading": "こと",
+            "pos": "名詞",
+            "meaning": "事情",
+            "exampleInText": "こと",
+            "index": 81,
+            "starttime": "0:06:03.42",
+            "endtime": "0:06:07.56"
+        },
+        {
+            "baseForm": "CRYCHIC",
+            "reading": "CRYCHIC",
+            "pos": "名詞",
+            "meaning": "CRYCHIC（专有名词）",
+            "exampleInText": "CRYCHIC",
+            "index": 81,
+            "starttime": "0:06:03.42",
+            "endtime": "0:06:07.56"
+        },
+        {
+            "baseForm": "うん",
+            "reading": "うん",
+            "pos": "感動詞",
+            "meaning": "嗯",
+            "exampleInText": "うん",
+            "index": 82,
+            "starttime": "0:06:09.81",
+            "endtime": "0:06:11.55"
+        },
+        {
+            "baseForm": "夏",
+            "reading": "なつ",
+            "pos": "名詞",
+            "meaning": "夏天",
+            "exampleInText": "夏",
+            "index": 83,
+            "starttime": "0:06:15.69",
+            "endtime": "0:06:18.80"
+        },
+        {
+            "baseForm": "甲子園",
+            "reading": "こうしえん",
+            "pos": "名詞",
+            "meaning": "甲子园（日本的棒球场）",
+            "exampleInText": "甲子園",
+            "index": 83,
+            "starttime": "0:06:15.69",
+            "endtime": "0:06:18.80"
+        },
+        {
+            "baseForm": "目指す",
+            "reading": "めざす",
+            "pos": "動詞",
+            "meaning": "以…为目标",
+            "exampleInText": "目指す",
+            "index": 83,
+            "starttime": "0:06:15.69",
+            "endtime": "0:06:18.80"
+        },
+        {
+            "baseForm": "高校",
+            "reading": "こうこう",
+            "pos": "名詞",
+            "meaning": "高中",
+            "exampleInText": "高校",
+            "index": 83,
+            "starttime": "0:06:15.69",
+            "endtime": "0:06:18.80"
+        },
+        {
+            "baseForm": "球児",
+            "reading": "きゅうじ",
+            "pos": "名詞",
+            "meaning": "球员（特别是棒球）",
+            "exampleInText": "球児",
+            "index": 83,
+            "starttime": "0:06:15.69",
+            "endtime": "0:06:18.80"
+        },
+        {
+            "baseForm": "戦い",
+            "reading": "たたかい",
+            "pos": "名詞",
+            "meaning": "战斗，比赛",
+            "exampleInText": "戦い",
+            "index": 83,
+            "starttime": "0:06:15.69",
+            "endtime": "0:06:18.80"
+        },
+        {
+            "baseForm": "出場",
+            "reading": "しゅつじょう",
+            "pos": "名詞",
+            "meaning": "出场，参赛",
+            "exampleInText": "出場",
+            "index": 86,
+            "starttime": "0:06:20.88",
+            "endtime": "0:06:23.25"
+        },
+        {
+            "baseForm": "今年",
+            "reading": "ことし",
+            "pos": "名詞",
+            "meaning": "今年",
+            "exampleInText": "今年",
+            "index": 86,
+            "starttime": "0:06:20.88",
+            "endtime": "0:06:23.25"
+        },
+        {
+            "baseForm": "東京",
+            "reading": "とうきょう",
+            "pos": "名詞",
+            "meaning": "东京",
+            "exampleInText": "東京",
+            "index": 86,
+            "starttime": "0:06:20.88",
+            "endtime": "0:06:23.25"
+        },
+        {
+            "baseForm": "大会",
+            "reading": "たいかい",
+            "pos": "名詞",
+            "meaning": "大会",
+            "exampleInText": "大会",
+            "index": 86,
+            "starttime": "0:06:20.88",
+            "endtime": "0:06:23.25"
+        },
+        {
+            "baseForm": "うん",
+            "reading": "うん",
+            "pos": "感動詞",
+            "meaning": "嗯（表示同意或理解）",
+            "exampleInText": "うん",
+            "index": 87,
+            "starttime": "0:06:23.25",
+            "endtime": "0:06:23.92"
+        },
+        {
+            "baseForm": "ただいま",
+            "reading": "ただいま",
+            "pos": "感動詞",
+            "meaning": "我回来了",
+            "exampleInText": "ただいま",
+            "index": 85,
+            "starttime": "0:06:20.26",
+            "endtime": "0:06:20.88"
+        },
+        {
+            "baseForm": "おかえり",
+            "reading": "おかえり",
+            "pos": "感動詞",
+            "meaning": "欢迎回来",
+            "exampleInText": "おかえり",
+            "index": 84,
+            "starttime": "0:06:18.80",
+            "endtime": "0:06:20.26"
+        },
+        {
+            "baseForm": "部室",
+            "reading": "ぶしつ",
+            "pos": "名詞",
+            "meaning": "社团活动室",
+            "exampleInText": "部室",
+            "index": 88,
+            "starttime": "0:06:31.10",
+            "endtime": "0:06:32.20"
+        },
+        {
+            "baseForm": "お幸せ",
+            "reading": "おしあわせ",
+            "pos": "名詞",
+            "meaning": "幸福",
+            "exampleInText": "お幸せに",
+            "index": 92,
+            "starttime": "0:07:09.16",
+            "endtime": "0:07:10.45"
+        },
+        {
+            "baseForm": "かわいい",
+            "reading": "かわいい",
+            "pos": "形容詞",
+            "meaning": "可爱的",
+            "exampleInText": "かわいくない",
+            "index": 93,
+            "starttime": "0:07:23.48",
+            "endtime": "0:07:26.46"
+        },
+        {
+            "baseForm": "アイス",
+            "reading": "あいす",
+            "pos": "名詞",
+            "meaning": "冰淇淋",
+            "exampleInText": "アイス",
+            "index": 93,
+            "starttime": "0:07:23.48",
+            "endtime": "0:07:26.46"
+        },
+        {
+            "baseForm": "みたい",
+            "reading": "みたい",
+            "pos": "助動詞",
+            "meaning": "像…一样",
+            "exampleInText": "みたい",
+            "index": 93,
+            "starttime": "0:07:23.48",
+            "endtime": "0:07:26.46"
+        },
+        {
+            "baseForm": "ほら",
+            "reading": "ほら",
+            "pos": "感動詞",
+            "meaning": "看！",
+            "exampleInText": "ほら",
+            "index": 94,
+            "starttime": "0:07:26.76",
+            "endtime": "0:07:28.12"
+        },
+        {
+            "baseForm": "ともりん",
+            "reading": "ともりん",
+            "pos": "名詞",
+            "meaning": "人名（可能是昵称）",
+            "exampleInText": "ともりん",
+            "index": 94,
+            "starttime": "0:07:26.76",
+            "endtime": "0:07:28.12"
+        },
+        {
+            "baseForm": "ともりん",
+            "reading": "ともりん",
+            "pos": "名詞",
+            "meaning": "人名或昵称",
+            "exampleInText": "ともりん",
+            "index": 95,
+            "starttime": "0:07:31.96",
+            "endtime": "0:07:35.07"
+        },
+        {
+            "baseForm": "そよりん",
+            "reading": "そよりん",
+            "pos": "名詞",
+            "meaning": "人名或昵称",
+            "exampleInText": "そよりん",
+            "index": 95,
+            "starttime": "0:07:31.96",
+            "endtime": "0:07:35.07"
+        },
+        {
+            "baseForm": "来る",
+            "reading": "くる",
+            "pos": "動詞",
+            "meaning": "来",
+            "exampleInText": "来る",
+            "index": 95,
+            "starttime": "0:07:31.96",
+            "endtime": "0:07:35.07"
+        },
+        {
+            "baseForm": "本当に",
+            "reading": "ほんとうに",
+            "pos": "副詞",
+            "meaning": "真的",
+            "exampleInText": "本当に",
+            "index": 97,
+            "starttime": "0:07:41.23",
+            "endtime": "0:07:43.70"
+        },
+        {
+            "baseForm": "空",
+            "reading": "そら",
+            "pos": "名詞",
+            "meaning": "天空",
+            "exampleInText": "空",
+            "index": 97,
+            "starttime": "0:07:41.23",
+            "endtime": "0:07:43.70"
+        },
+        {
+            "baseForm": "飛ぶ",
+            "reading": "とぶ",
+            "pos": "動詞",
+            "meaning": "飞",
+            "exampleInText": "飛んでる",
+            "index": 97,
+            "starttime": "0:07:41.23",
+            "endtime": "0:07:43.70"
+        },
+        {
+            "baseForm": "はい",
+            "reading": "はい",
+            "pos": "感動詞",
+            "meaning": "是的",
+            "exampleInText": "はい",
+            "index": 98,
+            "starttime": "0:07:49.61",
+            "endtime": "0:07:50.12"
+        },
+        {
+            "baseForm": "前",
+            "reading": "まえ",
+            "pos": "名詞",
+            "meaning": "前面",
+            "exampleInText": "前",
+            "index": 99,
+            "starttime": "0:07:50.87",
+            "endtime": "0:07:53.49"
+        },
+        {
+            "baseForm": "いっぱい",
+            "reading": "いっぱい",
+            "pos": "副詞",
+            "meaning": "很多",
+            "exampleInText": "いっぱい",
+            "index": 99,
+            "starttime": "0:07:50.87",
+            "endtime": "0:07:53.49"
+        },
+        {
+            "baseForm": "年パス",
+            "reading": "ねんぱす",
+            "pos": "名詞",
+            "meaning": "年票",
+            "exampleInText": "年パス",
+            "index": 101,
+            "starttime": "0:07:57.26",
+            "endtime": "0:07:59.75"
+        },
+        {
+            "baseForm": "作る",
+            "reading": "つくる",
+            "pos": "動詞",
+            "meaning": "制作",
+            "exampleInText": "作ろう",
+            "index": 101,
+            "starttime": "0:07:57.26",
+            "endtime": "0:07:59.75"
+        },
+        {
+            "baseForm": "心",
+            "reading": "こころ",
+            "pos": "名詞",
+            "meaning": "心，内心",
+            "exampleInText": "心にも",
+            "index": 102,
+            "starttime": "0:08:00.46",
+            "endtime": "0:08:04.15"
+        },
+        {
+            "baseForm": "バンソウコウ",
+            "reading": "ばんそうこう",
+            "pos": "名詞",
+            "meaning": "创可贴",
+            "exampleInText": "バンソウコウ",
+            "index": 102,
+            "starttime": "0:08:00.46",
+            "endtime": "0:08:04.15"
+        },
+        {
+            "baseForm": "貼る",
+            "reading": "はる",
+            "pos": "動詞",
+            "meaning": "贴，粘",
+            "exampleInText": "貼れたら",
+            "index": 102,
+            "starttime": "0:08:00.46",
+            "endtime": "0:08:04.15"
+        },
+        {
+            "baseForm": "前",
+            "reading": "まえ",
+            "pos": "名詞",
+            "meaning": "前，之前",
+            "exampleInText": "前に",
+            "index": 104,
+            "starttime": "0:08:11.46",
+            "endtime": "0:08:13.48"
+        },
+        {
+            "baseForm": "慰める",
+            "reading": "なぐさめる",
+            "pos": "動詞",
+            "meaning": "安慰",
+            "exampleInText": "慰めてくれた",
+            "index": 104,
+            "starttime": "0:08:11.46",
+            "endtime": "0:08:13.48"
+        },
+        {
+            "baseForm": "中学",
+            "reading": "ちゅうがく",
+            "pos": "名詞",
+            "meaning": "中学",
+            "exampleInText": "中学",
+            "index": 105,
+            "starttime": "0:08:13.48",
+            "endtime": "0:08:16.27"
+        },
+        {
+            "baseForm": "同級生",
+            "reading": "どうきゅうせい",
+            "pos": "名詞",
+            "meaning": "同班同学",
+            "exampleInText": "同級生",
+            "index": 105,
+            "starttime": "0:08:13.48",
+            "endtime": "0:08:16.27"
+        },
+        {
+            "baseForm": "見つかる",
+            "reading": "みつかる",
+            "pos": "動詞",
+            "meaning": "被发现",
+            "exampleInText": "見つかって",
+            "index": 105,
+            "starttime": "0:08:13.48",
+            "endtime": "0:08:16.27"
+        },
+        {
+            "baseForm": "夢中",
+            "reading": "むちゅう",
+            "pos": "名詞",
+            "meaning": "专注，入迷",
+            "exampleInText": "夢中",
+            "index": 106,
+            "starttime": "0:08:16.27",
+            "endtime": "0:08:18.91"
+        },
+        {
+            "baseForm": "屋上",
+            "reading": "おくじょう",
+            "pos": "名詞",
+            "meaning": "屋顶",
+            "exampleInText": "屋上",
+            "index": 107,
+            "starttime": "0:08:18.91",
+            "endtime": "0:08:22.56"
+        },
+        {
+            "baseForm": "結構",
+            "reading": "けっこう",
+            "pos": "副詞",
+            "meaning": "相当，挺",
+            "exampleInText": "結構",
+            "index": 107,
+            "starttime": "0:08:18.91",
+            "endtime": "0:08:22.56"
+        },
+        {
+            "baseForm": "刺さる",
+            "reading": "ささる",
+            "pos": "動詞",
+            "meaning": "刺入，刺中",
+            "exampleInText": "刺さった",
+            "index": 107,
+            "starttime": "0:08:18.91",
+            "endtime": "0:08:22.56"
+        },
+        {
+            "baseForm": "あと",
+            "reading": "あと",
+            "pos": "副詞",
+            "meaning": "之后",
+            "exampleInText": "あと",
+            "index": 108,
+            "starttime": "0:08:23.80",
+            "endtime": "0:08:24.49"
+        },
+        {
+            "baseForm": "そんな",
+            "reading": "そんな",
+            "pos": "連体詞",
+            "meaning": "那样的",
+            "exampleInText": "そんなに",
+            "index": 109,
+            "starttime": "0:08:24.49",
+            "endtime": "0:08:25.40"
+        },
+        {
+            "baseForm": "聞く",
+            "reading": "きく",
+            "pos": "動詞",
+            "meaning": "听",
+            "exampleInText": "聞いて",
+            "index": 110,
+            "starttime": "0:08:25.40",
+            "endtime": "0:08:27.78"
+        },
+        {
+            "baseForm": "あれ",
+            "reading": "あれ",
+            "pos": "代名詞",
+            "meaning": "那个",
+            "exampleInText": "あれ",
+            "index": 112,
+            "starttime": "0:08:31.47",
+            "endtime": "0:08:36.54"
+        },
+        {
+            "baseForm": "やる",
+            "reading": "やる",
+            "pos": "動詞",
+            "meaning": "做",
+            "exampleInText": "やる",
+            "index": 112,
+            "starttime": "0:08:31.47",
+            "endtime": "0:08:36.54"
+        },
+        {
+            "baseForm": "頑張る",
+            "reading": "がんばる",
+            "pos": "動詞",
+            "meaning": "努力",
+            "exampleInText": "頑張って",
+            "index": 112,
+            "starttime": "0:08:31.47",
+            "endtime": "0:08:36.54"
+        },
+        {
+            "baseForm": "みる",
+            "reading": "みる",
+            "pos": "動詞",
+            "meaning": "看，尝试",
+            "exampleInText": "みる",
+            "index": 112,
+            "starttime": "0:08:31.47",
+            "endtime": "0:08:36.54"
+        },
+        {
+            "baseForm": "途方もない",
+            "reading": "とほうもない",
+            "pos": "形容詞",
+            "meaning": "不可思议的",
+            "exampleInText": "途方もない",
+            "index": 113,
+            "starttime": "0:08:37.37",
+            "endtime": "0:08:39.24"
+        },
+        {
+            "baseForm": "積み重ねる",
+            "reading": "つみかさねる",
+            "pos": "動詞",
+            "meaning": "积累",
+            "exampleInText": "積み重ね",
+            "index": 114,
+            "starttime": "0:08:39.24",
+            "endtime": "0:08:43.42"
+        },
+        {
+            "baseForm": "案外",
+            "reading": "あんがい",
+            "pos": "副詞",
+            "meaning": "意外地",
+            "exampleInText": "案外",
+            "index": 114,
+            "starttime": "0:08:39.24",
+            "endtime": "0:08:43.42"
+        },
+        {
+            "baseForm": "いける",
+            "reading": "いける",
+            "pos": "動詞",
+            "meaning": "可以",
+            "exampleInText": "いける",
+            "index": 114,
+            "starttime": "0:08:39.24",
+            "endtime": "0:08:43.42"
+        },
+        {
+            "baseForm": "正直",
+            "reading": "しょうじき",
+            "pos": "形容動詞",
+            "meaning": "老实",
+            "exampleInText": "正直",
+            "index": 115,
+            "starttime": "0:08:43.89",
+            "endtime": "0:08:45.69"
+        },
+        {
+            "baseForm": "自信",
+            "reading": "じしん",
+            "pos": "名詞",
+            "meaning": "自信",
+            "exampleInText": "自信",
+            "index": 115,
+            "starttime": "0:08:43.89",
+            "endtime": "0:08:45.69"
+        },
+        {
+            "baseForm": "わめく",
+            "reading": "わめく",
+            "pos": "動詞",
+            "meaning": "叫喊",
+            "exampleInText": "わめいたり",
+            "index": 116,
+            "starttime": "0:08:45.69",
+            "endtime": "0:08:47.66"
+        },
+        {
+            "baseForm": "かも",
+            "reading": "かも",
+            "pos": "助詞",
+            "meaning": "可能",
+            "exampleInText": "かも",
+            "index": 114,
+            "starttime": "0:08:39.24",
+            "endtime": "0:08:43.42"
+        },
+        {
+            "baseForm": "迷う",
+            "reading": "まよう",
+            "pos": "動詞",
+            "meaning": "迷惑，犹豫",
+            "exampleInText": "迷い",
+            "index": 117,
+            "starttime": "0:08:47.66",
+            "endtime": "0:08:49.91"
+        },
+        {
+            "baseForm": "進む",
+            "reading": "すすむ",
+            "pos": "動詞",
+            "meaning": "前进",
+            "exampleInText": "進めば",
+            "index": 117,
+            "starttime": "0:08:47.66",
+            "endtime": "0:08:49.91"
+        },
+        {
+            "baseForm": "なに",
+            "reading": "なに",
+            "pos": "名詞",
+            "meaning": "什么",
+            "exampleInText": "なに",
+            "index": 118,
+            "starttime": "0:08:53.14",
+            "endtime": "0:08:54.20"
+        },
+        {
+            "baseForm": "よろしく",
+            "reading": "よろしく",
+            "pos": "副詞",
+            "meaning": "请多关照",
+            "exampleInText": "よろしく",
+            "index": 119,
+            "starttime": "0:08:54.63",
+            "endtime": "0:08:56.24"
+        },
+        {
+            "baseForm": "お願いする",
+            "reading": "おねがいする",
+            "pos": "動詞",
+            "meaning": "请求",
+            "exampleInText": "お願いします",
+            "index": 119,
+            "starttime": "0:08:54.63",
+            "endtime": "0:08:56.24"
+        },
+        {
+            "baseForm": "ありがとう",
+            "reading": "ありがとう",
+            "pos": "感動詞",
+            "meaning": "谢谢",
+            "exampleInText": "ありがとう",
+            "index": 122,
+            "starttime": "0:09:03.40",
+            "endtime": "0:09:05.55"
+        },
+        {
+            "baseForm": "以上",
+            "reading": "いじょう",
+            "pos": "名詞",
+            "meaning": "以上",
+            "exampleInText": "以上",
+            "index": 123,
+            "starttime": "0:09:08.34",
+            "endtime": "0:09:11.61"
+        },
+        {
+            "baseForm": "本日",
+            "reading": "ほんじつ",
+            "pos": "名詞",
+            "meaning": "今天",
+            "exampleInText": "本日の",
+            "index": 123,
+            "starttime": "0:09:08.34",
+            "endtime": "0:09:11.61"
+        },
+        {
+            "baseForm": "プログラム",
+            "reading": "ぷろぐらむ",
+            "pos": "名詞",
+            "meaning": "程序",
+            "exampleInText": "プログラム",
+            "index": 123,
+            "starttime": "0:09:08.34",
+            "endtime": "0:09:11.61"
+        },
+        {
+            "baseForm": "終了",
+            "reading": "しゅうりょう",
+            "pos": "名詞",
+            "meaning": "结束",
+            "exampleInText": "終了",
+            "index": 123,
+            "starttime": "0:09:08.34",
+            "endtime": "0:09:11.61"
+        },
+        {
+            "baseForm": "場内",
+            "reading": "じょうない",
+            "pos": "名詞",
+            "meaning": "场内",
+            "exampleInText": "場内",
+            "index": 124,
+            "starttime": "0:09:11.92",
+            "endtime": "0:09:14.30"
+        },
+        {
+            "baseForm": "段差",
+            "reading": "だんさ",
+            "pos": "名詞",
+            "meaning": "台阶",
+            "exampleInText": "段差",
+            "index": 124,
+            "starttime": "0:09:11.92",
+            "endtime": "0:09:14.30"
+        },
+        {
+            "baseForm": "ございます",
+            "reading": "ございます",
+            "pos": "動詞",
+            "meaning": "有（礼貌语）",
+            "exampleInText": "ございます",
+            "index": 124,
+            "starttime": "0:09:11.92",
+            "endtime": "0:09:14.30"
+        },
+        {
+            "baseForm": "足元",
+            "reading": "あしもと",
+            "pos": "名詞",
+            "meaning": "脚下",
+            "exampleInText": "足元",
+            "index": 125,
+            "starttime": "0:09:14.30",
+            "endtime": "0:09:16.92"
+        },
+        {
+            "baseForm": "お気をつける",
+            "reading": "おきをつける",
+            "pos": "動詞",
+            "meaning": "请小心",
+            "exampleInText": "お気をつけて",
+            "index": 125,
+            "starttime": "0:09:14.30",
+            "endtime": "0:09:16.92"
+        },
+        {
+            "baseForm": "帰る",
+            "reading": "かえる",
+            "pos": "動詞",
+            "meaning": "回家",
+            "exampleInText": "帰り",
+            "index": 125,
+            "starttime": "0:09:14.30",
+            "endtime": "0:09:16.92"
+        },
+        {
+            "baseForm": "連絡",
+            "reading": "れんらく",
+            "pos": "名詞",
+            "meaning": "联系",
+            "exampleInText": "連絡",
+            "index": 126,
+            "starttime": "0:09:17.74",
+            "endtime": "0:09:20.29"
+        },
+        {
+            "baseForm": "えっ",
+            "reading": "えっ",
+            "pos": "感動詞",
+            "meaning": "哎？",
+            "exampleInText": "えっ？",
+            "index": 127,
+            "starttime": "0:09:20.29",
+            "endtime": "0:09:20.76"
+        },
+        {
+            "baseForm": "怒る",
+            "reading": "おこる",
+            "pos": "動詞",
+            "meaning": "生气",
+            "exampleInText": "怒ってる",
+            "index": 129,
+            "starttime": "0:09:22.54",
+            "endtime": "0:09:24.93"
+        },
+        {
+            "baseForm": "会う",
+            "reading": "あう",
+            "pos": "動詞",
+            "meaning": "见面",
+            "exampleInText": "会えた",
+            "index": 131,
+            "starttime": "0:09:26.06",
+            "endtime": "0:09:27.29"
+        },
+        {
+            "baseForm": "歌う",
+            "reading": "うたう",
+            "pos": "動詞",
+            "meaning": "唱歌",
+            "exampleInText": "歌って",
+            "index": 134,
+            "starttime": "0:09:33.88",
+            "endtime": "0:09:36.18"
+        },
+        {
+            "baseForm": "伝わる",
+            "reading": "つたわる",
+            "pos": "動詞",
+            "meaning": "传达",
+            "exampleInText": "伝わる",
+            "index": 134,
+            "starttime": "0:09:33.88",
+            "endtime": "0:09:36.18"
+        },
+        {
+            "baseForm": "気",
+            "reading": "き",
+            "pos": "名詞",
+            "meaning": "心情，感觉",
+            "exampleInText": "気",
+            "index": 134,
+            "starttime": "0:09:33.88",
+            "endtime": "0:09:36.18"
+        },
+        {
+            "baseForm": "初華",
+            "reading": "はつか",
+            "pos": "名詞",
+            "meaning": "初华（人名）",
+            "exampleInText": "初華",
+            "index": 135,
+            "starttime": "0:09:37.31",
+            "endtime": "0:09:39.18"
+        },
+        {
+            "baseForm": "すみません",
+            "reading": "すみません",
+            "pos": "感動詞",
+            "meaning": "对不起",
+            "exampleInText": "すみません",
+            "index": 136,
+            "starttime": "0:09:39.60",
+            "endtime": "0:09:41.58"
+        },
+        {
+            "baseForm": "オフ",
+            "reading": "おふ",
+            "pos": "名詞",
+            "meaning": "关闭，休息",
+            "exampleInText": "オフ",
+            "index": 136,
+            "starttime": "0:09:39.60",
+            "endtime": "0:09:41.58"
+        },
+        {
+            "baseForm": "ううん",
+            "reading": "ううん",
+            "pos": "感動詞",
+            "meaning": "不，不是",
+            "exampleInText": "ううん",
+            "index": 137,
+            "starttime": "0:09:41.58",
+            "endtime": "0:09:44.96"
+        },
+        {
+            "baseForm": "知る",
+            "reading": "しる",
+            "pos": "動詞",
+            "meaning": "知道",
+            "exampleInText": "知ってて",
+            "index": 137,
+            "starttime": "0:09:41.58",
+            "endtime": "0:09:44.96"
+        },
+        {
+            "baseForm": "うれしい",
+            "reading": "うれしい",
+            "pos": "形容詞",
+            "meaning": "高兴的",
+            "exampleInText": "うれしい",
+            "index": 137,
+            "starttime": "0:09:41.58",
+            "endtime": "0:09:44.96"
+        },
+        {
+            "baseForm": "どうしよう",
+            "reading": "どうしよう",
+            "pos": "感動詞",
+            "meaning": "怎么办",
+            "exampleInText": "どうしよう",
+            "index": 139,
+            "starttime": "0:09:48.46",
+            "endtime": "0:09:50.71"
+        },
+        {
+            "baseForm": "人",
+            "reading": "ひと",
+            "pos": "名詞",
+            "meaning": "人",
+            "exampleInText": "人",
+            "index": 140,
+            "starttime": "0:09:50.71",
+            "endtime": "0:09:52.42"
+        },
+        {
+            "baseForm": "前",
+            "reading": "まえ",
+            "pos": "名詞",
+            "meaning": "之前",
+            "exampleInText": "前",
+            "index": 141,
+            "starttime": "0:09:52.42",
+            "endtime": "0:09:54.72"
+        },
+        {
+            "baseForm": "教える",
+            "reading": "おしえる",
+            "pos": "動詞",
+            "meaning": "教",
+            "exampleInText": "教えた",
+            "index": 141,
+            "starttime": "0:09:52.42",
+            "endtime": "0:09:54.72"
+        },
+        {
+            "baseForm": "初めて",
+            "reading": "はじめて",
+            "pos": "副詞",
+            "meaning": "第一次",
+            "exampleInText": "初めて",
+            "index": 142,
+            "starttime": "0:09:54.72",
+            "endtime": "0:09:57.58"
+        },
+        {
+            "baseForm": "一緒",
+            "reading": "いっしょ",
+            "pos": "名詞",
+            "meaning": "一起",
+            "exampleInText": "一緒",
+            "index": 142,
+            "starttime": "0:09:54.72",
+            "endtime": "0:09:57.58"
+        },
+        {
+            "baseForm": "カラオケ",
+            "reading": "からおけ",
+            "pos": "名詞",
+            "meaning": "卡拉OK",
+            "exampleInText": "カラオケ",
+            "index": 142,
+            "starttime": "0:09:54.72",
+            "endtime": "0:09:57.58"
+        },
+        {
+            "baseForm": "良い",
+            "reading": "よい",
+            "pos": "形容詞",
+            "meaning": "好的",
+            "exampleInText": "良かった",
+            "index": 144,
+            "starttime": "0:09:59.17",
+            "endtime": "0:10:01.24"
+        },
+        {
+            "baseForm": "知り合い",
+            "reading": "しりあい",
+            "pos": "名詞",
+            "meaning": "熟人",
+            "exampleInText": "知り合い",
+            "index": 149,
+            "starttime": "0:10:07.45",
+            "endtime": "0:10:08.50"
+        },
+        {
+            "baseForm": "間",
+            "reading": "あいだ",
+            "pos": "名詞",
+            "meaning": "期间",
+            "exampleInText": "この間",
+            "index": 150,
+            "starttime": "0:10:08.50",
+            "endtime": "0:10:12.20"
+        },
+        {
+            "baseForm": "プラネタリウム",
+            "reading": "ぷらねたりうむ",
+            "pos": "名詞",
+            "meaning": "天文馆",
+            "exampleInText": "プラネタリウム",
+            "index": 150,
+            "starttime": "0:10:08.50",
+            "endtime": "0:10:12.20"
+        },
+        {
+            "baseForm": "あっ",
+            "reading": "あっ",
+            "pos": "感動詞",
+            "meaning": "啊",
+            "exampleInText": "あっ",
+            "index": 152,
+            "starttime": "0:10:13.67",
+            "endtime": "0:10:15.32"
+        },
+        {
+            "baseForm": "ギター",
+            "reading": "ぎたー",
+            "pos": "名詞",
+            "meaning": "吉他",
+            "exampleInText": "ギター",
+            "index": 152,
+            "starttime": "0:10:13.67",
+            "endtime": "0:10:15.32"
+        },
+        {
+            "baseForm": "M・Y・G・O",
+            "reading": "エム・ワイ・ジー・オー",
+            "pos": "名詞",
+            "meaning": "M・Y・G・O（名称）",
+            "exampleInText": "M・Y・G・O",
+            "index": 155,
+            "starttime": "0:10:18.08",
+            "endtime": "0:10:21.78"
+        },
+        {
+            "baseForm": "マイゴ",
+            "reading": "まいご",
+            "pos": "名詞",
+            "meaning": "迷路，迷失",
+            "exampleInText": "マイゴ",
+            "index": 155,
+            "starttime": "0:10:18.08",
+            "endtime": "0:10:21.78"
+        },
+        {
+            "baseForm": "よくない",
+            "reading": "よくない",
+            "pos": "形容詞",
+            "meaning": "不好，不行",
+            "exampleInText": "よくない",
+            "index": 155,
+            "starttime": "0:10:18.08",
+            "endtime": "0:10:21.78"
+        },
+        {
+            "baseForm": "迷子",
+            "reading": "まいご",
+            "pos": "名詞",
+            "meaning": "迷路中的人，迷路",
+            "exampleInText": "迷子",
+            "index": 156,
+            "starttime": "0:10:22.10",
+            "endtime": "0:10:24.90"
+        },
+        {
+            "baseForm": "フォロー",
+            "reading": "ふぉろー",
+            "pos": "名詞",
+            "meaning": "关注",
+            "exampleInText": "フォロー",
+            "index": 157,
+            "starttime": "0:10:27.03",
+            "endtime": "0:10:28.27"
+        },
+        {
+            "baseForm": "QRコード",
+            "reading": "きゅーあーるこーど",
+            "pos": "名詞",
+            "meaning": "二维码",
+            "exampleInText": "QRコード",
+            "index": 159,
+            "starttime": "0:10:29.16",
+            "endtime": "0:10:30.59"
+        },
+        {
+            "baseForm": "出す",
+            "reading": "だす",
+            "pos": "動詞",
+            "meaning": "拿出，提出",
+            "exampleInText": "出せる",
+            "index": 159,
+            "starttime": "0:10:29.16",
+            "endtime": "0:10:30.59"
+        },
+        {
+            "baseForm": "はい",
+            "reading": "はい",
+            "pos": "感動詞",
+            "meaning": "是，好的",
+            "exampleInText": "はい",
+            "index": 160,
+            "starttime": "0:10:32.13",
+            "endtime": "0:10:32.68"
+        },
+        {
+            "baseForm": "へっ",
+            "reading": "へっ",
+            "pos": "感動詞",
+            "meaning": "哼（表示惊讶或不满）",
+            "exampleInText": "へっ",
+            "index": 158,
+            "starttime": "0:10:28.27",
+            "endtime": "0:10:28.83"
+        },
+        {
+            "baseForm": "夢",
+            "reading": "ゆめ",
+            "pos": "名詞",
+            "meaning": "梦",
+            "exampleInText": "夢",
+            "index": 162,
+            "starttime": "0:10:38.77",
+            "endtime": "0:10:39.54"
+        },
+        {
+            "baseForm": "知らない",
+            "reading": "しらない",
+            "pos": "動詞",
+            "meaning": "不知道",
+            "exampleInText": "知らなかった",
+            "index": 165,
+            "starttime": "0:10:41.74",
+            "endtime": "0:10:45.12"
+        },
+        {
+            "baseForm": "ともりん",
+            "reading": "ともりん",
+            "pos": "名詞",
+            "meaning": "友林（人名）",
+            "exampleInText": "ともりん",
+            "index": 166,
+            "starttime": "0:10:45.71",
+            "endtime": "0:10:50.14"
+        },
+        {
+            "baseForm": "名前",
+            "reading": "なまえ",
+            "pos": "名詞",
+            "meaning": "名字",
+            "exampleInText": "名前",
+            "index": 166,
+            "starttime": "0:10:45.71",
+            "endtime": "0:10:50.14"
+        },
+        {
+            "baseForm": "やっぱり",
+            "reading": "やっぱり",
+            "pos": "副詞",
+            "meaning": "果然，果真",
+            "exampleInText": "やっぱり",
+            "index": 170,
+            "starttime": "0:11:07.73",
+            "endtime": "0:11:09.50"
+        },
+        {
+            "baseForm": "ちゃん",
+            "reading": "ちゃん",
+            "pos": "接尾語",
+            "meaning": "小，亲昵的称呼",
+            "exampleInText": "祥ちゃん",
+            "index": 170,
+            "starttime": "0:11:07.73",
+            "endtime": "0:11:09.50"
+        },
+        {
+            "baseForm": "三角",
+            "reading": "さんかく",
+            "pos": "名詞",
+            "meaning": "三角形",
+            "exampleInText": "三角さん",
+            "index": 172,
+            "starttime": "0:11:14.17",
+            "endtime": "0:11:16.25"
+        },
+        {
+            "baseForm": "どちら",
+            "reading": "どちら",
+            "pos": "代名詞",
+            "meaning": "哪边，哪位",
+            "exampleInText": "どちら",
+            "index": 172,
+            "starttime": "0:11:14.17",
+            "endtime": "0:11:16.25"
+        },
+        {
+            "baseForm": "通し",
+            "reading": "とおし",
+            "pos": "名詞",
+            "meaning": "通行，贯通",
+            "exampleInText": "通しリハ",
+            "index": 173,
+            "starttime": "0:11:16.25",
+            "endtime": "0:11:18.28"
+        },
+        {
+            "baseForm": "リハ",
+            "reading": "りは",
+            "pos": "名詞",
+            "meaning": "彩排，排练",
+            "exampleInText": "リハ",
+            "index": 173,
+            "starttime": "0:11:16.25",
+            "endtime": "0:11:18.28"
+        },
+        {
+            "baseForm": "あと",
+            "reading": "あと",
+            "pos": "名詞",
+            "meaning": "之后，剩下",
+            "exampleInText": "あと",
+            "index": 173,
+            "starttime": "0:11:16.25",
+            "endtime": "0:11:18.28"
+        },
+        {
+            "baseForm": "分",
+            "reading": "ふん",
+            "pos": "名詞",
+            "meaning": "分钟",
+            "exampleInText": "30分",
+            "index": 173,
+            "starttime": "0:11:16.25",
+            "endtime": "0:11:18.28"
+        },
+        {
+            "baseForm": "向かう",
+            "reading": "むかう",
+            "pos": "動詞",
+            "meaning": "前往，朝向",
+            "exampleInText": "向かってる",
+            "index": 174,
+            "starttime": "0:11:18.28",
+            "endtime": "0:11:21.67"
+        },
+        {
+            "baseForm": "ちょっと",
+            "reading": "ちょっと",
+            "pos": "副詞",
+            "meaning": "稍微，一点",
+            "exampleInText": "ちょっと",
+            "index": 174,
+            "starttime": "0:11:18.28",
+            "endtime": "0:11:21.67"
+        },
+        {
+            "baseForm": "星",
+            "reading": "ほし",
+            "pos": "名詞",
+            "meaning": "星星",
+            "exampleInText": "星",
+            "index": 174,
+            "starttime": "0:11:18.28",
+            "endtime": "0:11:21.67"
+        },
+        {
+            "baseForm": "見る",
+            "reading": "みる",
+            "pos": "動詞",
+            "meaning": "看，观看",
+            "exampleInText": "見てた",
+            "index": 174,
+            "starttime": "0:11:18.28",
+            "endtime": "0:11:21.67"
+        },
+        {
+            "baseForm": "あっ",
+            "reading": "あっ",
+            "pos": "感動詞",
+            "meaning": "啊，哎呀",
+            "exampleInText": "あっ",
+            "index": 175,
+            "starttime": "0:11:21.67",
+            "endtime": "0:11:23.92"
+        },
+        {
+            "baseForm": "です",
+            "reading": "です",
+            "pos": "助動詞",
+            "meaning": "是（礼貌语）",
+            "exampleInText": "ですか",
+            "index": 175,
+            "starttime": "0:11:21.67",
+            "endtime": "0:11:23.92"
+        },
+        {
+            "baseForm": "か",
+            "reading": "か",
+            "pos": "助詞",
+            "meaning": "吗（疑问助词）",
+            "exampleInText": "ですか",
+            "index": 175,
+            "starttime": "0:11:21.67",
+            "endtime": "0:11:23.92"
+        },
+        {
+            "baseForm": "おはよう",
+            "reading": "おはよう",
+            "pos": "挨拶",
+            "meaning": "早上好",
+            "exampleInText": "おはようございます",
+            "index": 176,
+            "starttime": "0:11:41.05",
+            "endtime": "0:11:42.04"
+        },
+        {
+            "baseForm": "失礼する",
+            "reading": "しつれいする",
+            "pos": "動詞",
+            "meaning": "失礼，告辞",
+            "exampleInText": "失礼します",
+            "index": 180,
+            "starttime": "0:11:47.37",
+            "endtime": "0:11:48.10"
+        },
+        {
+            "baseForm": "祐天寺",
+            "reading": "ゆうてんじ",
+            "pos": "名詞",
+            "meaning": "祐天寺（人名）",
+            "exampleInText": "祐天寺さん",
+            "index": 182,
+            "starttime": "0:11:51.71",
+            "endtime": "0:11:52.94"
+        },
+        {
+            "baseForm": "ステージ",
+            "reading": "すてーじ",
+            "pos": "名詞",
+            "meaning": "舞台",
+            "exampleInText": "ステージ",
+            "index": 183,
+            "starttime": "0:11:52.94",
+            "endtime": "0:11:56.07"
+        },
+        {
+            "baseForm": "ドラム",
+            "reading": "どらむ",
+            "pos": "名詞",
+            "meaning": "鼓",
+            "exampleInText": "ドラム",
+            "index": 183,
+            "starttime": "0:11:52.94",
+            "endtime": "0:11:56.07"
+        },
+        {
+            "baseForm": "調子",
+            "reading": "ちょうし",
+            "pos": "名詞",
+            "meaning": "状态，情况",
+            "exampleInText": "調子",
+            "index": 183,
+            "starttime": "0:11:52.94",
+            "endtime": "0:11:56.07"
+        },
+        {
+            "baseForm": "確認する",
+            "reading": "かくにんする",
+            "pos": "動詞",
+            "meaning": "确认",
+            "exampleInText": "確認したい",
+            "index": 183,
+            "starttime": "0:11:52.94",
+            "endtime": "0:11:56.07"
+        },
+        {
+            "baseForm": "そう",
+            "reading": "そう",
+            "pos": "副詞",
+            "meaning": "听说，似乎",
+            "exampleInText": "そうで",
+            "index": 183,
+            "starttime": "0:11:52.94",
+            "endtime": "0:11:56.07"
+        },
+        {
+            "baseForm": "戻る",
+            "reading": "もどる",
+            "pos": "動詞",
+            "meaning": "返回",
+            "exampleInText": "戻ります",
+            "index": 184,
+            "starttime": "0:11:57.03",
+            "endtime": "0:11:59.47"
+        },
+        {
+            "baseForm": "お披露目",
+            "reading": "おひろめ",
+            "pos": "名詞",
+            "meaning": "首次公开",
+            "exampleInText": "お披露目",
+            "index": 186,
+            "starttime": "0:12:02.45",
+            "endtime": "0:12:04.87"
+        },
+        {
+            "baseForm": "にゃむ",
+            "reading": "にゃむ",
+            "pos": "名詞",
+            "meaning": "喵喵（拟声词）",
+            "exampleInText": "にゃむにゃむ",
+            "index": 185,
+            "starttime": "0:12:00.45",
+            "endtime": "0:12:02.45"
+        },
+        {
+            "baseForm": "マスカレード",
+            "reading": "ますかれーど",
+            "pos": "名詞",
+            "meaning": "面具舞会",
+            "exampleInText": "マスカレード",
+            "index": 187,
+            "starttime": "0:12:04.87",
+            "endtime": "0:12:07.60"
+        },
+        {
+            "baseForm": "本番",
+            "reading": "ほんばん",
+            "pos": "名詞",
+            "meaning": "正式演出",
+            "exampleInText": "本番",
+            "index": 188,
+            "starttime": "0:12:07.60",
+            "endtime": "0:12:10.55"
+        },
+        {
+            "baseForm": "仮面",
+            "reading": "かめん",
+            "pos": "名詞",
+            "meaning": "面具",
+            "exampleInText": "仮面",
+            "index": 188,
+            "starttime": "0:12:07.60",
+            "endtime": "0:12:10.55"
+        },
+        {
+            "baseForm": "つける",
+            "reading": "つける",
+            "pos": "動詞",
+            "meaning": "佩戴",
+            "exampleInText": "つけちゃう",
+            "index": 188,
+            "starttime": "0:12:07.60",
+            "endtime": "0:12:10.55"
+        },
+        {
+            "baseForm": "レア",
+            "reading": "れあ",
+            "pos": "形容詞",
+            "meaning": "稀有的",
+            "exampleInText": "レア",
+            "index": 188,
+            "starttime": "0:12:07.60",
+            "endtime": "0:12:10.55"
+        },
+        {
+            "baseForm": "めちゃくちゃ",
+            "reading": "めちゃくちゃ",
+            "pos": "副詞",
+            "meaning": "非常，极其",
+            "exampleInText": "めちゃくちゃ",
+            "index": 189,
+            "starttime": "0:12:10.55",
+            "endtime": "0:12:12.64"
+        },
+        {
+            "baseForm": "肌",
+            "reading": "はだ",
+            "pos": "名詞",
+            "meaning": "皮肤",
+            "exampleInText": "肌",
+            "index": 189,
+            "starttime": "0:12:10.55",
+            "endtime": "0:12:12.64"
+        },
+        {
+            "baseForm": "調子",
+            "reading": "ちょうし",
+            "pos": "名詞",
+            "meaning": "状态，调子",
+            "exampleInText": "調子",
+            "index": 189,
+            "starttime": "0:12:10.55",
+            "endtime": "0:12:12.64"
+        },
+        {
+            "baseForm": "ライブ配信",
+            "reading": "ライブはいしん",
+            "pos": "名詞",
+            "meaning": "直播",
+            "exampleInText": "ライブ配信",
+            "index": 190,
+            "starttime": "0:12:14.16",
+            "endtime": "0:12:15.55"
+        },
+        {
+            "baseForm": "配信",
+            "reading": "はいしん",
+            "pos": "名詞",
+            "meaning": "发布，配信",
+            "exampleInText": "配信",
+            "index": 190,
+            "starttime": "0:12:14.16",
+            "endtime": "0:12:15.55"
+        },
+        {
+            "baseForm": "じゃなくって",
+            "reading": "じゃなくって",
+            "pos": "助動詞",
+            "meaning": "不是",
+            "exampleInText": "じゃなくって",
+            "index": 191,
+            "starttime": "0:12:15.55",
+            "endtime": "0:12:18.47"
+        },
+        {
+            "baseForm": "動画",
+            "reading": "どうが",
+            "pos": "名詞",
+            "meaning": "视频",
+            "exampleInText": "動画",
+            "index": 191,
+            "starttime": "0:12:15.55",
+            "endtime": "0:12:18.47"
+        },
+        {
+            "baseForm": "個人的",
+            "reading": "こじんてき",
+            "pos": "形容詞",
+            "meaning": "个人的",
+            "exampleInText": "個人的な",
+            "index": 192,
+            "starttime": "0:12:18.47",
+            "endtime": "0:12:21.44"
+        },
+        {
+            "baseForm": "撮影",
+            "reading": "さつえい",
+            "pos": "名詞",
+            "meaning": "拍摄",
+            "exampleInText": "撮影",
+            "index": 192,
+            "starttime": "0:12:18.47",
+            "endtime": "0:12:21.44"
+        },
+        {
+            "baseForm": "禁止",
+            "reading": "きんし",
+            "pos": "名詞",
+            "meaning": "禁止",
+            "exampleInText": "禁止",
+            "index": 192,
+            "starttime": "0:12:18.47",
+            "endtime": "0:12:21.44"
+        },
+        {
+            "baseForm": "伝える",
+            "reading": "つたえる",
+            "pos": "動詞",
+            "meaning": "传达",
+            "exampleInText": "お伝えした",
+            "index": 192,
+            "starttime": "0:12:18.47",
+            "endtime": "0:12:21.44"
+        },
+        {
+            "baseForm": "舞台裏",
+            "reading": "ぶたいうら",
+            "pos": "名詞",
+            "meaning": "舞台背后",
+            "exampleInText": "舞台裏",
+            "index": 193,
+            "starttime": "0:12:21.44",
+            "endtime": "0:12:24.56"
+        },
+        {
+            "baseForm": "撮る",
+            "reading": "とる",
+            "pos": "動詞",
+            "meaning": "拍摄",
+            "exampleInText": "撮って",
+            "index": 193,
+            "starttime": "0:12:21.44",
+            "endtime": "0:12:24.56"
+        },
+        {
+            "baseForm": "おく",
+            "reading": "おく",
+            "pos": "動詞",
+            "meaning": "放置",
+            "exampleInText": "おいた",
+            "index": 193,
+            "starttime": "0:12:21.44",
+            "endtime": "0:12:24.56"
+        },
+        {
+            "baseForm": "ほう",
+            "reading": "ほう",
+            "pos": "名詞",
+            "meaning": "方面",
+            "exampleInText": "ほう",
+            "index": 193,
+            "starttime": "0:12:21.44",
+            "endtime": "0:12:24.56"
+        },
+        {
+            "baseForm": "後悔",
+            "reading": "こうかい",
+            "pos": "名詞",
+            "meaning": "后悔",
+            "exampleInText": "後悔",
+            "index": 194,
+            "starttime": "0:12:24.56",
+            "endtime": "0:12:25.68"
+        },
+        {
+            "baseForm": "必要",
+            "reading": "ひつよう",
+            "pos": "名詞",
+            "meaning": "必要",
+            "exampleInText": "必要",
+            "index": 195,
+            "starttime": "0:12:25.68",
+            "endtime": "0:12:26.85"
+        },
+        {
+            "baseForm": "素顔",
+            "reading": "すがお",
+            "pos": "名詞",
+            "meaning": "素颜",
+            "exampleInText": "素顔",
+            "index": 196,
+            "starttime": "0:12:27.70",
+            "endtime": "0:12:30.91"
+        },
+        {
+            "baseForm": "さらす",
+            "reading": "さらす",
+            "pos": "動詞",
+            "meaning": "暴露",
+            "exampleInText": "さらせば",
+            "index": 196,
+            "starttime": "0:12:27.70",
+            "endtime": "0:12:30.91"
+        },
+        {
+            "baseForm": "壊れる",
+            "reading": "こわれる",
+            "pos": "動詞",
+            "meaning": "破坏",
+            "exampleInText": "壊れます",
+            "index": 196,
+            "starttime": "0:12:27.70",
+            "endtime": "0:12:30.91"
+        },
+        {
+            "baseForm": "世界観",
+            "reading": "せかいかん",
+            "pos": "名詞",
+            "meaning": "世界观",
+            "exampleInText": "世界観",
+            "index": 196,
+            "starttime": "0:12:27.70",
+            "endtime": "0:12:30.91"
+        },
+        {
+            "baseForm": "Ave Mujica",
+            "reading": "Ave Mujica",
+            "pos": "名詞",
+            "meaning": "Ave Mujica（专有名词）",
+            "exampleInText": "Ave Mujica",
+            "index": 196,
+            "starttime": "0:12:27.70",
+            "endtime": "0:12:30.91"
+        },
+        {
+            "baseForm": "舞台",
+            "reading": "ぶたい",
+            "pos": "名詞",
+            "meaning": "舞台",
+            "exampleInText": "舞台",
+            "index": 197,
+            "starttime": "0:12:31.26",
+            "endtime": "0:12:33.82"
+        },
+        {
+            "baseForm": "上",
+            "reading": "うえ",
+            "pos": "名詞",
+            "meaning": "上面",
+            "exampleInText": "上",
+            "index": 197,
+            "starttime": "0:12:31.26",
+            "endtime": "0:12:33.82"
+        },
+        {
+            "baseForm": "アモーリス",
+            "reading": "あもーりす",
+            "pos": "名詞",
+            "meaning": "阿莫里斯（人名）",
+            "exampleInText": "アモーリス",
+            "index": 197,
+            "starttime": "0:12:31.26",
+            "endtime": "0:12:33.82"
+        },
+        {
+            "baseForm": "ねえ",
+            "reading": "ねえ",
+            "pos": "感動詞",
+            "meaning": "喂（引起注意）",
+            "exampleInText": "ねえ",
+            "index": 198,
+            "starttime": "0:12:34.17",
+            "endtime": "0:12:36.70"
+        },
+        {
+            "baseForm": "オブリビオニス",
+            "reading": "おぶりびおにす",
+            "pos": "名詞",
+            "meaning": "奥布里维奥尼斯（人名）",
+            "exampleInText": "オブリビオニス",
+            "index": 199,
+            "starttime": "0:12:37.38",
+            "endtime": "0:12:39.50"
+        },
+        {
+            "baseForm": "愛",
+            "reading": "あい",
+            "pos": "名詞",
+            "meaning": "爱",
+            "exampleInText": "愛",
+            "index": 200,
+            "starttime": "0:12:39.50",
+            "endtime": "0:12:43.08"
+        },
+        {
+            "baseForm": "意味",
+            "reading": "いみ",
+            "pos": "名詞",
+            "meaning": "意义",
+            "exampleInText": "意味",
+            "index": 200,
+            "starttime": "0:12:39.50",
+            "endtime": "0:12:43.08"
+        },
+        {
+            "baseForm": "付ける",
+            "reading": "つける",
+            "pos": "動詞",
+            "meaning": "给予，附上",
+            "exampleInText": "付けた",
+            "index": 200,
+            "starttime": "0:12:39.50",
+            "endtime": "0:12:43.08"
+        },
+        {
+            "baseForm": "先ほど",
+            "reading": "さきほど",
+            "pos": "副詞",
+            "meaning": "刚才",
+            "exampleInText": "先ほど",
+            "index": 202,
+            "starttime": "0:12:44.79",
+            "endtime": "0:12:47.09"
+        },
+        {
+            "baseForm": "消す",
+            "reading": "けす",
+            "pos": "動詞",
+            "meaning": "删除",
+            "exampleInText": "消して",
+            "index": 202,
+            "starttime": "0:12:44.79",
+            "endtime": "0:12:47.09"
+        },
+        {
+            "baseForm": "いただく",
+            "reading": "いただく",
+            "pos": "動詞",
+            "meaning": "接受（谦逊语）",
+            "exampleInText": "いただけますか",
+            "index": 202,
+            "starttime": "0:12:44.79",
+            "endtime": "0:12:47.09"
+        },
+        {
+            "baseForm": "返す",
+            "reading": "かえす",
+            "pos": "動詞",
+            "meaning": "返回，回赠",
+            "exampleInText": "お返し",
+            "index": 203,
+            "starttime": "0:12:47.09",
+            "endtime": "0:12:49.00"
+        },
+        {
+            "baseForm": "できる",
+            "reading": "できる",
+            "pos": "動詞",
+            "meaning": "能够，可以",
+            "exampleInText": "できません",
+            "index": 203,
+            "starttime": "0:12:47.09",
+            "endtime": "0:12:49.00"
+        },
+        {
+            "baseForm": "分かる",
+            "reading": "わかる",
+            "pos": "動詞",
+            "meaning": "明白，理解",
+            "exampleInText": "分かった",
+            "index": 204,
+            "starttime": "0:12:50.09",
+            "endtime": "0:12:51.62"
+        },
+        {
+            "baseForm": "思う",
+            "reading": "おもう",
+            "pos": "動詞",
+            "meaning": "认为，想",
+            "exampleInText": "思った",
+            "index": 205,
+            "starttime": "0:12:53.05",
+            "endtime": "0:12:56.80"
+        },
+        {
+            "baseForm": "ママ",
+            "reading": "まま",
+            "pos": "名詞",
+            "meaning": "妈妈",
+            "exampleInText": "ママ",
+            "index": 205,
+            "starttime": "0:12:53.05",
+            "endtime": "0:12:56.80"
+        },
+        {
+            "baseForm": "パパ",
+            "reading": "ぱぱ",
+            "pos": "名詞",
+            "meaning": "爸爸",
+            "exampleInText": "パパ",
+            "index": 205,
+            "starttime": "0:12:53.05",
+            "endtime": "0:12:56.80"
+        },
+        {
+            "baseForm": "絶対",
+            "reading": "ぜったい",
+            "pos": "副詞",
+            "meaning": "绝对",
+            "exampleInText": "絶対",
+            "index": 206,
+            "starttime": "0:12:56.80",
+            "endtime": "0:13:00.77"
+        },
+        {
+            "baseForm": "ご挨拶",
+            "reading": "ごあいさつ",
+            "pos": "名詞",
+            "meaning": "问候",
+            "exampleInText": "ご挨拶",
+            "index": 206,
+            "starttime": "0:12:56.80",
+            "endtime": "0:13:00.77"
+        },
+        {
+            "baseForm": "今度",
+            "reading": "こんど",
+            "pos": "名詞",
+            "meaning": "下次",
+            "exampleInText": "今度",
+            "index": 206,
+            "starttime": "0:12:56.80",
+            "endtime": "0:13:00.77"
+        },
+        {
+            "baseForm": "遊ぶ",
+            "reading": "あそぶ",
+            "pos": "動詞",
+            "meaning": "玩",
+            "exampleInText": "遊びに行って",
+            "index": 206,
+            "starttime": "0:12:56.80",
+            "endtime": "0:13:00.77"
+        },
+        {
+            "baseForm": "いい",
+            "reading": "いい",
+            "pos": "形容詞",
+            "meaning": "好",
+            "exampleInText": "いい",
+            "index": 206,
+            "starttime": "0:12:56.80",
+            "endtime": "0:13:00.77"
+        },
+        {
+            "baseForm": "ムーコ",
+            "reading": "むーこ",
+            "pos": "名詞",
+            "meaning": "穆可（人名）",
+            "exampleInText": "ムーコ",
+            "index": 207,
+            "starttime": "0:13:01.92",
+            "endtime": "0:13:04.28"
+        },
+        {
+            "baseForm": "にゃむ",
+            "reading": "にゃむ",
+            "pos": "名詞",
+            "meaning": "喵（拟声词）",
+            "exampleInText": "にゃむちゃん",
+            "index": 208,
+            "starttime": "0:13:04.28",
+            "endtime": "0:13:08.10"
+        },
+        {
+            "baseForm": "練習",
+            "reading": "れんしゅう",
+            "pos": "名詞",
+            "meaning": "练习",
+            "exampleInText": "練習",
+            "index": 208,
+            "starttime": "0:13:04.28",
+            "endtime": "0:13:08.10"
+        },
+        {
+            "baseForm": "したい",
+            "reading": "したい",
+            "pos": "動詞",
+            "meaning": "想做",
+            "exampleInText": "したい",
+            "index": 208,
+            "starttime": "0:13:04.28",
+            "endtime": "0:13:08.10"
+        },
+        {
+            "baseForm": "付く",
+            "reading": "つく",
+            "pos": "動詞",
+            "meaning": "附着",
+            "exampleInText": "付く",
+            "index": 213,
+            "starttime": "0:13:14.60",
+            "endtime": "0:13:16.86"
+        },
+        {
+            "baseForm": "ウイコ",
+            "reading": "ういこ",
+            "pos": "名詞",
+            "meaning": "ウイコ（可能是专有名词或虚构名词）",
+            "exampleInText": "ウイコ",
+            "index": 214,
+            "starttime": "0:13:16.86",
+            "endtime": "0:13:19.18"
+        },
+        {
+            "baseForm": "ムーコ",
+            "reading": "むーこ",
+            "pos": "名詞",
+            "meaning": "ムーコ（可能是专有名词或虚构名词）",
+            "exampleInText": "ムーコ",
+            "index": 214,
+            "starttime": "0:13:16.86",
+            "endtime": "0:13:19.18"
+        },
+        {
+            "baseForm": "ウミコ",
+            "reading": "うみこ",
+            "pos": "名詞",
+            "meaning": "ウミコ（可能是专有名词或虚构名词）",
+            "exampleInText": "ウミコ",
+            "index": 214,
+            "starttime": "0:13:16.86",
+            "endtime": "0:13:19.18"
+        },
+        {
+            "baseForm": "ニャムコ",
+            "reading": "にゃむこ",
+            "pos": "名詞",
+            "meaning": "ニャムコ（可能是专有名词或虚构名词）",
+            "exampleInText": "ニャムコ",
+            "index": 215,
+            "starttime": "0:13:20.37",
+            "endtime": "0:13:21.79"
+        },
+        {
+            "baseForm": "にゃむち",
+            "reading": "にゃむち",
+            "pos": "名詞",
+            "meaning": "にゃむち（可能是专有名词或虚构名词）",
+            "exampleInText": "にゃむち",
+            "index": 216,
+            "starttime": "0:13:22.23",
+            "endtime": "0:13:24.65"
+        },
+        {
+            "baseForm": "チ",
+            "reading": "ち",
+            "pos": "名詞",
+            "meaning": "チ（可能是专有名词或虚构名词）",
+            "exampleInText": "「チ」ですか",
+            "index": 217,
+            "starttime": "0:13:24.65",
+            "endtime": "0:13:26.04"
+        },
+        {
+            "baseForm": "本番",
+            "reading": "ほんばん",
+            "pos": "名詞",
+            "meaning": "正式场合",
+            "exampleInText": "本番",
+            "index": 218,
+            "starttime": "0:13:31.80",
+            "endtime": "0:13:34.79"
+        },
+        {
+            "baseForm": "お願う",
+            "reading": "おねがう",
+            "pos": "動詞",
+            "meaning": "请求",
+            "exampleInText": "お願いいたします",
+            "index": 218,
+            "starttime": "0:13:31.80",
+            "endtime": "0:13:34.79"
+        },
+        {
+            "baseForm": "お疲れさま",
+            "reading": "おつかれさま",
+            "pos": "名詞",
+            "meaning": "辛苦了",
+            "exampleInText": "お疲れさま",
+            "index": 220,
+            "starttime": "0:13:36.18",
+            "endtime": "0:13:38.90"
+        },
+        {
+            "baseForm": "大人",
+            "reading": "おとな",
+            "pos": "名詞",
+            "meaning": "大人",
+            "exampleInText": "大人",
+            "index": 221,
+            "starttime": "0:13:38.90",
+            "endtime": "0:13:41.00"
+        },
+        {
+            "baseForm": "任せる",
+            "reading": "まかせる",
+            "pos": "動詞",
+            "meaning": "委托",
+            "exampleInText": "任せちゃえば",
+            "index": 221,
+            "starttime": "0:13:38.90",
+            "endtime": "0:13:41.00"
+        },
+        {
+            "baseForm": "豊川",
+            "reading": "とよかわ",
+            "pos": "名詞",
+            "meaning": "丰川（人名）",
+            "exampleInText": "豊川さん",
+            "index": 222,
+            "starttime": "0:13:41.00",
+            "endtime": "0:13:44.89"
+        },
+        {
+            "baseForm": "総指揮",
+            "reading": "そうしき",
+            "pos": "名詞",
+            "meaning": "总指挥",
+            "exampleInText": "総指揮",
+            "index": 222,
+            "starttime": "0:13:41.00",
+            "endtime": "0:13:44.89"
+        },
+        {
+            "baseForm": "執る",
+            "reading": "とる",
+            "pos": "動詞",
+            "meaning": "担任，执掌",
+            "exampleInText": "執っている",
+            "index": 222,
+            "starttime": "0:13:41.00",
+            "endtime": "0:13:44.89"
+        },
+        {
+            "baseForm": "そういう",
+            "reading": "そういう",
+            "pos": "連体詞",
+            "meaning": "那样的",
+            "exampleInText": "そういう",
+            "index": 222,
+            "starttime": "0:13:41.00",
+            "endtime": "0:13:44.89"
+        },
+        {
+            "baseForm": "わけ",
+            "reading": "わけ",
+            "pos": "名詞",
+            "meaning": "理由，情况",
+            "exampleInText": "わけ",
+            "index": 222,
+            "starttime": "0:13:41.00",
+            "endtime": "0:13:44.89"
+        },
+        {
+            "baseForm": "いかない",
+            "reading": "いかない",
+            "pos": "動詞",
+            "meaning": "不能，无法",
+            "exampleInText": "いかない",
+            "index": 222,
+            "starttime": "0:13:41.00",
+            "endtime": "0:13:44.89"
+        },
+        {
+            "baseForm": "でしょう",
+            "reading": "でしょう",
+            "pos": "助動詞",
+            "meaning": "推测，应该",
+            "exampleInText": "でしょう",
+            "index": 222,
+            "starttime": "0:13:41.00",
+            "endtime": "0:13:44.89"
+        },
+        {
+            "baseForm": "皆",
+            "reading": "みんな",
+            "pos": "名詞",
+            "meaning": "大家",
+            "exampleInText": "皆さん",
+            "index": 223,
+            "starttime": "0:13:45.23",
+            "endtime": "0:13:47.24"
+        },
+        {
+            "baseForm": "こちら",
+            "reading": "こちら",
+            "pos": "名詞",
+            "meaning": "这边，这里",
+            "exampleInText": "こちら",
+            "index": 223,
+            "starttime": "0:13:45.23",
+            "endtime": "0:13:47.24"
+        },
+        {
+            "baseForm": "なく",
+            "reading": "なく",
+            "pos": "助動詞",
+            "meaning": "不，没",
+            "exampleInText": "なく",
+            "index": 223,
+            "starttime": "0:13:45.23",
+            "endtime": "0:13:47.24"
+        },
+        {
+            "baseForm": "焦り",
+            "reading": "あせり",
+            "pos": "名詞",
+            "meaning": "焦虑",
+            "exampleInText": "焦り",
+            "index": 224,
+            "starttime": "0:13:50.27",
+            "endtime": "0:13:53.84"
+        },
+        {
+            "baseForm": "全て",
+            "reading": "すべて",
+            "pos": "名詞",
+            "meaning": "全部",
+            "exampleInText": "全て",
+            "index": 224,
+            "starttime": "0:13:50.27",
+            "endtime": "0:13:53.84"
+        },
+        {
+            "baseForm": "置く",
+            "reading": "おく",
+            "pos": "動詞",
+            "meaning": "放置",
+            "exampleInText": "置いていって",
+            "index": 224,
+            "starttime": "0:13:50.27",
+            "endtime": "0:13:53.84"
+        },
+        {
+            "baseForm": "上がる",
+            "reading": "あがる",
+            "pos": "動詞",
+            "meaning": "上升",
+            "exampleInText": "上がれば",
+            "index": 225,
+            "starttime": "0:13:54.77",
+            "endtime": "0:13:59.41"
+        },
+        {
+            "baseForm": "信じる",
+            "reading": "しんじる",
+            "pos": "動詞",
+            "meaning": "相信",
+            "exampleInText": "信じられる",
+            "index": 225,
+            "starttime": "0:13:54.77",
+            "endtime": "0:13:59.41"
+        },
+        {
+            "baseForm": "我が身",
+            "reading": "わがみ",
+            "pos": "名詞",
+            "meaning": "自己",
+            "exampleInText": "我が身",
+            "index": 225,
+            "starttime": "0:13:54.77",
+            "endtime": "0:13:59.41"
+        },
+        {
+            "baseForm": "ひとつ",
+            "reading": "ひとつ",
+            "pos": "名詞",
+            "meaning": "一个",
+            "exampleInText": "ひとつ",
+            "index": 225,
+            "starttime": "0:13:54.77",
+            "endtime": "0:13:59.41"
+        },
+        {
+            "baseForm": "楽しむ",
+            "reading": "たのしむ",
+            "pos": "動詞",
+            "meaning": "享受，乐趣",
+            "exampleInText": "楽しみましょう",
+            "index": 226,
+            "starttime": "0:14:00.53",
+            "endtime": "0:14:04.07"
+        },
+        {
+            "baseForm": "きれい事",
+            "reading": "きれいごと",
+            "pos": "名詞",
+            "meaning": "美好的话，空话",
+            "exampleInText": "きれい事",
+            "index": 226,
+            "starttime": "0:14:00.53",
+            "endtime": "0:14:04.07"
+        },
+        {
+            "baseForm": "申しません",
+            "reading": "もうしません",
+            "pos": "動詞",
+            "meaning": "不说，拒绝",
+            "exampleInText": "申しません",
+            "index": 226,
+            "starttime": "0:14:00.53",
+            "endtime": "0:14:04.07"
+        },
+        {
+            "baseForm": "私たち",
+            "reading": "わたしたち",
+            "pos": "名詞",
+            "meaning": "我们",
+            "exampleInText": "私たち",
+            "index": 227,
+            "starttime": "0:14:04.42",
+            "endtime": "0:14:07.70"
+        },
+        {
+            "baseForm": "所詮",
+            "reading": "しょせん",
+            "pos": "副詞",
+            "meaning": "归根结底，毕竟",
+            "exampleInText": "所詮",
+            "index": 227,
+            "starttime": "0:14:04.42",
+            "endtime": "0:14:07.70"
+        },
+        {
+            "baseForm": "同じ",
+            "reading": "おなじ",
+            "pos": "形容詞",
+            "meaning": "相同的",
+            "exampleInText": "同じ",
+            "index": 227,
+            "starttime": "0:14:04.42",
+            "endtime": "0:14:07.70"
+        },
+        {
+            "baseForm": "穴",
+            "reading": "あな",
+            "pos": "名詞",
+            "meaning": "洞，穴",
+            "exampleInText": "穴",
+            "index": 227,
+            "starttime": "0:14:04.42",
+            "endtime": "0:14:07.70"
+        },
+        {
+            "baseForm": "むじな",
+            "reading": "むじな",
+            "pos": "名詞",
+            "meaning": "狸，浣熊（比喻）",
+            "exampleInText": "むじな",
+            "index": 227,
+            "starttime": "0:14:04.42",
+            "endtime": "0:14:07.70"
+        },
+        {
+            "baseForm": "つまり",
+            "reading": "つまり",
+            "pos": "接続詞",
+            "meaning": "也就是说",
+            "exampleInText": "つまり",
+            "index": 229,
+            "starttime": "0:14:08.76",
+            "endtime": "0:14:11.08"
+        },
+        {
+            "baseForm": "共犯者",
+            "reading": "きょうはんしゃ",
+            "pos": "名詞",
+            "meaning": "共犯者",
+            "exampleInText": "共犯者",
+            "index": 229,
+            "starttime": "0:14:08.76",
+            "endtime": "0:14:11.08"
+        },
+        {
+            "baseForm": "いった",
+            "reading": "いった",
+            "pos": "動詞",
+            "meaning": "说，讲",
+            "exampleInText": "いった",
+            "index": 229,
+            "starttime": "0:14:08.76",
+            "endtime": "0:14:11.08"
+        },
+        {
+            "baseForm": "ところ",
+            "reading": "ところ",
+            "pos": "名詞",
+            "meaning": "地方，场所",
+            "exampleInText": "ところ",
+            "index": 229,
+            "starttime": "0:14:08.76",
+            "endtime": "0:14:11.08"
+        },
+        {
+            "baseForm": "でしょう",
+            "reading": "でしょう",
+            "pos": "助動詞",
+            "meaning": "推测，可能",
+            "exampleInText": "でしょう",
+            "index": 229,
+            "starttime": "0:14:08.76",
+            "endtime": "0:14:11.08"
+        },
+        {
+            "baseForm": "ヤバ",
+            "reading": "やば",
+            "pos": "形容詞",
+            "meaning": "糟糕，危险",
+            "exampleInText": "ヤバ～",
+            "index": 230,
+            "starttime": "0:14:11.72",
+            "endtime": "0:14:12.92"
+        },
+        {
+            "baseForm": "まいりましょう",
+            "reading": "まいりましょう",
+            "pos": "動詞",
+            "meaning": "去，前往",
+            "exampleInText": "まいりましょう",
+            "index": 231,
+            "starttime": "0:14:14.01",
+            "endtime": "0:14:15.19"
+        },
+        {
+            "baseForm": "Ave",
+            "reading": "アヴェ",
+            "pos": "名詞",
+            "meaning": "万岁（拉丁语）",
+            "exampleInText": "Ave",
+            "index": 232,
+            "starttime": "0:14:17.97",
+            "endtime": "0:14:19.59"
+        },
+        {
+            "baseForm": "Mujica",
+            "reading": "ムヒカ",
+            "pos": "名詞",
+            "meaning": "穆希卡（人名）",
+            "exampleInText": "Mujica",
+            "index": 232,
+            "starttime": "0:14:17.97",
+            "endtime": "0:14:19.59"
+        },
+        {
+            "baseForm": "歌",
+            "reading": "うた",
+            "pos": "名詞",
+            "meaning": "歌",
+            "exampleInText": "お歌",
+            "index": 237,
+            "starttime": "0:14:43.95",
+            "endtime": "0:14:45.85"
+        },
+        {
+            "baseForm": "上手",
+            "reading": "じょうず",
+            "pos": "形容詞",
+            "meaning": "擅长的",
+            "exampleInText": "上手ね",
+            "index": 237,
+            "starttime": "0:14:43.95",
+            "endtime": "0:14:45.85"
+        },
+        {
+            "baseForm": "僕",
+            "reading": "ぼく",
+            "pos": "名詞",
+            "meaning": "我（男性用语）",
+            "exampleInText": "僕",
+            "index": 239,
+            "starttime": "0:14:47.45",
+            "endtime": "0:14:49.73"
+        },
+        {
+            "baseForm": "友達",
+            "reading": "ともだち",
+            "pos": "名詞",
+            "meaning": "朋友",
+            "exampleInText": "友達",
+            "index": 239,
+            "starttime": "0:14:47.45",
+            "endtime": "0:14:49.73"
+        },
+        {
+            "baseForm": "好き",
+            "reading": "すき",
+            "pos": "形容詞",
+            "meaning": "喜欢",
+            "exampleInText": "好きな",
+            "index": 239,
+            "starttime": "0:14:47.45",
+            "endtime": "0:14:49.73"
+        },
+        {
+            "baseForm": "お姉さま",
+            "reading": "おねえさま",
+            "pos": "名詞",
+            "meaning": "姐姐（尊称）",
+            "exampleInText": "お姉さま",
+            "index": 241,
+            "starttime": "0:14:53.79",
+            "endtime": "0:14:54.71"
+        },
+        {
+            "baseForm": "いけない",
+            "reading": "いけない",
+            "pos": "形容詞",
+            "meaning": "不可以",
+            "exampleInText": "いけない",
+            "index": 242,
+            "starttime": "0:14:54.71",
+            "endtime": "0:14:56.58"
+        },
+        {
+            "baseForm": "月",
+            "reading": "つき",
+            "pos": "名詞",
+            "meaning": "月亮",
+            "exampleInText": "月",
+            "index": 242,
+            "starttime": "0:14:54.71",
+            "endtime": "0:14:56.58"
+        },
+        {
+            "baseForm": "おや",
+            "reading": "おや",
+            "pos": "感動詞",
+            "meaning": "哦，哎呀",
+            "exampleInText": "おや",
+            "index": 245,
+            "starttime": "0:15:19.51",
+            "endtime": "0:15:22.32"
+        },
+        {
+            "baseForm": "新入り",
+            "reading": "しんいり",
+            "pos": "名詞",
+            "meaning": "新来者",
+            "exampleInText": "新入り",
+            "index": 245,
+            "starttime": "0:15:19.51",
+            "endtime": "0:15:22.32"
+        },
+        {
+            "baseForm": "また",
+            "reading": "また",
+            "pos": "副詞",
+            "meaning": "又，再",
+            "exampleInText": "また",
+            "index": 245,
+            "starttime": "0:15:19.51",
+            "endtime": "0:15:22.32"
+        },
+        {
+            "baseForm": "間",
+            "reading": "あいだ",
+            "pos": "名詞",
+            "meaning": "之间",
+            "exampleInText": "人間",
+            "index": 246,
+            "starttime": "0:15:25.62",
+            "endtime": "0:15:28.59"
+        },
+        {
+            "baseForm": "におい",
+            "reading": "におい",
+            "pos": "名詞",
+            "meaning": "气味",
+            "exampleInText": "におい",
+            "index": 246,
+            "starttime": "0:15:25.62",
+            "endtime": "0:15:28.59"
+        },
+        {
+            "baseForm": "つく",
+            "reading": "つく",
+            "pos": "動詞",
+            "meaning": "附着",
+            "exampleInText": "ついています",
+            "index": 246,
+            "starttime": "0:15:25.62",
+            "endtime": "0:15:28.59"
+        },
+        {
+            "baseForm": "まだ",
+            "reading": "まだ",
+            "pos": "副詞",
+            "meaning": "还",
+            "exampleInText": "まだ",
+            "index": 246,
+            "starttime": "0:15:25.62",
+            "endtime": "0:15:28.59"
+        },
+        {
+            "baseForm": "かすか",
+            "reading": "かすか",
+            "pos": "形容詞",
+            "meaning": "微弱的",
+            "exampleInText": "かすかに",
+            "index": 246,
+            "starttime": "0:15:25.62",
+            "endtime": "0:15:28.59"
+        },
+        {
+            "baseForm": "抱きしめる",
+            "reading": "だきしめる",
+            "pos": "動詞",
+            "meaning": "拥抱",
+            "exampleInText": "抱きしめて",
+            "index": 248,
+            "starttime": "0:15:29.27",
+            "endtime": "0:15:31.74"
+        },
+        {
+            "baseForm": "眠る",
+            "reading": "ねむる",
+            "pos": "動詞",
+            "meaning": "睡觉",
+            "exampleInText": "眠った",
+            "index": 248,
+            "starttime": "0:15:29.27",
+            "endtime": "0:15:31.74"
+        },
+        {
+            "baseForm": "別",
+            "reading": "べつ",
+            "pos": "名詞",
+            "meaning": "别的",
+            "exampleInText": "別の",
+            "index": 249,
+            "starttime": "0:15:31.74",
+            "endtime": "0:15:34.04"
+        },
+        {
+            "baseForm": "誰",
+            "reading": "だれ",
+            "pos": "名詞",
+            "meaning": "谁",
+            "exampleInText": "誰か",
+            "index": 249,
+            "starttime": "0:15:31.74",
+            "endtime": "0:15:34.04"
+        },
+        {
+            "baseForm": "人間",
+            "reading": "にんげん",
+            "pos": "名詞",
+            "meaning": "人类",
+            "exampleInText": "人間",
+            "index": 250,
+            "starttime": "0:15:34.78",
+            "endtime": "0:15:36.66"
+        },
+        {
+            "baseForm": "残酷",
+            "reading": "ざんこく",
+            "pos": "形容詞",
+            "meaning": "残酷的",
+            "exampleInText": "残酷",
+            "index": 250,
+            "starttime": "0:15:34.78",
+            "endtime": "0:15:36.66"
+        },
+        {
+            "baseForm": "あげる",
+            "reading": "あげる",
+            "pos": "動詞",
+            "meaning": "给予",
+            "exampleInText": "あげよっか",
+            "index": 251,
+            "starttime": "0:15:36.66",
+            "endtime": "0:15:39.31"
+        },
+        {
+            "baseForm": "おやめなさい",
+            "reading": "おやめなさい",
+            "pos": "動詞",
+            "meaning": "停止",
+            "exampleInText": "おやめなさい",
+            "index": 252,
+            "starttime": "0:15:39.31",
+            "endtime": "0:15:40.34"
+        },
+        {
+            "baseForm": "もらい手",
+            "reading": "もらいて",
+            "pos": "名詞",
+            "meaning": "接受者",
+            "exampleInText": "もらい手",
+            "index": 255,
+            "starttime": "0:15:43.28",
+            "endtime": "0:15:44.56"
+        },
+        {
+            "baseForm": "つく",
+            "reading": "つく",
+            "pos": "動詞",
+            "meaning": "到达，附着",
+            "exampleInText": "つきません",
+            "index": 255,
+            "starttime": "0:15:43.28",
+            "endtime": "0:15:44.56"
+        },
+        {
+            "baseForm": "困る",
+            "reading": "こまる",
+            "pos": "動詞",
+            "meaning": "困扰",
+            "exampleInText": "困る",
+            "index": 256,
+            "starttime": "0:15:44.56",
+            "endtime": "0:15:46.49"
+        },
+        {
+            "baseForm": "ため",
+            "reading": "ため",
+            "pos": "名詞",
+            "meaning": "目的，原因",
+            "exampleInText": "そのため",
+            "index": 258,
+            "starttime": "0:15:47.57",
+            "endtime": "0:15:50.18"
+        },
+        {
+            "baseForm": "いらっしゃる",
+            "reading": "いらっしゃる",
+            "pos": "動詞",
+            "meaning": "来，去（尊敬语）",
+            "exampleInText": "いらした",
+            "index": 258,
+            "starttime": "0:15:47.57",
+            "endtime": "0:15:50.18"
+        },
+        {
+            "baseForm": "捨てる",
+            "reading": "すてる",
+            "pos": "動詞",
+            "meaning": "丢弃",
+            "exampleInText": "捨てられた",
+            "index": 261,
+            "starttime": "0:15:52.05",
+            "endtime": "0:15:55.48"
+        },
+        {
+            "baseForm": "人形",
+            "reading": "にんぎょう",
+            "pos": "名詞",
+            "meaning": "玩偶",
+            "exampleInText": "人形たち",
+            "index": 261,
+            "starttime": "0:15:52.05",
+            "endtime": "0:15:55.48"
+        },
+        {
+            "baseForm": "集める",
+            "reading": "あつめる",
+            "pos": "動詞",
+            "meaning": "收集",
+            "exampleInText": "集められた",
+            "index": 261,
+            "starttime": "0:15:52.05",
+            "endtime": "0:15:55.48"
+        },
+        {
+            "baseForm": "自覚",
+            "reading": "じかく",
+            "pos": "名詞",
+            "meaning": "自觉",
+            "exampleInText": "自覚",
+            "index": 263,
+            "starttime": "0:15:57.84",
+            "endtime": "0:15:59.94"
+        },
+        {
+            "baseForm": "タイプ",
+            "reading": "たいぷ",
+            "pos": "名詞",
+            "meaning": "类型",
+            "exampleInText": "タイプ",
+            "index": 263,
+            "starttime": "0:15:57.84",
+            "endtime": "0:15:59.94"
+        },
+        {
+            "baseForm": "いる",
+            "reading": "いる",
+            "pos": "動詞",
+            "meaning": "存在（有生命的）",
+            "exampleInText": "いる",
+            "index": 264,
+            "starttime": "0:15:59.94",
+            "endtime": "0:16:01.18"
+        },
+        {
+            "baseForm": "話しかける",
+            "reading": "はなしかける",
+            "pos": "動詞",
+            "meaning": "搭话",
+            "exampleInText": "話しかけられて",
+            "index": 265,
+            "starttime": "0:16:01.18",
+            "endtime": "0:16:05.69"
+        },
+        {
+            "baseForm": "自分",
+            "reading": "じぶん",
+            "pos": "名詞",
+            "meaning": "自己",
+            "exampleInText": "自分",
+            "index": 265,
+            "starttime": "0:16:01.18",
+            "endtime": "0:16:05.69"
+        },
+        {
+            "baseForm": "人形",
+            "reading": "にんぎょう",
+            "pos": "名詞",
+            "meaning": "人偶，玩偶",
+            "exampleInText": "人形",
+            "index": 266,
+            "starttime": "0:16:05.69",
+            "endtime": "0:16:07.63"
+        },
+        {
+            "baseForm": "生きる",
+            "reading": "いきる",
+            "pos": "動詞",
+            "meaning": "活着，生存",
+            "exampleInText": "生きてる",
+            "index": 267,
+            "starttime": "0:16:08.00",
+            "endtime": "0:16:11.20"
+        },
+        {
+            "baseForm": "君",
+            "reading": "きみ",
+            "pos": "名詞",
+            "meaning": "你（亲密或非正式用语）",
+            "exampleInText": "君たち",
+            "index": 267,
+            "starttime": "0:16:08.00",
+            "endtime": "0:16:11.20"
+        },
+        {
+            "baseForm": "特別",
+            "reading": "とくべつ",
+            "pos": "形容詞",
+            "meaning": "特别的",
+            "exampleInText": "特別",
+            "index": 268,
+            "starttime": "0:16:11.20",
+            "endtime": "0:16:14.08"
+        },
+        {
+            "baseForm": "今宵",
+            "reading": "こよい",
+            "pos": "名詞",
+            "meaning": "今晚",
+            "exampleInText": "今宵",
+            "index": 268,
+            "starttime": "0:16:11.20",
+            "endtime": "0:16:14.08"
+        },
+        {
+            "baseForm": "ようこそ",
+            "reading": "ようこそ",
+            "pos": "感動詞",
+            "meaning": "欢迎",
+            "exampleInText": "ようこそ",
+            "index": 269,
+            "starttime": "0:16:17.96",
+            "endtime": "0:16:20.25"
+        },
+        {
+            "baseForm": "ロフトムーン",
+            "reading": "ろふとむーん",
+            "pos": "名詞",
+            "meaning": "洛夫特月（专有名词）",
+            "exampleInText": "ロフトムーン",
+            "index": 269,
+            "starttime": "0:16:17.96",
+            "endtime": "0:16:20.25"
+        },
+        {
+            "baseForm": "月",
+            "reading": "つき",
+            "pos": "名詞",
+            "meaning": "月",
+            "exampleInText": "この月",
+            "index": 270,
+            "starttime": "0:16:21.13",
+            "endtime": "0:16:25.88"
+        },
+        {
+            "baseForm": "光",
+            "reading": "ひかり",
+            "pos": "名詞",
+            "meaning": "光",
+            "exampleInText": "光で",
+            "index": 270,
+            "starttime": "0:16:21.13",
+            "endtime": "0:16:25.88"
+        },
+        {
+            "baseForm": "かりそめ",
+            "reading": "かりそめ",
+            "pos": "名詞",
+            "meaning": "暂时",
+            "exampleInText": "かりそめの",
+            "index": 270,
+            "starttime": "0:16:21.13",
+            "endtime": "0:16:25.88"
+        },
+        {
+            "baseForm": "命",
+            "reading": "いのち",
+            "pos": "名詞",
+            "meaning": "生命",
+            "exampleInText": "命を",
+            "index": 270,
+            "starttime": "0:16:21.13",
+            "endtime": "0:16:25.88"
+        },
+        {
+            "baseForm": "宿す",
+            "reading": "やどす",
+            "pos": "動詞",
+            "meaning": "寄宿，怀有",
+            "exampleInText": "宿している",
+            "index": 270,
+            "starttime": "0:16:21.13",
+            "endtime": "0:16:25.88"
+        },
+        {
+            "baseForm": "覚える",
+            "reading": "おぼえる",
+            "pos": "動詞",
+            "meaning": "记住，记得",
+            "exampleInText": "覚えていない",
+            "index": 274,
+            "starttime": "0:16:32.91",
+            "endtime": "0:16:34.00"
+        },
+        {
+            "baseForm": "元",
+            "reading": "もと",
+            "pos": "名詞",
+            "meaning": "原本，前任",
+            "exampleInText": "元の",
+            "index": 275,
+            "starttime": "0:16:35.74",
+            "endtime": "0:16:37.70"
+        },
+        {
+            "baseForm": "持ち主",
+            "reading": "もちぬし",
+            "pos": "名詞",
+            "meaning": "所有者",
+            "exampleInText": "持ち主",
+            "index": 275,
+            "starttime": "0:16:35.74",
+            "endtime": "0:16:37.70"
+        },
+        {
+            "baseForm": "長い",
+            "reading": "ながい",
+            "pos": "形容詞",
+            "meaning": "长的",
+            "exampleInText": "長い",
+            "index": 277,
+            "starttime": "0:16:41.77",
+            "endtime": "0:16:45.94"
+        },
+        {
+            "baseForm": "間",
+            "reading": "あいだ",
+            "pos": "名詞",
+            "meaning": "期间，时间",
+            "exampleInText": "間",
+            "index": 277,
+            "starttime": "0:16:41.77",
+            "endtime": "0:16:45.94"
+        },
+        {
+            "baseForm": "呼ぶ",
+            "reading": "よぶ",
+            "pos": "動詞",
+            "meaning": "呼叫",
+            "exampleInText": "呼んでもらえて",
+            "index": 277,
+            "starttime": "0:16:41.77",
+            "endtime": "0:16:45.94"
+        },
+        {
+            "baseForm": "よう",
+            "reading": "よう",
+            "pos": "助動詞",
+            "meaning": "样子，似乎",
+            "exampleInText": "よう",
+            "index": 277,
+            "starttime": "0:16:41.77",
+            "endtime": "0:16:45.94"
+        },
+        {
+            "baseForm": "ムリ",
+            "reading": "むり",
+            "pos": "名詞",
+            "meaning": "不可能，勉强",
+            "exampleInText": "ムリ",
+            "index": 278,
+            "starttime": "0:16:45.94",
+            "endtime": "0:16:48.38"
+        },
+        {
+            "baseForm": "思い出す",
+            "reading": "おもいだす",
+            "pos": "動詞",
+            "meaning": "想起，回忆",
+            "exampleInText": "思い出さない",
+            "index": 278,
+            "starttime": "0:16:45.94",
+            "endtime": "0:16:48.38"
+        },
+        {
+            "baseForm": "ほう",
+            "reading": "ほう",
+            "pos": "名詞",
+            "meaning": "方面，方法",
+            "exampleInText": "ほう",
+            "index": 278,
+            "starttime": "0:16:45.94",
+            "endtime": "0:16:48.38"
+        },
+        {
+            "baseForm": "よろしく",
+            "reading": "よろしく",
+            "pos": "形容詞",
+            "meaning": "好的，合适的",
+            "exampleInText": "よろしくて",
+            "index": 278,
+            "starttime": "0:16:45.94",
+            "endtime": "0:16:48.38"
+        },
+        {
+            "baseForm": "呪い",
+            "reading": "のろい",
+            "pos": "名詞",
+            "meaning": "诅咒",
+            "exampleInText": "呪い",
+            "index": 279,
+            "starttime": "0:16:48.86",
+            "endtime": "0:16:50.66"
+        },
+        {
+            "baseForm": "殺す",
+            "reading": "ころす",
+            "pos": "動詞",
+            "meaning": "杀",
+            "exampleInText": "殺して",
+            "index": 279,
+            "starttime": "0:16:48.86",
+            "endtime": "0:16:50.66"
+        },
+        {
+            "baseForm": "しまう",
+            "reading": "しまう",
+            "pos": "動詞",
+            "meaning": "结束，完结",
+            "exampleInText": "しまう",
+            "index": 279,
+            "starttime": "0:16:48.86",
+            "endtime": "0:16:50.66"
+        },
+        {
+            "baseForm": "しない",
+            "reading": "しない",
+            "pos": "動詞",
+            "meaning": "不做",
+            "exampleInText": "しない",
+            "index": 281,
+            "starttime": "0:16:51.78",
+            "endtime": "0:16:53.34"
+        },
+        {
+            "baseForm": "限らない",
+            "reading": "かぎらない",
+            "pos": "動詞",
+            "meaning": "不一定",
+            "exampleInText": "限らない",
+            "index": 281,
+            "starttime": "0:16:51.78",
+            "endtime": "0:16:53.34"
+        },
+        {
+            "baseForm": "あんな",
+            "reading": "あんな",
+            "pos": "連体詞",
+            "meaning": "那样的（远指）",
+            "exampleInText": "あんな",
+            "index": 282,
+            "starttime": "0:16:53.34",
+            "endtime": "0:16:54.74"
+        },
+        {
+            "baseForm": "だった",
+            "reading": "だった",
+            "pos": "助動詞",
+            "meaning": "是（过去式）",
+            "exampleInText": "好きだった",
+            "index": 282,
+            "starttime": "0:16:53.34",
+            "endtime": "0:16:54.74"
+        },
+        {
+            "baseForm": "でも",
+            "reading": "でも",
+            "pos": "接続詞",
+            "meaning": "但是",
+            "exampleInText": "でも",
+            "index": 283,
+            "starttime": "0:16:54.74",
+            "endtime": "0:16:56.46"
+        },
+        {
+            "baseForm": "あんた",
+            "reading": "あんた",
+            "pos": "代名詞",
+            "meaning": "你",
+            "exampleInText": "あんた",
+            "index": 283,
+            "starttime": "0:16:54.74",
+            "endtime": "0:16:56.46"
+        },
+        {
+            "baseForm": "人形",
+            "reading": "にんぎょう",
+            "pos": "名詞",
+            "meaning": "人偶",
+            "exampleInText": "人形",
+            "index": 284,
+            "starttime": "0:16:57.98",
+            "endtime": "0:17:00.54"
+        },
+        {
+            "baseForm": "死",
+            "reading": "し",
+            "pos": "名詞",
+            "meaning": "死亡",
+            "exampleInText": "死",
+            "index": 284,
+            "starttime": "0:16:57.98",
+            "endtime": "0:17:00.54"
+        },
+        {
+            "baseForm": "ご存じ",
+            "reading": "ごぞんじ",
+            "pos": "名詞",
+            "meaning": "知道（敬语）",
+            "exampleInText": "ご存じ",
+            "index": 284,
+            "starttime": "0:16:57.98",
+            "endtime": "0:17:00.54"
+        },
+        {
+            "baseForm": "捨てられる",
+            "reading": "すてられる",
+            "pos": "動詞",
+            "meaning": "被丢弃",
+            "exampleInText": "捨てられる",
+            "index": 285,
+            "starttime": "0:17:01.20",
+            "endtime": "0:17:02.79"
+        },
+        {
+            "baseForm": "火あぶり",
+            "reading": "ひあぶり",
+            "pos": "名詞",
+            "meaning": "火刑",
+            "exampleInText": "火あぶり",
+            "index": 286,
+            "starttime": "0:17:02.79",
+            "endtime": "0:17:03.85"
+        },
+        {
+            "baseForm": "魔女",
+            "reading": "まじょ",
+            "pos": "名詞",
+            "meaning": "女巫",
+            "exampleInText": "魔女",
+            "index": 287,
+            "starttime": "0:17:03.85",
+            "endtime": "0:17:04.96"
+        },
+        {
+            "baseForm": "愛されない",
+            "reading": "あいされない",
+            "pos": "動詞",
+            "meaning": "不被爱",
+            "exampleInText": "愛されない",
+            "index": 288,
+            "starttime": "0:17:04.96",
+            "endtime": "0:17:06.52"
+        },
+        {
+            "baseForm": "こと",
+            "reading": "こと",
+            "pos": "名詞",
+            "meaning": "事情，事物",
+            "exampleInText": "こと",
+            "index": 288,
+            "starttime": "0:17:04.96",
+            "endtime": "0:17:06.52"
+        },
+        {
+            "baseForm": "いちばん",
+            "reading": "いちばん",
+            "pos": "副詞",
+            "meaning": "最，第一",
+            "exampleInText": "いちばん",
+            "index": 290,
+            "starttime": "0:17:09.09",
+            "endtime": "0:17:10.94"
+        },
+        {
+            "baseForm": "つらい",
+            "reading": "つらい",
+            "pos": "形容詞",
+            "meaning": "痛苦的",
+            "exampleInText": "つらい",
+            "index": 290,
+            "starttime": "0:17:09.09",
+            "endtime": "0:17:10.94"
+        },
+        {
+            "baseForm": "忘却",
+            "reading": "ぼうきゃく",
+            "pos": "名詞",
+            "meaning": "遗忘",
+            "exampleInText": "忘却",
+            "index": 291,
+            "starttime": "0:17:12.28",
+            "endtime": "0:17:13.54"
+        },
+        {
+            "baseForm": "たち",
+            "reading": "たち",
+            "pos": "接尾辞",
+            "meaning": "们（复数）",
+            "exampleInText": "僕たち",
+            "index": 293,
+            "starttime": "0:17:18.86",
+            "endtime": "0:17:21.31"
+        },
+        {
+            "baseForm": "墓場",
+            "reading": "はかば",
+            "pos": "名詞",
+            "meaning": "墓地",
+            "exampleInText": "墓場",
+            "index": 293,
+            "starttime": "0:17:18.86",
+            "endtime": "0:17:21.31"
+        },
+        {
+            "baseForm": "私",
+            "reading": "わたし",
+            "pos": "名詞",
+            "meaning": "我（女性用语）",
+            "exampleInText": "私たち",
+            "index": 295,
+            "starttime": "0:17:24.52",
+            "endtime": "0:17:27.52"
+        },
+        {
+            "baseForm": "復活",
+            "reading": "ふっかつ",
+            "pos": "名詞",
+            "meaning": "复活",
+            "exampleInText": "復活",
+            "index": 296,
+            "starttime": "0:17:28.32",
+            "endtime": "0:17:31.72"
+        },
+        {
+            "baseForm": "復権",
+            "reading": "ふっけん",
+            "pos": "名詞",
+            "meaning": "复权",
+            "exampleInText": "復権",
+            "index": 296,
+            "starttime": "0:17:28.32",
+            "endtime": "0:17:31.72"
+        },
+        {
+            "baseForm": "時",
+            "reading": "とき",
+            "pos": "名詞",
+            "meaning": "时刻",
+            "exampleInText": "時",
+            "index": 296,
+            "starttime": "0:17:28.32",
+            "endtime": "0:17:31.72"
+        },
+        {
+            "baseForm": "新しい",
+            "reading": "あたらしい",
+            "pos": "形容詞",
+            "meaning": "新的",
+            "exampleInText": "新しい",
+            "index": 297,
+            "starttime": "0:17:31.99",
+            "endtime": "0:17:35.61"
+        },
+        {
+            "baseForm": "祝福",
+            "reading": "しゅくふく",
+            "pos": "名詞",
+            "meaning": "祝福",
+            "exampleInText": "祝福",
+            "index": 297,
+            "starttime": "0:17:31.99",
+            "endtime": "0:17:35.61"
+        },
+        {
+            "baseForm": "マスカレード",
+            "reading": "ますかれーど",
+            "pos": "名詞",
+            "meaning": "化妆舞会",
+            "exampleInText": "マスカレード",
+            "index": 298,
+            "starttime": "0:17:37.04",
+            "endtime": "0:17:41.47"
+        },
+        {
+            "baseForm": "名",
+            "reading": "な",
+            "pos": "名詞",
+            "meaning": "名字",
+            "exampleInText": "名",
+            "index": 298,
+            "starttime": "0:17:37.04",
+            "endtime": "0:17:41.47"
+        },
+        {
+            "baseForm": "与える",
+            "reading": "あたえる",
+            "pos": "動詞",
+            "meaning": "给予",
+            "exampleInText": "与えましょう",
+            "index": 298,
+            "starttime": "0:17:37.04",
+            "endtime": "0:17:41.47"
+        },
+        {
+            "baseForm": "我",
+            "reading": "われ",
+            "pos": "名詞",
+            "meaning": "我",
+            "exampleInText": "我",
+            "index": 300,
+            "starttime": "0:17:43.18",
+            "endtime": "0:17:45.54"
+        },
+        {
+            "baseForm": "恐れる",
+            "reading": "おそれる",
+            "pos": "動詞",
+            "meaning": "害怕",
+            "exampleInText": "恐れる",
+            "index": 300,
+            "starttime": "0:17:43.18",
+            "endtime": "0:17:45.54"
+        },
+        {
+            "baseForm": "なかれ",
+            "reading": "なかれ",
+            "pos": "助動詞",
+            "meaning": "不要",
+            "exampleInText": "なかれ",
+            "index": 300,
+            "starttime": "0:17:43.18",
+            "endtime": "0:17:45.54"
+        },
+        {
+            "baseForm": "ティモリス",
+            "reading": "てぃもりす",
+            "pos": "名詞",
+            "meaning": "蒂莫里斯（人名）",
+            "exampleInText": "ティモリス",
+            "index": 301,
+            "starttime": "0:17:45.88",
+            "endtime": "0:17:46.89"
+        },
+        {
+            "baseForm": "悲しみ",
+            "reading": "かなしみ",
+            "pos": "名詞",
+            "meaning": "悲伤",
+            "exampleInText": "悲しみ",
+            "index": 308,
+            "starttime": "0:18:02.88",
+            "endtime": "0:18:05.72"
+        },
+        {
+            "baseForm": "トレンド",
+            "reading": "とれんど",
+            "pos": "名詞",
+            "meaning": "趋势",
+            "exampleInText": "トレンド",
+            "index": 309,
+            "starttime": "0:22:30.86",
+            "endtime": "0:22:33.95"
+        },
+        {
+            "baseForm": "閲覧",
+            "reading": "えつらん",
+            "pos": "名詞",
+            "meaning": "浏览",
+            "exampleInText": "閲覧",
+            "index": 310,
+            "starttime": "0:22:33.95",
+            "endtime": "0:22:35.79"
+        },
+        {
+            "baseForm": "ランキング",
+            "reading": "ランキング",
+            "pos": "名詞",
+            "meaning": "排名",
+            "exampleInText": "ランキング",
+            "index": 310,
+            "starttime": "0:22:33.95",
+            "endtime": "0:22:35.79"
+        },
+        {
+            "baseForm": "位",
+            "reading": "い",
+            "pos": "名詞",
+            "meaning": "位，名次",
+            "exampleInText": "1位",
+            "index": 310,
+            "starttime": "0:22:33.95",
+            "endtime": "0:22:35.79"
+        },
+        {
+            "baseForm": "事務所",
+            "reading": "じむしょ",
+            "pos": "名詞",
+            "meaning": "事务所",
+            "exampleInText": "事務所",
+            "index": 312,
+            "starttime": "0:22:37.05",
+            "endtime": "0:22:40.08"
+        },
+        {
+            "baseForm": "褒める",
+            "reading": "ほめる",
+            "pos": "動詞",
+            "meaning": "赞美",
+            "exampleInText": "褒めてた",
+            "index": 312,
+            "starttime": "0:22:37.05",
+            "endtime": "0:22:40.08"
+        },
+        {
+            "baseForm": "そう",
+            "reading": "そう",
+            "pos": "副詞",
+            "meaning": "是这样",
+            "exampleInText": "そう",
+            "index": 313,
+            "starttime": "0:22:40.08",
+            "endtime": "0:22:41.08"
+        },
+        {
+            "baseForm": "車",
+            "reading": "くるま",
+            "pos": "名詞",
+            "meaning": "车",
+            "exampleInText": "車",
+            "index": 315,
+            "starttime": "0:22:42.25",
+            "endtime": "0:22:44.28"
+        },
+        {
+            "baseForm": "用意する",
+            "reading": "よういする",
+            "pos": "動詞",
+            "meaning": "准备",
+            "exampleInText": "用意して",
+            "index": 315,
+            "starttime": "0:22:42.25",
+            "endtime": "0:22:44.28"
+        },
+        {
+            "baseForm": "乗る",
+            "reading": "のる",
+            "pos": "動詞",
+            "meaning": "乘坐",
+            "exampleInText": "乗って",
+            "index": 316,
+            "starttime": "0:22:44.28",
+            "endtime": "0:22:45.56"
+        },
+        {
+            "baseForm": "くださる",
+            "reading": "くださる",
+            "pos": "動詞",
+            "meaning": "给予（尊敬语）",
+            "exampleInText": "くださる",
+            "index": 316,
+            "starttime": "0:22:44.28",
+            "endtime": "0:22:45.56"
+        },
+        {
+            "baseForm": "着替える",
+            "reading": "きがえる",
+            "pos": "動詞",
+            "meaning": "换衣服",
+            "exampleInText": "着替えちゃった",
+            "index": 317,
+            "starttime": "0:22:45.56",
+            "endtime": "0:22:48.51"
+        },
+        {
+            "baseForm": "思う",
+            "reading": "おもう",
+            "pos": "動詞",
+            "meaning": "想",
+            "exampleInText": "思った",
+            "index": 318,
+            "starttime": "0:22:48.51",
+            "endtime": "0:22:51.05"
+        },
+        {
+            "baseForm": "少し",
+            "reading": "すこし",
+            "pos": "副詞",
+            "meaning": "稍微",
+            "exampleInText": "少し",
+            "index": 321,
+            "starttime": "0:22:55.01",
+            "endtime": "0:22:56.91"
+        },
+        {
+            "baseForm": "ほてる",
+            "reading": "ほてる",
+            "pos": "動詞",
+            "meaning": "发热",
+            "exampleInText": "ほてり",
+            "index": 321,
+            "starttime": "0:22:55.01",
+            "endtime": "0:22:56.91"
+        },
+        {
+            "baseForm": "冷ます",
+            "reading": "さます",
+            "pos": "動詞",
+            "meaning": "冷却",
+            "exampleInText": "冷ましたい",
+            "index": 321,
+            "starttime": "0:22:55.01",
+            "endtime": "0:22:56.91"
+        },
+        {
+            "baseForm": "ので",
+            "reading": "ので",
+            "pos": "接続助詞",
+            "meaning": "因为",
+            "exampleInText": "ので",
+            "index": 321,
+            "starttime": "0:22:55.01",
+            "endtime": "0:22:56.91"
+        },
+        {
+            "baseForm": "電車",
+            "reading": "でんしゃ",
+            "pos": "名詞",
+            "meaning": "电车",
+            "exampleInText": "電車",
+            "index": 322,
+            "starttime": "0:22:56.91",
+            "endtime": "0:22:58.02"
+        },
+        {
+            "baseForm": "有名人",
+            "reading": "ゆうめいじん",
+            "pos": "名詞",
+            "meaning": "名人",
+            "exampleInText": "有名人",
+            "index": 324,
+            "starttime": "0:22:59.32",
+            "endtime": "0:23:02.88"
+        },
+        {
+            "baseForm": "失礼",
+            "reading": "しつれい",
+            "pos": "名詞",
+            "meaning": "失礼",
+            "exampleInText": "失礼",
+            "index": 325,
+            "starttime": "0:23:03.42",
+            "endtime": "0:23:04.53"
+        },
+        {
+            "baseForm": "打ち上げ",
+            "reading": "うちあげ",
+            "pos": "名詞",
+            "meaning": "庆祝会，发射",
+            "exampleInText": "打ち上げ",
+            "index": 326,
+            "starttime": "0:23:04.53",
+            "endtime": "0:23:06.89"
+        },
+        {
+            "baseForm": "今度",
+            "reading": "こんど",
+            "pos": "名詞",
+            "meaning": "下次，这次",
+            "exampleInText": "今度",
+            "index": 327,
+            "starttime": "0:23:06.89",
+            "endtime": "0:23:08.64"
+        },
+        {
+            "baseForm": "しよう",
+            "reading": "しよう",
+            "pos": "動詞",
+            "meaning": "做，进行",
+            "exampleInText": "しよう",
+            "index": 327,
+            "starttime": "0:23:06.89",
+            "endtime": "0:23:08.64"
+        },
+        {
+            "baseForm": "ただいま",
+            "reading": "ただいま",
+            "pos": "副詞",
+            "meaning": "现在，刚才",
+            "exampleInText": "ただいま",
+            "index": 328,
+            "starttime": "0:23:35.17",
+            "endtime": "0:23:36.02"
+        },
+        {
+            "baseForm": "くそ",
+            "reading": "くそ",
+            "pos": "感嘆詞",
+            "meaning": "该死，混蛋",
+            "exampleInText": "くそ",
+            "index": 329,
+            "starttime": "0:23:37.27",
+            "endtime": "0:23:38.34"
+        },
+        {
+            "baseForm": "親父",
+            "reading": "おやじ",
+            "pos": "名詞",
+            "meaning": "父亲，老头",
+            "exampleInText": "親父",
+            "index": 329,
+            "starttime": "0:23:37.27",
+            "endtime": "0:23:38.34"
+        }
+    ]
+}
