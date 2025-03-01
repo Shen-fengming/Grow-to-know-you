@@ -13,7 +13,7 @@ const llmUrl = "https://api.openai.com/v1/chat/completions";
 const grammarPromptPath = "data/prompts/llmGrammarExtrator.txt";
 const wordPromptPath = "data/prompts/llmWordExtrator.txt";
 const userPromptPath = "";
-const assFilePath = "tests/data/shortAss.ass";
+const assFilePath = "tests/data/rawAss.ass";
 const validStyles = ["TextJP"];
 
 
@@ -93,25 +93,31 @@ async function groupedSubtitlesGrammarDetection(groupedSubtitles, dialogueAndTim
     for(let i = 0; i < groupedSubtitles.length; i++){
         const cleanAssLineText = groupedSubtitles[i].text;
         const groupedIndex = groupedSubtitles[i].index;
+        groupedDebug(`Grouped subtitle of ${i} :`, groupedSubtitles[i]);
+
 
         const responseInJson = await llmWordGrammarDetection(cleanAssLineText,"grammar");
         const responseContent = processJson(processChatGPTResponse(responseInJson));
-        //groupedDebug(`responseContent of ${i} :`, responseContent);
+        groupedDebug(`Response content of ${i} :`, responseContent);
 
 
-        if(responseInJson){
+        if(responseContent){
             if(responseContent.grammarPoints && Array.isArray(responseContent.grammarPoints)){
                 for(let grammar of responseContent.grammarPoints){
-                    const targetText = grammar.exampleInText.trim();
-                    const targetIndex = groupedIndex.find(subIndex => dialogueAndTime.subtitles[subIndex].trim().includes(targetText));
+                    const targetText = grammar.exampleInText.trim().replace(/\s/g, '');
+                    groupedDebug(`targetText :`, targetText);
+                    const targetIndex = groupedIndex.find(subIndex => dialogueAndTime.subtitles[subIndex].replace(/\s/g, '').includes(targetText));
+                    groupedDebug(`targetIndex :`, targetIndex);
                     const targetTime = dialogueAndTime.time[targetIndex];
-
-                    grammarPoints.push({
-                        ...grammar,
-                        index: targetIndex,
-                        starttime: targetTime.at(0),
-                        endtime: targetTime.at(1)
-                    });
+                    groupedDebug(`targetTime :`, targetTime);
+                    if(targetIndex !== undefined){
+                        grammarPoints.push({
+                            ...grammar,
+                            index: targetIndex,
+                            starttime: targetTime.at(0),
+                            endtime: targetTime.at(1)
+                        });
+                    }
                 }
             }
         }
@@ -149,13 +155,15 @@ async function groupedSubtitlesWordDetection(groupedSubtitles, dialogueAndTime){
                     const targetText = word.exampleInText.trim();
                     const targetIndex = groupedIndex.find(subIndex => dialogueAndTime.subtitles[subIndex].trim().includes(targetText));
                     const targetTime = dialogueAndTime.time[targetIndex];
-
-                    words.push({
-                        ...word,
-                        index: targetIndex,
-                        starttime: targetTime.at(0),
-                        endtime: targetTime.at(1)
-                    });
+                    if (targetIndex !== undefined) {
+                        words.push({
+                            ...word,
+                            index: targetIndex,
+                            starttime: targetTime.at(0),
+                            endtime: targetTime.at(1)
+                        });
+                    }
+                    
                 }
             }
         }
@@ -185,7 +193,7 @@ async function tryGroupedSubtitlesGrammarDetection(){
     try {
         const dialogueAndTime = extractDialogueAndTimeFromAss(assFilePath, validStyles);
         const groupedSubtitles = groupSubtitles(dialogueAndTime, 50);
-        //console.log(groupedSubtitles)
+        console.log(groupedSubtitles[13])
 
         const detectedGrammar = await groupedSubtitlesGrammarDetection(groupedSubtitles, dialogueAndTime);
         const detectedWord = await groupedSubtitlesWordDetection(groupedSubtitles, dialogueAndTime);
@@ -201,12 +209,12 @@ async function tryGroupedSubtitlesGrammarDetection(){
         const jsonData = objectToJson(combinedResult);
         groupedDebug("Final jsonData: ", jsonData);
 
-        //saveJSONToFile(jsonFilePath,jsonData);
+        saveJSONToFile(jsonFilePath,jsonData);
 
         //
 
     } catch (error) {
-        console.error("Error testing grammar detection from a ass file.")
+        console.error("Error testing grammar detection from a ass file.", error)
     }
 }
 
